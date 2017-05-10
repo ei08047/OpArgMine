@@ -1,0 +1,12 @@
+ Seguem algumas sugestões:
+ Falta introduzir o tópico de prospeção de argumentos e de que forma o opinion analysis irá ser explorada para abordar uma sub-tarefa da prospeção de argumentos (isto é, a deteção e identificação de frases opinitivas).
+ Inclui uma motivação.
+ Em vez de "this paper" substitui por algo como "this work/project/thesis".
+ "OpMine" é o nome da framework que sugeres? Se sim, sugeria que pensasses em algo mais especifico porque esse nome faz logo lembrar Opinion Mining que não é só o foco deste projecto. 
+ "We also report a preliminary exploitation of the framework, where we address polarity classification given relations between sentences and between documents and also incorporating discourse structure": esta questão de polarity classification podes colocar se achares que vais ter tempo de abordar. Contudo, não esquecer que o objectivo principal do trabalho será a detecção e identificação de frases opinativas. Não percebi foi a parte que diz "given relations between sentences and between documents and also incorporating discourse structure". Queres tentar reescrever esta parte?
+ "sentiment Graph": falta definir o que é o sentiment graph e como se encaixa com o que foi dito anteriormente.
+ As referências não estão completas (falta a conferencia e local onde foram publicadas).
+
+ Existe alguma guideline para a escrita deste abstract? Se sim, partilha connosco para percebermos melhor o que se pretende com este abstract.
+
+ O que são feature sonoras das palavras? Como se relacionam com a tarefa a abordar?

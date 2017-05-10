@@ -1,0 +1,11 @@
+PDIS report structure
+
+Introdução (é este o nome)
+Contexto, Motivação, Objectivos
+Estado da arte (escolher um nome que capte o domínio do trabalho)
+Trabalhos relacionados, tecnologias existentes, abordagens ao problema ou a problemas semelhantes
+Problema e perspetiva de solução (escolher um nome de acordo com o domínio do trabalho)
+(Secções dependem do domínio do trabalho)
+Conclusões e Trabalho Futuro
+As conclusões são do trabalho de PDIS, e devem portanto fazer o fecho deste trabalho e a previsão dos resultados a obter na dissertação.
+(Referir aqui as tarefas e incluir um diagrama de Gantt com o plano de execução previsto.)
