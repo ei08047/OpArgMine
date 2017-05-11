@@ -1,0 +1,7 @@
+“
+With the growth of the web 2.0 we have acknowledged the power of opinionated content spreading around the web which proved to shape our society.  
+The aim of opinion mining is the automatic detection of an opinionated claim, or subjectivity within a piece of natural text. This paper presents OpMine: a framework to present a set of opinion mining feature subtasks such as subjectivity detection and opinion identification and also sentiment analysis classification in the process of argumentation mining.
+The  target corpus used to train the supervised machine learning algorithms was manually annotated and is composed of Portuguese authored signature news articles.
+We also report a preliminary exploitation of the framework, where we address polarity classification given relations between sentences and between documents and also incorporating discourse structure. Furthermore an approach based on sentiment Graph is expected to be followed.  
+”
+
