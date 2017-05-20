@@ -1,0 +1,21 @@
+PDIS report structure
+
+Introdução  
+With the growth of the web 2.0 we have acknowledged the value of opinionated content spreading around the web as a chance for studing the convergence of points of view
+in the WebSphere generating both political and business inteligence.
+Opinionated claims 
+This has broaden the relation beetween AI and argumentation and given base to the study of subjectivity.
+An argument is 
+Argumentation mining is the process of extracting claims and its supporting premisses from   
+
+The aim of opinion mining is the automatic detection of an opinionated claim, or subjectivity within a piece of natural text.
+
+Contexto, Motivação, Objectivos
+This paper explores the automatic detection of opinionated claims in weblog.
+Estado da arte (escolher um nome que capte o domínio do trabalho)
+Trabalhos relacionados, tecnologias existentes, abordagens ao problema ou a problemas semelhantes
+Problema e perspetiva de solução (escolher um nome de acordo com o domínio do trabalho)
+(Secções dependem do domínio do trabalho)
+Conclusões e Trabalho Futuro
+As conclusões são do trabalho de PDIS, e devem portanto fazer o fecho deste trabalho e a previsão dos resultados a obter na dissertação.
+(Referir aqui as tarefas e incluir um diagrama de Gantt com o plano de execução previsto.)
