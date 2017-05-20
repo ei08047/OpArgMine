@@ -1,18 +1,60 @@
 PDIS report structure
 
 Introdução  
-With the growth of the web 2.0 we have acknowledged the value of opinionated content spreading around the web as a chance for studing the convergence of points of view
-in the WebSphere generating both political and business inteligence.
-Opinionated claims 
-This has broaden the relation beetween AI and argumentation and given base to the study of subjectivity.
-An argument is 
-Argumentation mining is the process of extracting claims and its supporting premisses from   
+With the growth of the web 2.0 we have acknowledged the value of opinionated content spreading around the web as a chance for studing the 
+convergence of points of view and claims in dispute in the WebSphere generating both political and business inteligence.
 
+	# Big data -> Information retrieval, web mining , text mining -> ML 
+	#NLP , linguistic, dialetic , 
+	#argumentation
+	#argumentation and its relation to ai.
+	#This has broaden the relation beetween AI and argumentation and given base to the study of subjectivity.
+
+	Opinionated claims are assertions in witch an author expresses an opinionated point of view showing some level of belief.     
+	An argument is in its essence an agregation of a claim(also refered to as conclusion) and a set of premisses supporting it, this components can be seen as elementary units of argumentation.
+	Given that claims themselfs can be used as premisses for deriving further claims, an argument can also be seen as a nested structure(tree or graph) with a qualitative 
+relation beetween its sub-components.
+	Argumentation mining is the process of extracting structured argument data from raw natural text.
+	This process presents itself as a sequence of tasks starting with identification of arguments,
+then identification of each argument internal structure i.e, the relations between components and finaly the relations between arguments as a global structure.
+
+    ##general aproaches to the problem of identification #SotA 
+	The identification task can be put as a classification problem of labelling all propositions as argumentative or not.
+	The main features beeing used to solve this classification problem are Uni-grams i.e, each word, Bigrams, Trigrams, Adverbs, Verbs, Modal auxiliary, word couples, text statistics, punctuations,
+	key words i.e, a list of word sequences indicatives of argumentation and parse features i.e, location context on a larger scope in the argumentative structure.     
+
+	#intra / inter 
+	#dependence of context
+
+#aproaches #SotA	
+	#role of machine learning in argument mining and valid alternatives (statistical regression..linguistic models ? )
+	Formulating this task as a binnary classification problem a few approaches are being used being the most trending machine learning. 
+	ML condicionaly implies that a training set is used, and given that AM with a Ml aproach require a collection of documents anotated with the features required for the task at hand.
+	
+	#value of annotated data (corpora)
+	Since this approach is relatively new and there is scarsity of such datasets in other languages than english, there is a focus on re-usability and compliance with the 
+	immergent standards in the field.
+	
+
+	## identifying opinionated claims
+	This specific task as the adicional task of classifying an argumentative claim as subjective or fact.
+	
+	##relation between opinion mining and argument mining aproach in claim detection
+	In this particular context the aim is to explore other features including those used in similar problems such as opinion mining.
+	While the general focus of OM is to understand the positioning a certain individual on a given matter by detecting the presence of sentiment in the transmited message,
+AM focus on unveiling the reasoning patterns aplied to it.
+
+	
+#similar problems
 The aim of opinion mining is the automatic detection of an opinionated claim, or subjectivity within a piece of natural text.
 
+##opinion based argument mining  
+	Given that an opinionated claim has some inherent subjectivity, the hipotesis that there might exist a correlation between sentiment detection and argumentative content, 
+	as well as commitment of belief in the claim is to be explored. #sentiment analysis #commited belief	
+
 Contexto, Motivação, Objectivos
-This paper explores the automatic detection of opinionated claims in weblog.
-Estado da arte (escolher um nome que capte o domínio do trabalho)
+This thesis aims build an argumentative framework aplied to the automatic detection of opinionated claims in the portuguese websphere in argument mining prespecctive through a machine learning approach.
+Estado da arte
 Trabalhos relacionados, tecnologias existentes, abordagens ao problema ou a problemas semelhantes
 Problema e perspetiva de solução (escolher um nome de acordo com o domínio do trabalho)
 (Secções dependem do domínio do trabalho)
