@@ -1,7 +1,5 @@
-PDIS report structure
-
-Introdução  
-With the growth of the web 2.0 we have acknowledged the value of opinionated content spreading around the web as a chance for studing the 
+ 
+ With the growth of the web 2.0 we have acknowledged the value of opinionated content spreading around the web as a chance for studing the 
 convergence of points of view and claims in dispute in the WebSphere generating both political and business inteligence.
 
 	# Big data -> Information retrieval, web mining , text mining -> ML 
@@ -35,11 +33,10 @@ then identification of each argument internal structure i.e, the relations betwe
 	Since this approach is relatively new and there is scarsity of such datasets in other languages than english, there is a focus on re-usability and compliance with the 
 	immergent standards in the field.
 	
-
 	## identifying opinionated claims
 	This specific task as the adicional task of classifying an argumentative claim as subjective or fact.
 	
-	##relation between opinion mining and argument mining aproach in claim detection
+	##relation between opinion mining and argument mining perspectives on claim detection
 	In this particular context the aim is to explore other features including those used in similar problems such as opinion mining.
 	While the general focus of OM is to understand the positioning a certain individual on a given matter by detecting the presence of sentiment in the transmited message,
 AM focus on unveiling the reasoning patterns aplied to it.
@@ -51,7 +48,8 @@ The aim of opinion mining is the automatic detection of an opinionated claim, or
 ##opinion based argument mining  
 	Given that an opinionated claim has some inherent subjectivity, the hipotesis that there might exist a correlation between sentiment detection and argumentative content, 
 	as well as commitment of belief in the claim is to be explored. #sentiment analysis #commited belief	
-
+PDIS report structure
+Introdução 
 Contexto, Motivação, Objectivos
 This thesis aims build an argumentative framework aplied to the automatic detection of opinionated claims in the portuguese websphere in argument mining prespecctive through a machine learning approach.
 Estado da arte
