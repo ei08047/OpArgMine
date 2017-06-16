@@ -32,14 +32,14 @@ Priberam QUotation Attribution Corpus -- http://labs.priberam.pt/Resources/QUAC.
  
 API do Voxx: http://voxx.sapo.pt/
 
-Sentilex -  Mário J. Silva, Paula Carvalho and Luís Sarmento (2012). 
+Sentilex -  MÃ¡rio J. Silva, Paula Carvalho and LuÃ­s Sarmento (2012). 
 "Building a Sentiment Lexicon for Social Judgement Mining".
  In Lecture Notes in Computer Science (LNCS), 
 International Conference on Computational Processing of the Portuguese Language (PROPOR),
  Springer, pp. 218-228.
 
 reuniao 16 11h
-
+https://www.research.ibm.com/haifa/dept/vst/mlta_data.shtml
 
 
 off topic
