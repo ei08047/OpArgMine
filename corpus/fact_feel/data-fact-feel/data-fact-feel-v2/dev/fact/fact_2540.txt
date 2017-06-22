@@ -1,0 +1,4 @@
+It should be noted that other exotic amino acids are also used by a few other codes (derived form the original). E.g. Selenocysteine and pyrrolysine are encoded for in many archaea and vertebrates. Archaea, however seem to be the most primitive organisms, thus these encoded amino acids must have been fixated early on.
+Thus an interesting question can be applied to an "evolving" code as posited in the above quote:
+Are these "still evolving" mRNAs, still evolving? Or did it hit an inevitable global optimum? 
+Secondly, from the article:

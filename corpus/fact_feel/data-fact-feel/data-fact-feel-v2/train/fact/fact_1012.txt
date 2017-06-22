@@ -1,0 +1,10 @@
+Thus showing in that analysis which include all possible codes (not only biosynthetically restricted codes) that the genetic code is partially optimal with regards to error minimization. It should be noted though that analysis only included a subset of the possible optimality feature of the code.
+From article 3
+The analysis above did not include other nearly optimal features of the genetic code including:
+A) The actual code is far better than other possible codes in minimizing the number of amino acids incorporated until translation is interrupted after a frameshift error occurred.
+B) The code is highly optimal for encoding arbitrary additional information, i.e., information other than the amino acid sequence in protein-coding sequences.
+Thus, two more features for which the code is close to being optimal. What is interesting about these two optimal features is that they may facilitate evolution i.e. the code is primed for the future by being optimal in allowing future incorporation of additional information.
+In article nr.4 
+The coevolution theory of the origin of the genetic code is discussed. The theory suggests that the genetic code is an imprint of the biosynthetic (biosynthetically restricted) relationships between amino acids.
+A few interesting observations can be made:
+Firstly, from the article:

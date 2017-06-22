@@ -1,0 +1,2 @@
+A fact is simply a phenomenon that is observable by any competent observer. It is not proven.
+For example, Euclid made the assumption that one and only one straight line exists between two points. This is generally considered a fact. However, two points that cannot be connected by a straight line could be discovered tomorrow, and that Euclid's first postulate would be disproven.

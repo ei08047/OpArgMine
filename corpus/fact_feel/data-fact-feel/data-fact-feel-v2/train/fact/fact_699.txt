@@ -1,0 +1,3 @@
+The original molecule had some lipolytic function, but removing some amino acids from it, in the right place, made it fit better into the substrate, and thereby greatly increased its functionality. 
+Barbarian observes:
+We thought it would take roughly a million years for bacteria to evolve enzymes capable of digesting nylon (because the compound is so different than any they were able to digest) but it took less than a century. .

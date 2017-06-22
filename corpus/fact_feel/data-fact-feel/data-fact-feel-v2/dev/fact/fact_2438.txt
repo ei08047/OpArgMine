@@ -1,0 +1,59 @@
+--------
+At first glance this statute seems to merely track the now-expired federal AW ban, and I would watch out to see if its supporters are selling it as such. It is in reality far more restrictive than the expired federal ban! I don’t know if it is being sold as merely a “common sense state enactment of the old federal ban that expired and no longer protects us,” but if it is, then here is why that argument is fraudulent: The old federal ban was far less restrictive because it defined an AW (in addition to some firearms deemed automatically an AW) as having 2 or more of the cosmetic features, while this new statute says it needs only 1 cosmetic feature. That is a significant difference which allows this proposed law to capture many more firearms than the old federal ban. It looks like the old federal ban definitions were used as a template for this new statute, but whoever wrote it decided to change it down to 1 offending cosmetic feature knowing full well it would ban far more firearms. If I were you I would let my legislator know this difference. 
+For comparison, here are the AW definitions from the old federal AW ban:
+18 U.S.C. § 921  is a listing of how terms are defined in the firearms offenses portion of the Code, and it defines a federally banned AW as follows:
+(30) The term "semiautomatic assault weapon" means -
+(A) any of the firearms, or copies or duplicates of the firearms in any caliber, known as -
+(i) Norinco, Mitchell, and Poly Technologies Avtomat Kalashnikovs (all models);
+(ii) Action Arms Israeli Military Industries UZI and Galil;
+(iii) Beretta Ar70 (SC-70);
+(iv) Colt AR-15;
+(v) Fabrique National FN/FAL, FN/LAR, and FNC;
+(vi) SWD M-10, M-11, M-11/9, and M-12;
+(vii) Steyr AUG;
+(viii) INTRATEC TEC-9, TEC-DC9 and TEC-22; and
+(ix) revolving cylinder shotguns, such as (or similar to) the Street Sweeper and Striker 12;
+(B) a semiautomatic rifle that has an ability to accept a detachable magazine and has at least 2 of -
+(i) a folding or telescoping stock;
+(ii) a pistol grip that protrudes conspicuously beneath the action of the weapon;
+(iii) a bayonet mount;
+(iv) a flash suppressor or threaded barrel designed to accommodate a flash suppressor; and
+(v) a grenade launcher;
+(C) a semiautomatic pistol that has an ability to accept a detachable magazine and has at least 2 of -
+(i) an ammunition magazine that attaches to the pistol outside of the pistol grip;
+(ii) a threaded barrel capable of accepting a barrel extender, flash suppressor, forward handgrip, or silencer;
+(iii) a shroud that is attached to, or partially or completely encircles, the barrel and that permits the shooter to hold the firearm with the nontrigger hand without being burned;
+(iv) a manufactured weight of 50 ounces or more when the pistol is unloaded; and
+(v) a semiautomatic version of an automatic firearm; and
+(D) a semiautomatic shotgun that has at least 2 of -
+(i) a folding or telescoping stock;
+(ii) a pistol grip that protrudes conspicuously beneath the action of the weapon;
+(iii) a fixed magazine capacity in excess of 5 rounds; and
+(iv) an ability to accept a detachable magazine.
+(4) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, to transport in interstate or foreign commerce any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986)
+[this being the tie-in to the NFA tax ban on machine guns]
+Note, by the way, that these definitions still exist in the US Code and have NOT been repealed or have expired.  What expired was a portion of another statute, which made it a crime to possess these weapons. For reference, that statute is 18 U.S.C. § 922  [which lists several acts committed with firearms considered to be crimes. The AW ban added the following language, which has since expired but still exists in the Code]:
+(v)(1) It shall be unlawful for a person to manufacture, transfer, or possess a semiautomatic assault weapon.
+(2) Paragraph (1) shall not apply to the possession or transfer of any semiautomatic assault weapon otherwise lawfully possessed under Federal law on the date of the enactment of this subsection.
+(3) Paragraph (1) shall not apply to -
+(A) any of the firearms, or replicas or duplicates of the firearms, specified in Appendix A to this section, as such firearms were manufactured on October 1, 1993;
+(B) any firearm that -
+(i) is manually operated by bolt, pump, lever, or slide action;
+(ii) has been rendered permanently inoperable; or
+(iii) is an antique firearm;
+(C) any semiautomatic rifle that cannot accept a detachable magazine that holds more than 5 rounds of ammunition; or
+(D) any semiautomatic shotgun that cannot hold more than 5 rounds of ammunition in a fixed or detachable magazine.
+The fact that a firearm is not listed in Appendix A shall not be construed to mean that paragraph (1) applies to such firearm. No firearm exempted by this subsection may be deleted from Appendix A so long as this subsection is in effect.
+(4) Paragraph (1) shall not apply to -
+(A) the manufacture for, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State, or a transfer to or possession by a law enforcement officer employed by such an entity for purposes of law enforcement (whether on or off duty);
+(B) the transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
+(C) the possession, by an individual who is retired from service with a law enforcement agency and is not otherwise prohibited from receiving a firearm, of a semiautomatic assault weapon transferred to the individual by the agency upon such retirement; or
+(D) the manufacture, transfer, or possession of a semiautomatic assault weapon by a licensed manufacturer or licensed importer for the purposes of testing or experimentation authorized by the Secretary.
+(w)(1) Except as provided in paragraph (2), it shall be unlawful for a person to transfer or possess a large capacity ammunition feeding device.
+(2) Paragraph (1) shall not apply to the possession or transfer of any large capacity ammunition feeding device otherwise lawfully possessed on or before the date of the enactment of this subsection.
+(3) This subsection shall not apply to -
+(A) the manufacture for, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State, or a transfer to or possession by a law enforcement officer employed by such an entity for purposes of law enforcement (whether on or off duty);
+(B) the transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
+(C) the possession, by an individual who is retired from service with a law enforcement agency and is not otherwise prohibited from receiving ammunition, of a large capacity ammunition feeding device transferred to the individual by the agency upon such retirement; or
+(D) the manufacture, transfer, or possession of any large capacity ammunition feeding device by a licensed manufacturer or licensed importer for the purposes of testing or experimentation authorized by the Secretary.
+(4) If a person charged with violating paragraph (1) asserts that paragraph (1) does not apply to such person because of paragraph (2) or (3), the Government shall have the burden of proof to show that such paragraph (1) applies to such person. The lack of a serial number as described in section 923(i) of this title shall be a presumption that the large capacity ammunition feeding device is not subject to the prohibition of possession in paragraph (1).

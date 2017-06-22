@@ -1,0 +1,4 @@
+Nope. Frame-shifts move the whole code down one step, making entirely new genes. Often, this is disastrous, but sometimes, a useful new enzyme results.
+Barbarian observes:
+It's remarkable then, how much progress we've made. You may or may not approve of the theory, but it works very well at learning more about biology.
+And, as you may have noticed, we've been very successful at interpreting the data. We've learned to do a lot of things as a result. One of the most important reasons scientists accept the theory is that it works.

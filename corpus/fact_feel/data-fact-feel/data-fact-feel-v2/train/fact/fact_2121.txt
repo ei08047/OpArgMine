@@ -1,0 +1,5 @@
+I see you're right there. The trends here cannot be simply based on the number of searches because every trend would be climbing in that case as more and more people own computers.
+I think the trend at any one point is calculated something like this - 
+(volume of trend search at given point / total search volume at given point ) 
+Here another way to compare side by side -
+http://www.google.com/trends?q=Chris...ate=all&sort=0

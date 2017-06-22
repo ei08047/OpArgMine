@@ -1,0 +1,2 @@
+Oh boy, trying to tie Bayesian statistics to the number of assumptions! Nowhere in Bayesian analysis is there a term for number of assumptions.
+Once again you are trying to tie number of assumptions to the correctness of a hypothesis. There is no such connection. It doesn't exist. In science, you only use data to evaluate hypotheses. In Bayesian analysis, each study represents more DATA, not a change in assumptions.

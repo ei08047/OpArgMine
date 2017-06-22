@@ -1,0 +1,8 @@
+Okay.
+The best succinct representation of the scientific method is probably circular:
+We make an observation about what we see.
+We form a hypothesis based on our observation.
+We perform an experiment to test the hypothesis.
+We make an observation about what we see (in the experiment).
+Rinse and repeat...
+Now add a spur: after repeated refinement and confirmation of hypotheses, a theory is devised.

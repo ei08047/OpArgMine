@@ -1,0 +1,1 @@
+That's right. It merely has the capacity to make errors which sometimes slightly improves function in a particular environment. And those tend to accumulate over time.

@@ -1,0 +1,7 @@
+The maintenance of the integrity of the code is not dependent on selection, but dependent on internal variables (feedback system) for maintaining functional integrity. Again, showing another form of optimality.
+In article 10:
+Fascinating research was conducted whereby a sundry of different unnatural amino acids with novel three and four base codons have been selectively incorporated (engineered) into proteins yielding viable organisms.
+An intriguing question arises from this research. It is easy to imagine these to arise through chance and selection (e.g. amino acids with photoaffinity) and then be incorporated into the standard code. Yet the code seems to remain stagnant. For billions of year after fixation, little evolution happened in the code. Why? 
+Did it arrive at a global optimum in a pre-existing fitness landscape, with a pre-existing fitness function?
+Finally, Article 11:
+The article cites many of the optimal properties above and concludes:

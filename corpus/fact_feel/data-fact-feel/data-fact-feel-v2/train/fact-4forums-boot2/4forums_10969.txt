@@ -1,0 +1,1 @@
+Do you want to explain what you think the problem is? You're going to see a much larger change if you start fiddling with the controls than if you were replacing bases within the protein coding sequence - a lot of those wouldn't change anything in the protein, and a lot of the changes to the protein wouldn't have a significant effect either.

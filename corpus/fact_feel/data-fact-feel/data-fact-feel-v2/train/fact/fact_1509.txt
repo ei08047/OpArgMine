@@ -1,0 +1,1 @@
+Just like in memetic algorithms, there are many paths to an endpoint. Both memetic algorithms in development and in the docking simulation converge on similar endpoints each time it is rerun. (e.g. skin in development).

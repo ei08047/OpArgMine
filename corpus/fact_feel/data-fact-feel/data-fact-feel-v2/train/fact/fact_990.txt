@@ -1,0 +1,9 @@
+NO! There are facts present that cannot possibly be true IF SS's theory is correct! That's the point. 
+OK, let's go back to basic deductive logic:
+True statements cannot have false consequences. In symbolic logic:
+If H then C
+not C
+Therefore: not H
+That is, we have hypothesis H. It has consequences C. If you find that C is either not there or that there are consequences contradictory to C, then H is false.
+Neandertals and humans are lumped in one "kind" by creationists. Elephants and mammoths are another "kind". Now, if SS's theory is true, neandertals will have the same DNA sequences as humans, because it is a matter what genes are turned on and when, not a change of genes. (This is even more pronounced because creationists insist neandertals ARE members of H. sapiens). Same for mammoths and elephants. So now we look at DNA sequences. Are they the same? NO! Neandertals and H. sapiens differ by over 3 standard deviations from variation within H. sapiens populations. So, the consequences are wrong, therefore SS's hypothesis is wrong.
+No assumptions involved. Only data.

@@ -1,0 +1,1 @@
+Actually, mutations accumulate in both populations.

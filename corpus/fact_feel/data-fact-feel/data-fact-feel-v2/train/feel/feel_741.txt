@@ -1,0 +1,1 @@
+Don't you get tired of passing of just-so statement as argument?

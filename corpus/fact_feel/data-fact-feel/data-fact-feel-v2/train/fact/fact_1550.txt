@@ -1,0 +1,1 @@
+But it's not detecting any "new" wavelength. It's just detecting a wavelength that our eyes are incapable of detecting. You can't see radio waves, so radio waves are meaningless to your eye, but they're not meaningless to your clock radio receiver.

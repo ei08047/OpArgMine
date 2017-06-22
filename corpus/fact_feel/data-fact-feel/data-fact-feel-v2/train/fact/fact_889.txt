@@ -1,0 +1,1 @@
+False. Random mutation and natural selection have been observed in the lab using bacteria; in some cases the researchers even determined exactly which mutations in the genomes produced the advantageous changes.

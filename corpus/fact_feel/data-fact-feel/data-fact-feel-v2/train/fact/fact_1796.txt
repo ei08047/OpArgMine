@@ -1,0 +1,4 @@
+Then why do you believe in it?
+Many investigators now consider nucleic acids to be much more plausible candidates for the first self-replicating molecules. The work of Watson and Crick and others has shown that proteins are formed according to the instructions coded in DNA. 
+But there is a hitch. DNA cannot do its work, including forming more DNA, without the help of catalytic proteins, or enzymes. In short, proteins cannot form without DNA, but neither can DNA form without proteins. 
+To those pondering the origin of life, it is a classic chicken-and-egg problem: Which came first, proteins or DNA?"

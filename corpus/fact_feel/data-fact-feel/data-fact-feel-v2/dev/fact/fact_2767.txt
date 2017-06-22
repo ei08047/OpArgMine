@@ -1,0 +1,2 @@
+But that doesn't help much with calculating the length of a day from actual astronomical observations. Perhaps if we told Freeofthought that the current rate of slowing of the earth is 0.005 sec/year/year. I have no doubt that Freeofthought will misunderstand that number - it is a rate. Just assume that rate has been unchanging even though it hasn't been.
+A lot of the creationists misunderstanding comes from remarks like the following.
