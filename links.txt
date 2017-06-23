@@ -3,6 +3,16 @@ acl2014 -> http://acl2014.org/acl2014/W14-21/index.html
 
 http://mpqa.cs.pitt.edu/
 
+http://www.argumentinterchange.org/academics
 
 
 
+
+Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity
+Implementing the argument web
+Laying the foundations for a World Wide Argument Web
+On_the_contribution_of_discourse_structure_to_topic_segmentation
+Exploiting_Debate_portals_for_semi-supervised_argumentation_mining_in_user_generated_web_discourse
+On_the_contribution_of_discourse_structure_to_topic_segmentation.pdf
+mining_arguments_from_19th_century_philosophical_texts_using_topic_based_modelling
+some_facets_of_argument_mining_for_opinion_analysis
