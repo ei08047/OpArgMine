@@ -9,7 +9,9 @@ http://www.argumentinterchange.org/academics
 
 
 
-Bib list 
+Bib list
+
+
 Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity
 Implementing the argument web
 Laying the foundations for a World Wide Argument Web
@@ -20,8 +22,7 @@ mining_arguments_from_19th_century_philosophical_texts_using_topic_based_modelli
 some_facets_of_argument_mining_for_opinion_analysis
 
 
-Structure
-Introdução (é este o nome)
+Introdução 
 Contexto, Motivação, Objectivos
 Estado da arte (escolher um nome que capte o domínio do trabalho)
 Trabalhos relacionados, tecnologias existentes, abordagens ao problema ou a problemas semelhantes
