@@ -1,0 +1,14 @@
+context: Overview of three different methods of extracting the argumentative structure from a piece of natural language text. 
+motivation: a more detailed argument structure while improving argument structure identification.
+objectives: techniques to apply them in combination.
+
+methods:
+linguistic features  -> DiscourseIndicators (support/ conflit)
+changes in topic being discussed
+supervised learning approach to identify the components of argumentation schemes
+
+corpora
+	Araucaria AIFDB
+	
+schemas
+	Expert Opinion and Positive Consequences

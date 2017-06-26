@@ -1,0 +1,23 @@
+ The paper presents the state-of-the-art on what resources are available to build 
+ a useful argument identification procedure, and includes a survey of work done
+ on automated argument mining tools used in artificial intelligence.
+
+REASONING 
+	Deductive Reasoning
+	Inductive Reasoning
+	Practical Reasoning
+	Abductive Reasoning
+	Causal Reasoning
+	
+SOURCE-BASED ARGUMENTS
+	Arguments from Position to Know
+	Arguments from Commitment
+	Arguments Attacking Personal Credibility
+	Arguments from General Acceptance
+
+APPLYING RULES TO CASES
+	Arguments Based on Cases
+	Defeasible Rule-Based Arguments
+	Verbal Classification Arguments
+	Chained Arguments Connecting Rules and Cases 
+	
