@@ -35,21 +35,36 @@ Opinion based argument mining
 		* [dung-1995-acceptability](https://github.com/ei08047/OpArgMine/blob/master/literature/general/legacy/dung-1995-acceptability.pdf)
 * core
 	* debates
+		* [Exploiting_Debate_portals_for_semi-supervised_argumentation_mining_in_user_generated_web_discourse](https://github.com/ei08047/OpArgMine/blob/master/literature/core/Debates/Exploiting_Debate_portals_for_semi-supervised_argumentation_mining_in_user_generated_web_discourse.pdf)
+		* [Identifying_expressions_of_opinion_in_context](https://github.com/ei08047/OpArgMine/blob/master/literature/core/Debates/Identifying_expressions_of_opinion_in_context.pdf)
+		* [Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity](https://github.com/ei08047/OpArgMine/blob/master/literature/core/Debates/Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity.pdf)
+		* [recognizingArgumentsinOnlineDiscussions](https://github.com/ei08047/OpArgMine/blob/master/literature/core/Debates/recognizingArgumentsinOnlineDiscussions.pdf)
 	* opinion
-		
-		
+		* [Opinion mining and sentiment analysis](https://github.com/ei08047/OpArgMine/blob/master/literature/core/opinion/Pang_lee_Opinion%20mining%20and%20sentiment%20analysis.pdf)
+		* [detecting_opinionated_claims_in_online_discussions](https://github.com/ei08047/OpArgMine/blob/master/literature/core/opinion/detecting_opinionated_claims_in_online_discussions.pdf)
+	* argument mining	
+		* context
+			* with
+			* without
+		* [distinguishingFactualandEmotionalArgumentationinOnlineDialogue](https://github.com/ei08047/OpArgMine/blob/master/literature/core/distinguishingFactualandEmotionalArgumentationinOnlineDialogue.pdf)
+		* [recognizingArgumentsinOnlineDiscussions](https://github.com/ei08047/OpArgMine/blob/master/literature/core/recognizingArgumentsinOnlineDiscussions.pdf)
+		* [some_facets_of_argument_mining_for_opinion_analysis](https://github.com/ei08047/OpArgMine/blob/master/literature/core/some_facets_of_argument_mining_for_opinion_analysis.pdf)
+	* [subjectivity_detection_in_spoken_and_written_conversations](https://github.com/ei08047/OpArgMine/blob/master/literature/core/subjectivity_detection_in_spoken_and_written_conversations.pdf)
+	* [andthatsafact](https://github.com/ei08047/OpArgMine/blob/master/literature/core/andthatsafact.pdf)
+* auxiliary
+	* argument vision
+		* [A Review of Argumentation for the Social SemanticWeb](https://github.com/ei08047/OpArgMine/blob/master/literature/auxiliary/argumentVision/A%20Review%20of%20Argumentation%20for%20the%20Social%20SemanticWeb.pdf) 
+		* [LayingTheFoundationsForWWAW](https://github.com/ei08047/OpArgMine/blob/master/literature/auxiliary/argumentVision/LayingTheFoundationsForWWAW.pdf)
+	
 
+##Final report
 
-
-
-Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity
-Implementing the argument web
-Laying the foundations for a World Wide Argument Web
-On_the_contribution_of_discourse_structure_to_topic_segmentation
-Exploiting_Debate_portals_for_semi-supervised_argumentation_mining_in_user_generated_web_discourse
-On_the_contribution_of_discourse_structure_to_topic_segmentation.pdf
-mining_arguments_from_19th_century_philosophical_texts_using_topic_based_modelling
-some_facets_of_argument_mining_for_opinion_analysis
+* abstract
+* summary
+* intro
+* state
+* solution
+* conclusion
 
 
 ## Learning Resources
