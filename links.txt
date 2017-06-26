@@ -1,13 +1,15 @@
+Conferences
 acl2014 -> http://acl2014.org/acl2014/W14-21/index.html
 
 
+Dataset related
 http://mpqa.cs.pitt.edu/
 https://www.research.ibm.com/haifa/dept/vst/mlta_data.shtml
 http://www.argumentinterchange.org/academics
 
 
 
-
+Bib list 
 Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity
 Implementing the argument web
 Laying the foundations for a World Wide Argument Web
@@ -18,6 +20,21 @@ mining_arguments_from_19th_century_philosophical_texts_using_topic_based_modelli
 some_facets_of_argument_mining_for_opinion_analysis
 
 
+Structure
+Introdução (é este o nome)
+Contexto, Motivação, Objectivos
+Estado da arte (escolher um nome que capte o domínio do trabalho)
+Trabalhos relacionados, tecnologias existentes, abordagens ao problema ou a problemas semelhantes
+Problema e perspetiva de solução (escolher um nome de acordo com o domínio do trabalho)
+(Secções dependem do domínio do trabalho)
+Conclusões e Trabalho Futuro
+As conclusões são do trabalho de PDIS, e devem portanto fazer o fecho deste trabalho e a previsão dos resultados a obter na dissertação.
+(Referir aqui as tarefas e incluir um diagrama de Gantt com o plano de execução previsto.)
 
 
-https://thesistips.wordpress.com/2012/03/25/how-to-write-your-introduction-abstract-and-summary/
+Abstract : https://docs.google.com/document/d/1a8H8i1YNLpWE0aSuA4CBzOe8nJm7KZAFNxVb3iWkGiA/edit
+Summary : https://docs.google.com/document/d/1PSdiYOeII2L8UvjUGzMYfecPRDXIRGfGRf7ls1V3GKY/edit#
+Introduction : https://docs.google.com/document/d/1rfTCcRx8vh66Ol7DZkl8uwH-Mp7mcl2sPyAuyCkyRzk/edit#heading=h.k5sqa2em3dq5
+State of the Art: https://docs.google.com/document/d/1LvPaXZmuKx6F2qj-5DuGzEstXcf_nQL3Nf5dWxRAGbA/edit#
+Solution: https://docs.google.com/document/d/1XVgj-rxkRpt5lngfAn4qeOCa7NKI3GsmXN89DLciOV8/edit#heading=h.v1kma4pbwjgc
+Full document :  https://www.sharelatex.com/project/593ae837e960baf436966c22
