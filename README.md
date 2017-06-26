@@ -1,6 +1,15 @@
 # OpArgMine
 Opinion based argument mining
 
+##Final report (<topic,bibliographic reference>)
+
+* abstract
+* summary
+* intro
+* [state](###state)
+* solution
+* conclusion
+
 
 ## Conferences
 [acl2014](http://acl2014.org/acl2014/W14-21/index.html)
@@ -12,6 +21,7 @@ Opinion based argument mining
 * [ibm](https://www.research.ibm.com/haifa/dept/vst/mlta_data.shtml)
 * (http://www.argumentinterchange.org/academics)
 * missing internet argument corpus
+* [Opinion mining and sentiment analysis]()
 
 
 ## literature
@@ -23,7 +33,7 @@ Opinion based argument mining
 		* [LippiTorroni_argument_Mining_A_Machine_learning_perspective ](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/LippiTorroni_argument_Mining_A_Machine_learning_perspective.pdf)
 		* [where_are_we_now_wehre_do_we_want_to_be_and_how_do_we_get_there ](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/where_are_we_now_wehre_do_we_want_to_be_and_how_do_we_get_there.pdf)
 		* [Opinion mining and sentiment analysis](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/Pang_lee_Opinion%20mining%20and%20sentiment%20analysis.pdf)
-		* [SentimentAnalysis-and-OpinionMining]()
+		* [SentimentAnalysis-and-OpinionMining](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/SentimentAnalysis-and-OpinionMining.pdf)
 	* [Argument_mining_by_applying_argumentation_schemes](https://github.com/ei08047/OpArgMine/blob/master/literature/general/Argument_mining_by_applying_argumentation_schemes.pdf)
 	* [combining_argument_mining_techniques](https://github.com/ei08047/OpArgMine/blob/master/literature/general/combining_argument_mining_techniques.pdf)
 	* [the_utility_of_linguistic_rules_in_opinion_mining](https://github.com/ei08047/OpArgMine/blob/master/literature/general/the_utility_of_linguistic_rules_in_opinion_mining.pdf)
@@ -58,14 +68,51 @@ Opinion based argument mining
 		* [LayingTheFoundationsForWWAW](https://github.com/ei08047/OpArgMine/blob/master/literature/auxiliary/argumentVision/LayingTheFoundationsForWWAW.pdf)
 	
 
-##Final report
+	
 
-* abstract
-* summary
-* intro
-* state
-* solution
-* conclusion
+
+
+
+
+
+
+###state
+
+* [Argument mining](Argumentation Mining: Where are we now, where do we want to be and how do we get there, Moens )
+* [Argument mining2](Argumentation Mining: The Detection, Classiﬁcation and Structure of Arguments in Text, Moens, Palau)
+	* [Ml general approach](Argument Mining: A Machine Learning Perspective, Lippi, Torroni)
+	get image
+	* tasks
+		* Argumentative Sentence Detection 
+		* Argument Structure Prediction
+	* formulation
+	* introduce sub tasks  bib
+	* Common features
+
+	
+	
+* Opinion mining
+
+[Opinion mining and sentiment analysis](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/Pang_lee_Opinion%20mining%20and%20sentiment%20analysis.pdf)
+[SentimentAnalysis-and-OpinionMining](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/SentimentAnalysis-and-OpinionMining.pdf)
+
+tasks:
+subjectivity detection
+sentiment classification
+techniques: 
+world net
+opinion words sets
+[the utility of linguistic rules on opinion mining notes](https://github.com/ei08047/OpArgMine/blob/master/literature/general/the_utility_of_linguistic_rules_in_opinion_mining_notes.txt)
+ 
+	features: committed belief, sentiment polarity,web social features, other features
+	 
+	datasets: 
+	https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/Pang_lee_Opinion%20mining%20and%20sentiment%20analysis.pdf
+	 
+	 
+	 
+	 
+
 
 
 ## Learning Resources

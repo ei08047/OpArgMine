@@ -1,0 +1,39 @@
+#Introduction
+
+* The demand for information on opinions and sentiment
+* early history
+* Aplications
+* general challenges
+	
+#Classification and extraction
+
+* problem formulations and key concepts
+	* sentiment polarity and degrees of positivity
+	* subjectivity identification and opinion identification
+	* joint topic-sentiment analysis
+	* viewpoints and perspectives
+	* other non-factual information in text
+
+* features
+	* term presence vs frequency
+	* term-based features beyond term unigrams
+	* parts of speech
+	* syntax
+	* negation
+	* topic oriented features
+	
+* approaches
+	* impact of labeled data
+	* domain adaptation and topic-sentiment interaction
+	* unsupervised approaches
+	* classifciation based on relationship information
+	* incorporating discourse structure
+	
+* summarization
+		* single/multi document opinion-oriented summarization
+		(can opinion mining summarization techniques be used for topic inspection or even claim detection?-Zé)
+		
+		
+* broader implications		
+* publicly avaiable resourses
+
