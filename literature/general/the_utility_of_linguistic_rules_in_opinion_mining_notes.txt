@@ -1,0 +1,9 @@
+#context: opinion mining on product reviews 
+#motivation: most existing approaches use a set of opinion words and the semantic orientations of many words are context dependent
+#objectives: propose to use some linguistic rules together with some opinion aggregation function.
+
+##"Context dependent opinion words: it was found that some linguistic rules or conventions can be used to infer opinions:
+
+* intra-sentence conjunction rules
+* pseudo intra sentence conjunction rules
+* inter sentence conjuntion rule
