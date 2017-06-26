@@ -6,7 +6,7 @@ Opinion based argument mining
 * abstract
 * summary
 * intro
-* [state](###state)
+* [state](### state)
 * solution
 * conclusion
 
@@ -76,7 +76,7 @@ Opinion based argument mining
 
 
 
-###state
+### state
 
 * [Argument mining](Argumentation Mining: Where are we now, where do we want to be and how do we get there, Moens )
 * [Argument mining2](Argumentation Mining: The Detection, Classiﬁcation and Structure of Arguments in Text, Moens, Palau)
