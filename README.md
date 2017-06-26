@@ -21,8 +21,9 @@ Opinion based argument mining
 		* [Argumentation mining the detection, classification and structure of arguments in text](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/Argumentation%20mining%20the%20detection%2C%20classification%20and%20structure%20of%20arguments%20in%20text.pdf)
 		* [ArgumentationMining_State_of_the_art_and_emerging_trends ](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/ArgumentationMining_State_of_the_art_and_emerging_trends.pdf)
 		* [LippiTorroni_argument_Mining_A_Machine_learning_perspective ](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/LippiTorroni_argument_Mining_A_Machine_learning_perspective.pdf)
-		* [METHODOLOGICAL STUDY OF OPINION MINING ](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/METHODOLOGICAL%20STUDY%20OF%20OPINION%20MINING.pdf)
 		* [where_are_we_now_wehre_do_we_want_to_be_and_how_do_we_get_there ](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/where_are_we_now_wehre_do_we_want_to_be_and_how_do_we_get_there.pdf)
+		* [Opinion mining and sentiment analysis](https://github.com/ei08047/OpArgMine/blob/master/literature/general/state/Pang_lee_Opinion%20mining%20and%20sentiment%20analysis.pdf)
+		* [SentimentAnalysis-and-OpinionMining]()
 	* [Argument_mining_by_applying_argumentation_schemes](https://github.com/ei08047/OpArgMine/blob/master/literature/general/Argument_mining_by_applying_argumentation_schemes.pdf)
 	* [combining_argument_mining_techniques](https://github.com/ei08047/OpArgMine/blob/master/literature/general/combining_argument_mining_techniques.pdf)
 	* [the_utility_of_linguistic_rules_in_opinion_mining](https://github.com/ei08047/OpArgMine/blob/master/literature/general/the_utility_of_linguistic_rules_in_opinion_mining.pdf)
@@ -40,7 +41,7 @@ Opinion based argument mining
 		* [Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity](https://github.com/ei08047/OpArgMine/blob/master/literature/core/Debates/Identifying_prominent_arguments_in_online_debates_using_semantic_textual_similarity.pdf)
 		* [recognizingArgumentsinOnlineDiscussions](https://github.com/ei08047/OpArgMine/blob/master/literature/core/Debates/recognizingArgumentsinOnlineDiscussions.pdf)
 	* opinion
-		* [Opinion mining and sentiment analysis](https://github.com/ei08047/OpArgMine/blob/master/literature/core/opinion/Pang_lee_Opinion%20mining%20and%20sentiment%20analysis.pdf)
+		* [METHODOLOGICAL STUDY OF OPINION MINING ](https://github.com/ei08047/OpArgMine/blob/master/literature/core/opinion/METHODOLOGICAL%20STUDY%20OF%20OPINION%20MINING.pdf)
 		* [detecting_opinionated_claims_in_online_discussions](https://github.com/ei08047/OpArgMine/blob/master/literature/core/opinion/detecting_opinionated_claims_in_online_discussions.pdf)
 	* argument mining	
 		* context
