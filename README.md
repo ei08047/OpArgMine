@@ -13,6 +13,7 @@ Opinion based argument mining
 
 ## Conferences
 [acl2014](http://acl2014.org/acl2014/W14-21/index.html)
+[3rd Workshop on argument mining](http://argmining2016.arg.tech/)
 
 
 ## Dataset related
@@ -22,6 +23,8 @@ Opinion based argument mining
 * (http://www.argumentinterchange.org/academics)
 * [internet argument corpus](https://nlds.soe.ucsc.edu/iac)
 * [Opinion mining and sentiment analysis]()
+
+### description and analytics and works made on those datasets 
 
 
 ## literature

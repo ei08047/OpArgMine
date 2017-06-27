@@ -1,0 +1,14 @@
+Bing Liu
+
+* Applications and research
+* The Problem of Sentiment Analysis 
+* Document Sentiment Classification
+* Sentence Subjectivity and Sentiment Classification 
+* Aspect-based Sentiment Analysis 
+* Sentiment Lexicon Generation
+	* dictionary based approach
+	* corpus based approach
+	* +/- facts
+* opinion sumarization
+* Analysis of Comparative Opinions
+* Opinion Search and Retrieval

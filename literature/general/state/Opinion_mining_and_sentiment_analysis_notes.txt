@@ -1,14 +1,39 @@
+motivation: "seek to address the new challenges raised by sentimentaware 
+applications, as compared to those that are already present in more traditional
+fact-based analysis"
+
 #Introduction
 
 * The demand for information on opinions and sentiment
 * early history
+	*  "the rise of machine learning methods in natural language processing and information retrieval"
+	*  "the availability of datasets for machine learning algorithms to be trained on, due to the blossoming of the World Wide Web and, speci?cally, the development of review-aggregation web-sites; and, of course"
+	*  "realization of the fascinating intellectual challenges and commercial and intelligence applications that the area offers."
+
 * Aplications
+		* Applications to review-related websites
+			* "Summarizing user reviews"
+			* "creation and automated upkeep of review- and opinion-aggregation websites"
+		* Applications as a sub-component technology
+			*  augmentation to recommendation systems 
+		* Applications in business and government intelligence
+			* save an analyst from having to read potentially dozens or even hundreds of versions of the same complaints
+			* monitor sources for increases in hostile or negative communications 
+		* Applications across different domains
+			* politics, sociology
+				* clarification of politicians positions, such as what public figures support or oppose, to enhance the quality of information that voters have access to
+				* enabling technology in eRulemaking
 * general challenges
-	
+	* Contrasts with standard fact-based textual analysis
+	* Factors that make opinion mining dif?cult
+
 #Classification and extraction
+
+
 
 * problem formulations and key concepts
 	* sentiment polarity and degrees of positivity
+One set of problems share the following general character: given an opinionated piece of text, wherein it is assumed that the overall opinion in it is about one single issue or item, classify the opinion as falling under one of two opposing sentiment polarities, or locate its position on the continuum between these two polarities (how about neutral?)
 	* subjectivity identification and opinion identification
 	* joint topic-sentiment analysis
 	* viewpoints and perspectives
