@@ -6,7 +6,7 @@ Opinion based argument mining
 * abstract
 * summary
 * intro
-* [state](### state)
+* [state](https://github.com/ei08047/OpArgMine#state)
 * solution
 * conclusion
 
@@ -20,7 +20,7 @@ Opinion based argument mining
 * [mpqa](http://mpqa.cs.pitt.edu/)
 * [ibm](https://www.research.ibm.com/haifa/dept/vst/mlta_data.shtml)
 * (http://www.argumentinterchange.org/academics)
-* missing internet argument corpus
+* [internet argument corpus](https://nlds.soe.ucsc.edu/iac)
 * [Opinion mining and sentiment analysis]()
 
 
