@@ -1,12 +1,22 @@
 Conferences
 acl2014 -> http://acl2014.org/acl2014/W14-21/index.html
 
+Authority
+https://gate.ac.uk/
+
 
 Dataset related
-http://mpqa.cs.pitt.edu/
-https://www.research.ibm.com/haifa/dept/vst/mlta_data.shtml
+MPQA <- http://mpqa.cs.pitt.edu/
+IBM <- https://www.research.ibm.com/haifa/dept/vst/mlta_data.shtml
+NoDE <- http://www-sop.inria.fr/NoDE/NoDE-xml.html
+comArg <- http://takelab.fer.hr/data/comarg/
+Sara <- http://www.cs.columbia.edu/~sara/data.php
+
+
 http://www.argumentinterchange.org/academics
 https://www.ukp.tu-darmstadt.de/data/
+
+
 
 
 
@@ -40,3 +50,12 @@ Introduction : https://docs.google.com/document/d/1rfTCcRx8vh66Ol7DZkl8uwH-Mp7mc
 State of the Art: https://docs.google.com/document/d/1LvPaXZmuKx6F2qj-5DuGzEstXcf_nQL3Nf5dWxRAGbA/edit#
 Solution: https://docs.google.com/document/d/1XVgj-rxkRpt5lngfAn4qeOCa7NKI3GsmXN89DLciOV8/edit#heading=h.v1kma4pbwjgc
 Full document :  https://www.sharelatex.com/project/593ae837e960baf436966c22
+
+
+
+
+
+
+Future:
+
+http://www.tandfonline.com/doi/full/10.1080/19462166.2013.862303?scroll=top&needAccess=true
