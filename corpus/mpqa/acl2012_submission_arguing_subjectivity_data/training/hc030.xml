@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc030.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />ObamaCare: The ruse exposed<Node id="27" /> ...
+Saturday, June 19, 2010
+ Enacting a law is one thing; implementing it is another. 
+ And <Node id="120" />early indications about ObamaCare's implementation via new regulations suggest this law will validate its critics' dire predictions.
+<Node id="253" />
+ The president repeatedly promised Americans that they'd be able to keep their existing health coverage under ObamaCare. 
+ Yet an early regulatory draft -- of his administration's own making -- predicts that <Node id="462" />in just three years, changes that employers will have to make will put 51 percent of workers into plans subject to new federal requirements.
+<Node id="603" />
+ <Node id="605" />Those changes will raise -- not rein in -- costs. 
+<Node id="656" />
+ And <Node id="662" />employers will have to keep modifications to deductibles, co-payments and benefits within a narrow range -- defined by unelected bureaucrats -- or lose their "grandfathered" plans' exemptions from those otherwise mandatory changes.
+<Node id="894" />
+ <Node id="896" />As costs and regulations rise, fewer of those <Node id="942" />"grandfathered" plans<Node id="963" /> will survive. 
+<Node id="979" />
+ <Node id="981" />They'll cover fewer workers -- and government-designed plans will cover more. 
+<Node id="1060" />
+ Apparently, <Node id="1074" />bureaucrats will do what the ObamaCare law didn't to ensure that government takes over health care.
+<Node id="1174" />
+ If the administration holds to the regulatory course it's setting, <Node id="1243" />ObamaCare in practice will be an even bigger disaster than it appeared to be on paper.
+<Node id="1330" />
+<Node id="1331" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="1331">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc030</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Pittsburgh,Tribune-Review,Tribune,Review</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20100619</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.pittsburghlive.com/x/pittsburghtrib/opinion/s_686730.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="0" EndNode="27">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="120" EndNode="253">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="462" EndNode="603">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">existing_plans_will_be_eliminated/cancelled</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="605" EndNode="656">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="662" EndNode="894">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">places_too_many_limits_on_insurers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="896" EndNode="979">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">existing_plans_will_be_eliminated/cancelled</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="942" EndNode="963">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="981" EndNode="1060">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_eliminate_private_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1074" EndNode="1174">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1243" EndNode="1330">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1331">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

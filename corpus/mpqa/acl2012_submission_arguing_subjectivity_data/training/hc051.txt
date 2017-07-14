@@ -1,0 +1,52 @@
+December 16, 2011
+defining ideas
+Obamacare’s Other Unconstitutional Provision
+by Clint Bolick (Research Fellow)
+An agency uncontrollable by Congress, unreviewable by the courts, and virtually unrepealable.
+
+Following the passage of the massive federal health-care bill, inquiring minds wanted to know the dimensions of the new bureaucracy it had created. So the question was put to the Congressional Research Service (CRS): How many new agencies, boards, and commissions were created by the law? Estimates ranged from fifty to the low hundreds. The CRS, with perhaps more research resources available to it than any other entity on earth, scoured the bill and its surrounding context, and finally came up with an answer: The number of new agencies created by Obamacare is “unknowable.”
+
+That is a scary pronouncement. Not only don’t we know the number of new agencies, but we don’t know which ones are the same or separate entities, what the contours of their jurisdictions are, or the extent to which they will intrude upon some of the most important and intimate decisions we make as individuals.
+ Obamacare's other unconstitutional provision  
+ Illustration by Barbara Kelley
+
+But even scarier is what we do know: that one of the agencies created by Obamacare has the most sweeping, unchecked powers of any regulatory entity ever created by the U.S. government. Its name—the Independent Payment Advisory Board (IPAB)—sounds benign, but it is anything but.
+
+Central to the passage of the federal health-care law was the Obama administration’s assertion—ludicrous on its face yet convincing to enough members of Congress to provide the bill’s razor-thin margin of victory—that the law would contain health-care costs. Central to that assertion, in turn, is IPAB.
+
+Congress invested IPAB with broad powers to control Medicare costs—powers with virtually no limits. Three features combine to make IPAB’s regulatory power unprecedented: its decisions are largely uncontrollable by Congress, its actions are unreviewable by the courts, and—amazingly—the agency’s existence is virtually unrepealable.
+
+Ordinarily, the delegation of legislative power to regulatory agencies is accompanied by numerous safeguards. First, as a matter of separation of powers, courts require that the delegation of regulatory powers be guided and restricted by “intelligible standards.” Second, most regulatory powers are exercised through the administrative rule-making process, which provides for public notice and comment. Third, both Congress and the courts can review the rules. Finally, of course, Congress can repeal the agency or change the delegation of power. None of those safeguards are present with IPAB.
+
+The judiciary is forbidden from reviewing the board's actions.
+
+The law directs IPAB—a 15-member commission appointed by the president with Senate confirmation, and whose composition (unlike most other agencies) need not be bipartisan—to make annual “legislative proposals” starting in 2014 that will result in reducing the per capita rate of growth in Medicare. The law says that certain proposals are off-limits, including any that “ration health care, raise revenues or increase Medicare beneficiary cost sharing (including deductibles, coinsurance, and copayments), or otherwise restrict benefits or modify eligibility requirements.”
+
+There are three whopping problems with this directive. First, if Medicare beneficiaries cannot be required to pay more and their benefits cannot be reduced, there is only one way to achieve cost-containment: to reduce payments to physicians and hospitals. Those reductions will further diminish the number of Medicare providers and/or reduce the quality of care—in essence, creating precisely the de facto rationing of health-care services the bill supposedly prohibits.
+
+Second, crucial terms such as “rationing” are undefined, and the requirements are confusing and contradictory. Elsewhere, the law directs IPAB to “protect and improve Medicare beneficiaries’ access to necessary and evidence-based items and services.” So IPAB is not allowed to ration health care, but it must decide which services are “necessary and evidence-based”—which, of course, is rationing.
+
+Finally, even if the vague statutory constraints on IPAB have any meaning, there is no entity, not the Congress nor the courts, that can effectively police them. IPAB is exempt from normal administrative procedures or safeguards. Congress has an abbreviated period during which to review IPAB proposals; it can only change them in limited ways; and it must do so by a three-fifths majority. If Congress fails to overcome those obstacles, IPAB’s proposals automatically become law. And the judiciary is forbidden from reviewing IPAB’s actions.
+
+Theoretically, Congress can repeal IPAB—but the law appears to limit its ability to do so in bizarre and severe ways. Under the statute, any bill to repeal IPAB must be introduced within the one-month period between January 1 and February 1, 2017. If introduced, it must be enacted by a three-fifths super-majority no later than August 15, 2017. If passed, the IPAB repeal will not become effective until 2020—leaving an out-of-control agency in operation for three years after Congress votes to abolish it.
+
+IPAB’s defenders point to other agencies, such as the Base Closure and Realignment Commission, which were exempt from ordinary administrative processes and had abbreviated congressional reviews of their proposals. But no agency in our nation’s history has been given the power to make binding law in a manner so unaccountable, uncontrollable, or unreviewable as IPAB—and none has been essentially immunized against its own demise.
+
+Unlike most other agencies, IPAB's membership does not need to be bipartisan.
+
+Even advocacy groups that otherwise supported Obamacare raised concerns about IPAB. After all, if the agency rations health care or further reduces the number of physicians and hospitals that accept Medicare, it will adversely affect many people who need health care. The American Medical Association (AMA), which supported the bill, warned that IPAB is “an independent body comprised of un-elected officials, with broad discretionary authority to make radical changes in the structure of the Medicare program.”  The AMA was joined in its opposition by 74 groups representing millions of Medicare beneficiaries and service providers, along with over 100 members of Congress from both parties who expressed their concerns about the erosion of congressional authority over Medicare in a letter to then-House Speaker Nancy Pelosi. Retiring Rep. Barney Frank (D-MA) recently signed on to a Republican-sponsored bill to repeal IPAB. 
+
+Then why doesn’t Congress simply repeal IPAB? After all, one Congress cannot bind a subsequent Congress, right? While that is—or should be—true, the problem is that efforts to repeal IPAB outside of the narrow parameters provided by the health-care law can be ruled out of order by congressional parliamentarians. The same is true of congressional efforts to control IPAB’s actions.
+
+Because of those limits, the Goldwater Institute filed a lawsuit in federal district court in Phoenix to challenge IPAB. By limiting its repeal, Congress unconstitutionally “entrenched” IPAB, preventing members of Congress from effectively representing their constituents. As Thomas Jefferson explained, were a legislature to “pass any act, and declare it shall be irrevocable by subsequent assemblies, the declaration is merely void, and the act repealable, as other acts are.” The Supreme Court affirmed Jefferson’s admonition in an 1879 case, proclaiming, “It is vital to the public welfare that each [legislature] should be able at all times to do whatever the varying circumstances and present exigencies touching the subject involved may require. A different result would be fraught with evil.”
+
+The Goldwater Institute’s lawsuit challenges IPAB’s very existence as an unlawful delegation of congressional power. Although most of the legal challenges to Obamacare have focused on the individual mandate to purchase government-prescribed health insurance, IPAB is no less central to the overall regulatory scheme. Many members of Congress voted for Obamacare only when convinced of the dubious premise that the law would constrain health-care costs. If IPAB is removed, the flimsy cost-containment rationale will disappear as well.
+
+The district court will hear arguments over the constitutionality of IPAB in the coming months. Central to those arguments is Justice Antonin Scalia’s clairvoyant warning 22 years ago that unless the constitutional prohibition against the delegation of legislative power was enforced, Congress could create “‘expert’ bodies, insulated from the political process, to which Congress [could] delegate various portions of its lawmaking responsibility.”
+
+“How tempting,” Scalia wrote, “to create an expert Medical Commission . . . to dispose of such thorny, ‘no-win’ political issues as the withholding of life-support systems in federally funded hospitals.”
+
+Scalia’s not-so-hypothetical musing is today’s reality. As my colleague Diane Cohen, the lead lawyer in the Goldwater Institute’s lawsuit, has testified before Congress, IPAB is “‘independent’ in the worst sense of the word: it is independent of Congress, the President, the judiciary and the American people.” IPAB is a death panel not only by virtue of its awesome powers to control health-care decisions for millions of Americans, but because its creation and existence are antithetical to our republican form of government and the freedoms it was designed to protect. 
+
+Clint Bolick is a research fellow at the Hoover Institution and also serves as the director of the Goldwater Institute Center for Constitutional Litigation in Phoenix. Before joining the Goldwater Institute in 2007, Bolick was litigation director of the Institute for Justice, a libertarian public interest firm that he cofounded in 1991, and president of the Alliance for School Choice, a national nonprofit educational policy group advocating school choice programs across the country.
+Letters to the editor may be sent to definingideas@stanford.edu. Editors reserve the right to reject or publish (and edit) letters.

@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc019.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Obama's health insurance whopper: He's misleading the country on a key reform proposal
+BY JOHN R. GRAHAM	
+ "As soon as I sign this bill," President Obama promised in his prime-time address to Congress, "it will be against the law for insurance companies to drop your coverage when you get sick." 
+ Thunderous applause followed. 
+ It's easy to understand why - no one wants to lose their insurance coverage when they need it most.
+ But here's a news flash: <Node id="456" />It's already illegal for insurance companies to drop patients once they become ill. 
+<Node id="541" />
+ It has been for over a decade. 
+ The American people should take note, as <Node id="617" />President Obama is using this non-existent crisis to justify massive federal intervention in America's health sector.
+<Node id="735" />
+ <Node id="737" />Since 1997, federal regulations have prohibited insurance companies from raising a person's rates if he develops an illness. <Node id="862" />
+ And <Node id="868" />no matter how sick a customer gets, an insurer can't drop him or refuse to renew his policy - provided he didn't lie on his application or move out of the state where his policy was issued.
+<Node id="1058" />
+ Perhaps the President thinks this law isn't being enforced. 
+ He has repeatedly claimed that "no one holds these companies accountable for these practices." 
+ But that's not true. 
+ <Node id="1242" />State insurance commissioners are charged with enforcing good-faith execution of insurance contracts. 
+<Node id="1345" />
+ In fact, that's exactly what Obama's current Health Secretary, Kathleen Sebelius, did for eight years as Kansas state insurance commissioner. 
+ <Node id="1491" />Occasionally, insurers identify customers whom they believe have lied about their health status on their applications and rescind their coverage. 
+<Node id="1638" />
+ <Node id="1640" />Rescission is an infrequently used but important tool for rooting out fraud. 
+<Node id="1718" />
+ <Node id="1720" />Health insurers rely on applicants submitting correct information so that their actuaries can estimate what risk they will add to the pool of people covered by the insurer.
+ Insurers must be confident that applicants are being truthful about their health. 
+ Otherwise, the health insurer will attract only applicants who wait until they become sick to buy health insurance, which could leave it bankrupt. 
+<Node id="2126" />
+ <Node id="2128" />The alternative to recission<Node id="2156" />, investigating an applicant's complete medical history, would be extremely time-consuming and expensive. 
+<Node id="2263" />
+ <Node id="2265" />It would also make insurance less affordable and less available. 
+<Node id="2331" />
+ <Node id="2333" />And despite the scare stories we've been hearing, rescissions rarely occur. 
+<Node id="2410" />
+ WellPoint, one of the country's largest insurers, enrolled approximately 873,000 new customers in 2008. 
+ <Node id="2518" />Less than 0.15% of those customers had their policies rescinded. 
+<Node id="2584" />
+ <Node id="2586" />Just 0.5% of those covered by Assurant, another health insurer, experienced rescission. 
+<Node id="2675" />
+ The figure is similar for Blue Cross of California.
+ <Node id="2730" />When insurers have wrongfully rescinded policies, state insurance commissioners have been ruthless about protecting consumers' rights. 
+<Node id="2866" />
+<Node id="2867" /> Last September, for instance, the California Department of Insurance ordered Health Net Inc. to reinstate 926 policies that had been incorrectly rescinded. 
+ The company also paid $3.6 million in fines and another $14 million in medical claims. 
+ In July 2008, Anthem Blue Cross agreed to pay $11 million in hospital claims derived from rescinded policies in California. 
+<Node id="3240" />
+ Americans know that health reform is needed. 
+ <Node id="3289" />Insurance coverage and medical services get more expensive every year. 
+<Node id="3361" />
+ And the rising costs make patients feel powerless.
+ <Node id="3415" />But these problems stem from the illogical structure of our health system, not the actions of supposedly heartless insurers. 
+<Node id="3541" />
+ <Node id="3543" />Because third parties - like insurance companies or the government - pay for just about everything, Americans have no idea how much doctor visits or medical procedures cost.
+<Node id="3717" />
+ <Node id="3719" />Returning health-care dollars to individual patients would spur competition and bring down costs. 
+<Node id="3818" />
+ But <Node id="3824" />President Obama <Node id="3840" />has no interest in this style of reform. <Node id="3881" />He's interested in putting the government in charge.
+<Node id="3934" />
+ <Node id="3936" />And so, with health-care dollars flowing through either insurers or the government, the President only has two potential villains. 
+ He obviously can't malign the government as he attempts to put it in charge of American health care. 
+<Node id="4171" />
+ So that leaves <Node id="4188" />insurance companies as the target for his ire.
+<Node id="4235" />
+ If <Node id="4240" />Americans<Node id="4249" /> buy into Obama's crisis-mongering and the myths on which it is based, <Node id="4320" />they may be forced to accept more government interference in their health decisions<Node id="4403" /> and <Node id="4408" />a precipitous decline in the level of choice, competition and quality of care available to them.<Node id="4504" />
+Graham is Director of Health Care Studies at the Pacific Research Institute.
+<Node id="4582" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="4582">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc019</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">John,R.,Graham</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">nydailynews,New,York,Daily,News</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20091001</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.nydailynews.com/opinions/2009/10/01/2009-10-01_obamas_health_insurance_whopper.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="456" EndNode="541">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="617" EndNode="735">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="737" EndNode="862">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="868" EndNode="1058">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1242" EndNode="1345">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1640" EndNode="1718">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_is_valid_practice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="1491" EndNode="1638">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_is_valid_practice</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="rel" StartNode="1720" EndNode="2126">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_is_valid_practice</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2128" EndNode="2263">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_is_valid_practice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2333" EndNode="2410">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="2128" EndNode="2156">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2265" EndNode="2331">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="2518" EndNode="2584">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="2730" EndNode="2866">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="2586" EndNode="2675">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="3289" EndNode="3361">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_costs_out-of-control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="2867" EndNode="3240">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">recision_not_major_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="3543" EndNode="3717">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_system_insulates_consumers_from_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="3415" EndNode="3541">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_system_insulates_consumers_from_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">a1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">both</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="rel" StartNode="3824" EndNode="3840">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="3719" EndNode="3818">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">market_controls_costs_better_than_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="4240" EndNode="4249">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="3881" EndNode="3934">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="4320" EndNode="4403">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="arg" StartNode="4188" EndNode="4235">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">attacks_on_insurance_companies_are_politically_motivated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="4408" EndNode="4504">
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="rel" StartNode="3936" EndNode="4171">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">attacks_on_insurance_companies_are_politically_motivated</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4582">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

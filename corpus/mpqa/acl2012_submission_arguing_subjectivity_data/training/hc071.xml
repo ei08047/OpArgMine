@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc071.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Obamacare Takes a Double Shot at the Economy and the American Dream<Node id="67" />&#xd;
+<Node id="69" />&#xd;
+<Node id="71" />Kathryn Nix&#xd;
+<Node id="84" />&#xd;
+<Node id="86" />April 26, 2011 at 12:05 pm&#xd;
+<Node id="114" />&#xd;
+<Node id="116" />(13)&#xd;
+<Node id="122" />&#xd;
+<Node id="124" />In a recent piece for The Wall Street Journal, Daniel Kessler, a senior fellow at the Hoover Institution, describes how <Node id="244" />the new health care law&#x2019;s subsidy program to help low- and middle-income Americans purchase health insurance will have severe economic consequences<Node id="391" />. <Node id="393" />These will include discouraging work for qualifying individuals and other taxpayers, disrupting America&#x2019;s labor markets, and reducing economic activity<Node id="544" />.&#xd;
+<Node id="547" />&#xd;
+<Node id="549" />Beginning in 2014, when the new health insurance exchanges will open for individuals and small businesses, subsidies will become available for those whose income falls between 134 percent and 400 percent of the federal poverty level (FPL). For a family of four living in a high-cost area, earning 134 percent of the FPL ($31,389 in 2014 dollars) would qualify them to receive $22,740 in assistance. A similar family earning an income at 400 percent FPL ($93,699) would qualify to receive $14,799 in subsidies.&#xd;
+<Node id="1060" />&#xd;
+<Node id="1062" />The problem is that as income increases, families will experience large reductions in government assistance, which will discourage striving to earn a higher income<Node id="1225" />. According to Kessler, &#x201c;Economists call large, discontinuous changes in program benefits like this &#x2018;notches.&#x2019; Although notches might be administratively convenient, they have terrible incentive effects.&#x201d; One of these is &#x201c;a substantial punishment on work effort.&#x201d; If a member of a family of four living at 400 percent of FPL earns just $1 more, they would receive no subsidy at all, making the family almost $15,000 poorer. This &#x201c;cliff effect&#x201d; will have profound implications on the labor market. Heritage analysts Brian Blase and Paul Winfree write, &#x201c;<Node id="1777" />the subsidy structure creates incentives for individuals to engage in unproductive activities, such as working less and retiring early<Node id="1911" />.&#x201d; These income &#x201c;cut-offs,&#x201d; which already present issues in Medicaid, induce sharp reductions in the labor supply&#x2014;not good when the economy is already struggling to recover.&#xd;
+<Node id="2086" />&#xd;
+<Node id="2088" />In addition,<Node id="2100" /> the Obamacare health insurance subsidies create unfairness through the unequal treatment of equals<Node id="2199" />. <Node id="2201" />Families earning very similar incomes will receive vastly different levels of assistance from the government because of the notches<Node id="2332" />. Moreover, as health policy expert James Capretta explains, two identical families could receive levels of help that differ by several thousand dollars, based on whether they receive employer-sponsored insurance or purchase coverage in the exchanges.&#xd;
+<Node id="2585" />&#xd;
+<Node id="2587" />By creating inequity, disincentives to work, and reducing the labor supply, Obamacare penalizes upward mobility and hinders the ability of the nation&#x2019;s economy to grow<Node id="2754" />. Kessler concludes, &#x201c;Either leaving the notch in or smoothing the notch out seems impossibly unattractive&#x2026;The only fix is to drastically reduce or eliminate the premium subsidies.&#x201d;&#xd;
+<Node id="2937" />&#xd;
+<Node id="2939" />Instead of an unaffordable and unworkable new entitlement program<Node id="3004" />, <Node id="3006" />Congress should pursue reform that assists all Americans in purchasing coverage in a fair and equitable way&#x2014;by reforming the tax treatment of health insurance and replacing it with a tax credit<Node id="3199" />. <Node id="3201" />This would require repealing the subsidy program and all other poorly written policies enacted under Obamacare<Node id="3311" />.&#xd;
+<Node id="3314" />&#xd;
+<Node id="3316" />Co-authored by Amanda Rae Kronquist&#xd;
+Posted in Health Care&#xd;
+Print This Post Print This Post&#xd;
+Kathryn Nix&#xd;
+Kathryn Nix&#xd;
+<Node id="3435" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="17" Type="arg" StartNode="2100" EndNode="2199">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unfair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="1777" EndNode="1911">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="2587" EndNode="2754">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="2201" EndNode="2332">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unfair</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="3006" EndNode="3199">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tax_credits_better_way_to_address_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2939" EndNode="3004">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="3201" EndNode="3311">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_defunded/not_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="3435">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc071</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">kathryn,nix</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110426</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">foundry,heritage,network</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://blog.heritage.org/2011/04/26/obamacare-takes-a-double-shot-at-the-economy-and-the-american-dream/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="0" EndNode="67">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="244" EndNode="391">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="393" EndNode="544">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="1062" EndNode="1225">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="69">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="71" EndNode="84">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="86" EndNode="114">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="116" EndNode="122">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="124" EndNode="547">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="549" EndNode="1060">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1062" EndNode="2086">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2088" EndNode="2585">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2587" EndNode="2937">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2939" EndNode="3314">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="3316" EndNode="3435">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

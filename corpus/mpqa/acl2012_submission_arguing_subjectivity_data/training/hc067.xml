@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc067.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />The Affordable Care Act: Under Fire but Exceeding Expectations&#xd;<Node id="63" />
+Wednesday, 12/21/2011 - 9:38 am by Rajiv Narayan | One Comment&#xd;
+<Node id="128" />&#xd;
+<Node id="130" />health-care-money-150<Node id="151" />Despite facing legal challenges, health care reform is already extending coverage to millions of young Americans<Node id="263" />.&#xd;
+<Node id="266" />&#xd;
+<Node id="268" />According to a revision of official estimates released last week, <Node id="334" />2.5 million young Americans aged 19-25 have gained health care coverage since September 2010<Node id="426" />. <Node id="428" />A little over a year ago, 64.4 percent of young Americans had health insurance; since then, that proportion has risen to 72.7 percent<Node id="561" />. <Node id="563" />This is great news, as an increasing number of us 20-somethings with health insurance no longer have to live uncertain of our health care coverage<Node id="709" />. <Node id="711" />Known collectively (and pejoratively) as the &#x201c;invincibles,&#x201d; Americans aged 19-25 are accustomed to being left in the blind spot of health coverage<Node id="857" />. Let&#x2019;s hope those days are over.&#xd;
+<Node id="892" />&#xd;
+<Node id="894" />So far, as the mounting evidence can tell us, <Node id="940" />the boom in coverage seems to be an effect of the Patient Protection and Affordable Care Act (ACA)<Node id="1038" />. Indeed, not only were more insured between the ages of 19-25 in the second quarter of 2011 compared to the third quarter of 2010, but coverage by like programs (such as Medicaid) has fallen in that period. With lower disposable incomes in this recession, fewer Americans have the resources to purchase health insurance for their children outright. <Node id="1388" />If programs like Medicaid and private consumption are not insuring young people, the inescapable conclusion is that the Affordable Care Act is responsible for the latest increase in coverage<Node id="1578" />.&#xd;
+<Node id="1581" />&#xd;
+<Node id="1583" />This early success for health care reform is especially significant<Node id="1650" /> given that the law is under fire in several states and in the courts. In addition to the challenge brought against the ACA&#x2019;s individual mandate, 26 states attorneys general are seeking to repeal the law in its entirety. Moreover, the National Conference of State Legislatures has recorded actions from 45 state legislatures that &#x201c;have proposed legislation to limit, alter or oppose selected state or federal actions&#x201d; in compliance with the law. Consider for a moment that much of the legislation&#x2019;s core features, including the controversial individual mandate, will not even activate until 2014.&#xd;
+<Node id="2248" />&#xd;
+<Node id="2250" />Sign up for weekly ND20 highlights, mind-blowing stats, and event alerts.&#xd;
+<Node id="2325" />&#xd;
+<Node id="2327" />With this context in mind, <Node id="2354" />the real news here is that health care reform is not imploding on take off, raining fire and destruction on a population in need<Node id="2482" />. If any group has underestimated the impact of the Affordable Care Act, that group is its proponents. According to official estimates released at the beginning of fall, health care reform was expected to cover an additional 1 million young adults. The newest numbers, which peg the actual increase closer to 2.5 million, show <Node id="2809" />the Affordable Care Act doing even better than we thought it would<Node id="2875" /> <Node id="2876" />despite the many doomsday scenarios concocted by its staunch opponents<Node id="2946" />.&#xd;
+<Node id="2949" />&#xd;
+<Node id="2951" />It may be too early to expand other projections about the impact of reform, so let us instead recall what benefits we have to look forward to by recounting past estimates. Among the many projections made by the President&#x2019;s Council of Economic Advisers, <Node id="3204" />the ACA is estimated to &#x201c;increase net economic well-being by roughly $100 billion a year&#x201d; and increase real GDP by 8 percent through 2030 relative to the no-reform baseline<Node id="3376" />. <Node id="3378" />The Congressional Budget Office also links a &#x201c;net reduction in federal deficits of $143 billion over the 2010-2019 period&#x201d; to the Affordable Care Act<Node id="3527" />.&#xd;
+<Node id="3530" />&#xd;
+<Node id="3532" />With the Supreme Court set to take up health care reform in the coming months and state governments continuing to create political hurdles for it to overcome, <Node id="3691" />it is worth stressing that the benefits of reform have been meeting and exceeding expectations<Node id="3785" />. As it becomes clearer that <Node id="3814" />this law is helping to build a future where more have access to care<Node id="3882" />, <Node id="3884" />we must consider what the opponents of reform are really against<Node id="3948" />.&#xd;
+<Node id="3951" />&#xd;
+<Node id="3953" />Rajiv Narayan is the Senior Fellow for Health Care Policy at the Roosevelt Institute | Campus Network and a graduating senior at the University of California, Davis.&#xd;
+<Node id="4120" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="10" Type="doc" StartNode="0" EndNode="4120">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc067</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">rajiv,narayan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">new,deal,2.0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111221</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.newdeal20.org/2011/12/21/the-affordable-care-act-under-fire-but-exceeding-expectations-67929/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="0" EndNode="63">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="151" EndNode="263">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="563" EndNode="709">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="711" EndNode="857">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="334" EndNode="426">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="940" EndNode="1038">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarentees_access_to_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="428" EndNode="561">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="2354" EndNode="2482">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_exploiting_fear_to_block_reform</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1388" EndNode="1578">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarentees_access_to_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="2809" EndNode="2875">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2876" EndNode="2946">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_exploiting_fear_to_block_reform</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="3378" EndNode="3527">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">maintains/reduces_govt_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="3204" EndNode="3376">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="3814" EndNode="3882">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_access</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="3691" EndNode="3785">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="1583" EndNode="1650">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="3884" EndNode="3948">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_based_on_political_gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="128">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="130" EndNode="266">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="268" EndNode="892">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="894" EndNode="1581">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1583" EndNode="2248">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="2250" EndNode="2325">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2327" EndNode="2949">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2951" EndNode="3530">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="3532" EndNode="3951">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="3953" EndNode="4120">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

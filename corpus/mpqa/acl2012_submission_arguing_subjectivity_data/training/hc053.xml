@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc053.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Obamacare costs 100,000 jobs in January<Node id="39" />&#xd;
+December 13, 2011 by Don Surber&#xd;
+<Node id="74" />&#xd;
+<Node id="76" />President Obama&#x2019;s signature domestic policy will throw 100,000 people out of work come January as Obamacare costs insurance agents, brokers and administrators their jobs as private insurers are ordered to trim their office staff by as much as a quarter<Node id="328" />. This comes at a time when federal mandates pile up, increasing the workload for companies. <Node id="421" />The problem is an airy mandate that 80% to 85% of health insurance premiums go to health care<Node id="514" />.&#xd;
+<Node id="517" />&#xd;
+<Node id="519" />That sounds good but no one can make money doing that. <Node id="574" />This is part of the Democratic Party&#x2019;s plan to get rid of private health insurance &#x2014; for everyone except themselves<Node id="689" />. <Node id="691" />Waivers, waivers, waivers for the unions and Democratic-friendly companies out there<Node id="775" />.&#xd;
+<Node id="778" />&#xd;
+<Node id="780" />From Forbes:&#xd;
+<Node id="794" />&#xd;
+<Node id="796" />It all stems from the Patient Protection and Affordable Care Act (PPACA), known colloquially as Obamacare. <Node id="903" />PPACA dictates that health insurers must spend at least $0.80 of every $1.00 in premiums collected on health care in the individual and small group markets, and $0.85 in the large group market<Node id="1095" />.&#xd;
+<Node id="1098" />&#xd;
+<Node id="1100" />Insurance agents were recently able to get backing from National Association of Insurance Commissioners (NAIC) to exclude their commissions from this medical loss ratio calculation (MLR), which refers to the percentage of premium dollars spent on medical claims. For example, if an insurance company received $100 in premiums and spent $80 on medical claims, its MLR would be 80%.&#xd;
+<Node id="1482" />&#xd;
+<Node id="1484" />Starting January 1, 2011, PPACA required health insurance companies to provide an annual rebate to the insured if MLR was less than 80% in the individual and small group markets and 85% in the large group market. The point of the law is to reduce selling, general and administrative expenses of the insurance companies.&#xd;
+<Node id="1805" />&#xd;
+<Node id="1807" />Commissions account for 2% of the costs of insurance, according to Forbes. Another 17.4% goes to back office staff. To get that down to a reasonable amount to give a return on investments, <Node id="1996" />insurers must cut back &#x2014; or leave the health insurance business<Node id="2059" />.&#xd;
+<Node id="2062" />&#xd;
+<Node id="2064" />Forbes cited a GAO report: &#x201c;Almost all of the insurers we interviewed were reducing brokers&#x2019; commissions and making adjustments to premiums in response to the PPACA MLR requirements. These insurers said that they have decreased or plan to decrease commissions to brokers in an effort to increase their MLRs. One insurer said they started making reductions to their brokers&#x2019; commissions in the fourth quarter of 2010 for their individual and small group plans to increase their 2011 PPACA MLRs in these markets and, as a result, premiums were not as high as they otherwise would have been. This insurer said these reductions will take effect gradually because they are only being applied to new sales or when groups renew annually. Another insurer lowered commissions to their brokers in the individual market in the first quarter of 2011, such that premiums were increased less than they otherwise would have been, which they expect to result in an increase in their PPACA MLRs for 2011.&#x201d;&#xd;
+<Node id="3054" />&#xd;
+<Node id="3056" />Be sure to give your <Node id="3077" />health insurance agent<Node id="3099" /> a nice present this year. <Node id="3126" />He might not be around next year<Node id="3158" />.&#xd;
+<Node id="3161" />&#xd;
+<Node id="3163" />But rest assured, the federal government will be hiring<Node id="3218" />. And it is not commission work. You don&#x2019;t have to be nice to anyone.&#xd;
+Bookmark and Share&#xd;
+<Node id="3309" />&#xd;
+<Node id="3311" />This entry was posted on Tuesday, December 13, 2011 at 8:00 AM and is filed under All. You can follow any responses to this entry through the RSS 2.0 feed. Both comments and pings are currently closed.&#xd;
+<Node id="3514" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="17" Type="arg" StartNode="691" EndNode="775">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unions_unfairly_favored</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="574" EndNode="689">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">goal_is_to_expand_entitlements</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="3077" EndNode="3099">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="3163" EndNode="3218">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="903" EndNode="1095">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">places_too_many_limits_on_insurers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="3126" EndNode="3158">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_private_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="1996" EndNode="2059">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_insurance_market</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="doc" StartNode="0" EndNode="3514">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc053</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">don,surber</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">daily,mail</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111213</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://blogs.dailymail.com/donsurber/archives/47845</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="0" EndNode="39">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">causes_unemployment</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="76" EndNode="328">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_private_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="421" EndNode="514">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">requires_insurers_to_do_too_much</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="74">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="76" EndNode="517">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="519" EndNode="778">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="780" EndNode="794">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="796" EndNode="1098">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1100" EndNode="1482">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1484" EndNode="1805">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1807" EndNode="2062">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2064" EndNode="3054">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="3056" EndNode="3161">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="3163" EndNode="3309">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="3311" EndNode="3514">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

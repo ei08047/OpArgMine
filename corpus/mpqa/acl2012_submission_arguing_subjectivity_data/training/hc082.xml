@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc082.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />A Majority Of Physicians Oppose Us Healthcare Reform<Node id="52" />&#xd;
+<Node id="54" />&#xd;
+<Node id="56" />Healthcare reform is a highly debated topic these days, due to new legislation passed by President Obama late last year. Although the American public seems to be divided in their stance on the reform act, the now majority Republican-controlled House is not its only critic- <Node id="330" />a recent study cites that many physicians themselves are actually opposed to the reform efforts<Node id="425" />. Among the major points made, <Node id="456" />physicians polled feel that reform calls for a greater number of healthcare workers, many of whom are not required to earn doctorate-levelhealthcare degrees like nurse practitioners and physician assistants<Node id="662" />.&#xd;
+The report recently released by Thomson Reuters and HCPlexus details the results of a national survey which polled nearly 3,000 U.S. physicians on the issue of healthcare reform. <Node id="844" />The overall consensus can be generalized to say that a majority of physicians feel â&#x20ac;&#x153;frustration and dismay in a time of change<Node id="972" />.â&#x20ac;&#xfffd;&#xd;
+<Node id="978" />Of the physicians polled,&#xd;
+<Node id="1005" />&#xd;
+<Node id="1007" />65% believe that U.S. healthcare will deteriorate with five years&#xd;
+18% believe it will improve&#xd;
+17% believe it will stay the same&#xd;<Node id="1137" />
+<Node id="1138" />&#xd;
+<Node id="1140" />If the healthcare reform act passed by President Obama remains in legislation, under the Patient Protection and Affordable Care Act (PPACA), an estimated 32 million currently uninsured Americans will have will access to healthcare<Node id="1370" />. <Node id="1372" />Physicians participating in the survey report concern over who will treat these new patients<Node id="1464" />. <Node id="1466" />Nurse practitioners and physician assistants will likely begin seeing and treating nearly as many patients as physicians themselves<Node id="1597" />.&#xd;
+According to the report, â&#x20ac;&#x153;<Node id="1628" />physicians overall have a clear frustration with the non-physician providersâ&#x20ac;&#x2122; compensation, which is comparable to primary care physicians, citing that nurse practitioners and physician assistants are not as well-trained or as educated<Node id="1865" />.â&#x20ac;&#xfffd;&#xd;
+<Node id="1871" />Nurse practitioners and physician assistants do have an education above a bachelorâ&#x20ac;&#x2122;s degree, but are not required to have earned their doctorate from a medical school like a physician<Node id="2056" />.Healthcare degrees of all levels are in high-demand in response to reform efforts, which will require greater numbers of healthcare workers overall, in both an administrative and clinical capacity. Online programs offering advanced healthcare degrees are growing in popularity as a method for working healthcare professionals to earn the additional credentials necessary to qualify for higher-level positions.&#xd;
+<Node id="2468" />Results of the study also claim that a majority of physicians have a similarly cynical view on how healthcare reform will affect patients<Node id="2605" />. <Node id="2607" />Results conclude that:&#xd;
+<Node id="2631" />&#xd;
+<Node id="2633" />58% feel the legislation will negatively affect patients&#xd;
+27% feel the effect will be positive<Node id="2727" />&#xd;
+<Node id="2729" />&#xd;
+<Node id="2731" />Survey results distinguished responses among physicians of different medical practices, for example, as primary care physicians, or psychiatrists. Of all participating groups, pediatricians and psychiatrists were the most optimistic about the future of healthcare. On the other hand, dermatologists were found to have the most negative outlook; <Node id="3076" />not a single dermatologist polled reported a belief that current healthcare reform efforts would have a positive effect on physicians<Node id="3209" />.<Node id="3210" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="6" Type="doc" StartNode="0" EndNode="3210">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc082</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">us,healthcare,constitution</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.ushealthcareconstitution.org/a-majority-of-physicians-oppose-us-healthcare-reform.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="0" EndNode="52">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="330" EndNode="425">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="456" EndNode="662">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1628" EndNode="1865">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2468" EndNode="2605">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_quality_of_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="978" EndNode="1137">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="844" EndNode="972">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1372" EndNode="1464">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="1140" EndNode="1370">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rel" StartNode="1871" EndNode="2056">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="1466" EndNode="1597">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="3076" EndNode="3209">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="2607" EndNode="2727">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_quality_of_care</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="54">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="56" EndNode="1005">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="1007" EndNode="1138">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1140" EndNode="2631">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="2633" EndNode="2729">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="2731" EndNode="3210">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

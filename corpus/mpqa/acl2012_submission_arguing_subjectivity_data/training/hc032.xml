@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc032.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />ObamaCare &amp; AARP
+Tuesday, December 7, 2010
+ Had their employer been more careful about what it wished for, 4,500 AARP employees, retirees and dependents wouldn't be facing such stiff hikes in their health insurance premiums.
+ The 40-million-member group, which lobbies on behalf of Americans age 50 and older, provided key support for ObamaCare just days before its House passage by a narrow margin. 
+ But now, <Node id="411" />AARP is telling its employees that ObamaCare is a factor in premium increases of 8 percent to 13 percent that they'll have to pay next year.
+<Node id="552" />
+ An Oct. 25 AARP e-mail to its employees cited rapidly rising medical costs as the main reason for the premium hikes; the group's legislative affairs director has since sought to minimize ObamaCare's role in those increases.
+ Still, <Node id="786" />the e-mail cited AARP's desire to avoid ObamaCare's 40 percent tax on high-cost "Cadillac" health plans, which takes effect in 2018, as a reason for changing its employees' coverage and premiums.
+<Node id="982" />
+ AARP contends ObamaCare will be beneficial for its broad membership, whose interests come before those of its employees. 
+ That's cruelly cold comfort for those <Node id="1145" />AARP employees, who will pay the price -- literally -- for ObamaCare<Node id="1213" /> and for their employer's support of <Node id="1250" />government meddling that the American people oppose.
+<Node id="1303" />
+<Node id="1304" />
+<Node id="1305" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="1305">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc032</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Pittsburgh,Tribune-Review,Tribune,Review</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20101207</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.pittsburghlive.com/x/pittsburghtrib/opinion/s_712505.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="411" EndNode="552">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="786" EndNode="982">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_benefits</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="1145" EndNode="1213">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_higher_taxes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1250" EndNode="1303">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1304">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc070.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Monday, December 19, 2011&#xd;
+<Node id="27" />How "Obamacare" is helping small business - tax cuts, baby<Node id="85" />&#xd;
+By John Aravosis on 12/19/2011 05:30:00 PM&#xd;
+<Node id="131" />&#xd;
+<Node id="133" />| Reddit | Facebook | Digg | FARK&#xd;
+<Node id="168" />&#xd;
+<Node id="170" />Heritage.com:&#xd;
+<Node id="185" />&#xd;
+    <Node id="191" />With the economy still in a slump, small business owners like me are doing everything we can to keep our costs down. A particularly troublesome cost for my business is health insurance.&#xd;
+<Node id="378" />&#xd;
+    <Node id="384" />However, <Node id="393" />I recently learned there are tax credits in the new healthcare law specifically for small businesses that will help us pocket some extra cash<Node id="534" />.&#xd;
+<Node id="537" />&#xd;
+    <Node id="543" />In Michigan, 85.1 percent, or 126,300 small businesses were eligible for a credit in 2010; 39,600 small businesses qualified for the maximum tax credit that year.&#xd;
+<Node id="707" />&#xd;
+    <Node id="713" />Unfortunately, I saw a survey from Small Business Majority that said 57 percent of small business owners don't know about the credits<Node id="846" />. <Node id="848" />If more small employers took advantage of this opportunity to save money, there would be more cash circulating in our community<Node id="975" />.&#xd;
+<Node id="978" />&#xd;
+<Node id="980" />More about the health care reform tax credit here.&#xd;
+<Node id="1032" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="1032">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc070</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">john,aravosis</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111219</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">america,blog</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.americablog.com/2011/12/how-obamacare-is-helping-small-business.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="27" EndNode="85">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="393" EndNode="534">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="713" EndNode="846">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">people_dont_know_truth_about_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="848" EndNode="975">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="131">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="133" EndNode="168">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="170" EndNode="185">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="191" EndNode="378">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="384" EndNode="537">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="543" EndNode="707">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="713" EndNode="978">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="980" EndNode="1032">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

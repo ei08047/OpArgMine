@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc037.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />sid;pro
+url;http://www.startribune.com/opinion/commentary/103575594.html
+<Node id="75" />Al Franken: Health reform has made a difference for Minnesotans
+There's finally security. Why would anyone reject that?
+By AL FRANKEN
+ Just six months after President Obama signed health reform into law, Minnesotans are already beginning to reap its benefits.
+ During the health care debate, I met with Minnesotans of all stripes -- doctors, nurses, seniors, small-business owners, middle-class families. 
+ One thing I heard over and over is that people felt like they were paying more and more for insurance without getting real health security in return. 
+ <Node id="640" />It seemed as if the insurance companies always found a way to get out of delivering the benefits they promised -- and that you paid for -- when you needed them.<Node id="801" />
+ <Node id="803" />The new law is already closing those loopholes.<Node id="851" />
+ <Node id="853" />Some of the worst insurance company practices, like taking away coverage when you get sick or limiting the amount of care you can receive in a lifetime, are now prohibited. <Node id="1027" />
+ <Node id="1029" />Insurance companies can no longer deny coverage to kids with preexisting conditions. <Node id="1115" />
+ <Node id="1117" />Young adults can now stay on their parents' insurance through age 26. <Node id="1188" />
+ <Node id="1190" />With many college graduates struggling to find work, this is critically important for many Minnesota families.<Node id="1301" />
+ <Node id="1303" />One aspect of the law that I worked on -- called "medical loss ratio" -- makes sure that starting this year, at least 80 cents out of every dollar you spend on health insurance will actually go for health care -- not administration, marketing and profits.<Node id="1559" />
+ Seniors and small-business owners I spoke with were especially concerned about rising costs. 
+ <Node id="1657" />Seniors falling into the Medicare "donut hole" were forced to choose between buying groceries and paying for prescriptions. <Node id="1782" />
+ <Node id="1784" />Small-business owners were forced to choose between cutting off health benefits and laying off workers.<Node id="1888" />
+ The new law is already helping. 
+ <Node id="1925" />Seniors hitting that donut hole are receiving $250 rebate checks (the law will close it entirely by 2020). <Node id="2033" />
+ <Node id="2035" />Medicare beneficiaries will now receive free preventive care as part of their coverage. <Node id="2124" />
+ <Node id="2126" />Nearly 78,000 Minnesota small-business owners are now eligible for tax credits to help cover employees, and many qualify for incentives to help them offer coverage to retirees who haven't yet reached age 65 to qualify for Medicare.<Node id="2358" />
+ <Node id="2360" />Eventually, reform will slow rising costs for everyone.<Node id="2416" />
+ <Node id="2418" />Many Minnesotans were surprised to learn that they pay an average of $1,100 a year in higher premiums to cover care for the uninsured. <Node id="2554" />
+ <Node id="2556" />As those Americans gain coverage, Minnesotans already with insurance will be relieved of this hidden cost.<Node id="2663" />
+ And, despite what some would have you believe, <Node id="2712" />the nonpartisan Congressional Budget Office says the new law will decrease the deficit by $130 billion over the next decade.<Node id="2837" />
+ Of course, some longer-term benefits -- like <Node id="2884" />consumer-friendly exchanges to help you pick the right plan for your family<Node id="2959" /> -- won't take effect for a few years. 
+ So it's perfectly understandable that some skepticism about reform endures. 
+ But <Node id="3084" />those who seek to repeal the law would take away all of the things I've outlined that are already in place. <Node id="3193" />
+ <Node id="3195" />And those who seek to have our state "opt out" of the law are denying Minnesota its fair share of the benefits.<Node id="3307" />
+ Already, our state is one of the very few choosing to walk away from federal grant money, a decision the Mayo Clinic says could jeopardize its position as a national standard-bearer for care and as a key driver of jobs and economic growth for Minnesota.
+ There are going to be more opportunities to receive federal funding; we can't afford to miss out next time. 
+ Our state has been a leader in health care for decades. 
+ It would be a real shame to fall behind the curve.
+ There's still work to be done. 
+ And I'll keep listening to Minnesotans. But I supported reform because <Node id="3893" />I heard too many stories about how our system was falling short -- stories about Minnesotans driven into bankruptcy because they got sick<Node id="4030" /> or <Node id="4034" />prevented from starting a small business because their preexisting condition would make it impossible to find health insurance.<Node id="4162" />
+<Node id="4163" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="75" EndNode="4163">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc037</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Al,Albert,Franken</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Star,Tribune</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.startribune.com/opinion/commentary/103575594.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="640" EndNode="801">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">current_system_leads_to_corporate_exploitation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="803" EndNode="851">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_corporate_exploitation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="853" EndNode="1027">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_insurers_from_dropping_the_sick</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1117" EndNode="1188">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1029" EndNode="1115">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_pre-existing_conditions_for_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="1190" EndNode="1301">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1303" EndNode="1559">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_efficiency_of_insurers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">both</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1925" EndNode="2033">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1657" EndNode="1782">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1784" EndNode="1888">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2035" EndNode="2124">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2126" EndNode="2358">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="2360" EndNode="2416">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="2556" EndNode="2663">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_are_burden_on_taxpayers</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="2418" EndNode="2554">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">uninsured_are_burden_on_taxpayers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="2712" EndNode="2837">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">maintains/reduces_govt_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="3084" EndNode="3193">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_improve_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2884" EndNode="2959">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">exchanges_support_informed_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="3893" EndNode="4030">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_currently_bankrupted_from_illness</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="3195" EndNode="3307">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_improve_healthcare_system</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="4034" EndNode="4162">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_conditions_currently_block_coverage</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4163">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

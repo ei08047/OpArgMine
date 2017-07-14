@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc086.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Home > Health Care Reform > Happy Birthday Affordable Care Act&#xd;
+Happy Birthday Affordable Care Act&#xd;
+Posted on March 22, 2011 by Andrea Kovach&#xd;
+<Node id="143" />&#xd;
+    <Node id="149" />Email This&#xd;
+    Print&#xd;
+    Comments&#xd;
+    Trackbacks&#xd;
+<Node id="202" />&#xd;
+<Node id="204" />Happy BirthdayAmericaâ&#x20ac;&#x2122;s health care law, the Affordable Care Act, turns one year old on March 23rd. Thatâ&#x20ac;&#x2122;s good news for Illinoisâ&#x20ac;&#x2122;s four-year-oldsâ&#x20ac;&#x201d;and forty-four-year-olds, and lots of other Illinoisans too. Thatâ&#x20ac;&#x2122;s because <Node id="437" />the law imposes consumer protections on the hugely unregulated health insurance industry<Node id="525" />, and <Node id="531" />promises to cover over half of the uninsured by allowing states to create insurance marketplaces that provide transparent, comprehensive, affordable health plan choices, makes federal subsidies available to ensure middle-class families wonâ&#x20ac;&#x2122;t break the bank to pay for their plans, and expands Medicaid to low-income adults<Node id="855" />.&#xd;
+<Node id="858" />&#xd;
+<Node id="860" />Illinoisâ&#x20ac;&#x2122;s leaders have worked hard to build a track record of success on access to health insurance coverage. Democrats and Republicans have put partisan politics aside and <Node id="1036" />worked together to reform Medicaid and to enact consumer protections in the private insurance industry, such as dependent care coverage for young adults<Node id="1188" />. Now itâ&#x20ac;&#x2122;s time for our leaders in Springfield to again make some critical decisionsâ&#x20ac;&#x201d;this time about how the Affordable Care Act works in Illinois. And we all have a role in ensuring that the law works for Illinoisâ&#x20ac;&#x2122;s families and individuals.&#xd;
+<Node id="1438" />&#xd;
+<Node id="1440" />The Affordable Care Act has already delivered important wins for Illinoisâ&#x20ac;&#x2122;s residents<Node id="1527" />. <Node id="1529" />Illinoisans diagnosed with cancer or other serious conditions can no longer be denied care because of annual or lifetime insurance limits<Node id="1666" /> and <Node id="1671" />insurers cannot deny coverage outright for children<Node id="1722" />. <Node id="1724" />Parents can keep their college-age children on their family health insurance policies<Node id="1809" />. And <Node id="1815" />Illinoisans with private insurance can get the screenings and check-ups they need to stay healthy, without the out-of-pocket costs that encourage fix-it care instead of health care<Node id="1995" />.&#xd;
+<Node id="1998" />&#xd;
+<Node id="2000" />And the Affordable Care Act can deliver even bigger wins for Illinois in the coming years<Node id="2089" />. <Node id="2091" />It authorizes new insurance marketplaces or â&#x20ac;&#x153;exchanges,â&#x20ac;&#xfffd; to make private insurance work better<Node id="2189" />. <Node id="2191" />Exchange subsidies can make care more affordable for middle-class families<Node id="2265" />. <Node id="2267" />The law authorizes improvements to Medicaid that can make health care a reality hundreds of thousands more Illinoisans who are uninsured today<Node id="2409" />.&#xd;
+<Node id="2412" />&#xd;
+<Node id="2414" />But these gains for Illinoisâ&#x20ac;&#x2122;s families and individuals are not automatic. Our leaders in Springfield will make decisions over the next few years that will have consequences for decades to come. They will decide <Node id="2628" />whether Illinoisâ&#x20ac;&#x2122;s exchange provides adequate access to health care for patients, families, and employers in Illinois in a manner that is in the best interest of such individuals, and theyâ&#x20ac;&#x2122;ll decide whether the exchange offers coverage parents can afford<Node id="2886" />.&#xd;
+<Node id="2889" />&#xd;
+<Node id="2891" />Theyâ&#x20ac;&#x2122;ll decide <Node id="2908" />whether insurance consumer protections actually work and whether Medicaid reaches more uninsured Illinoisans, or whether these individuals will be left behind<Node id="3066" />. And theyâ&#x20ac;&#x2122;ll make dozens of other decisions that will determine howâ&#x20ac;&#x201d;or even ifâ&#x20ac;&#x201d;the Affordable Care Act works for Illinois.&#xd;
+<Node id="3197" />&#xd;
+<Node id="3199" />Every Illinois resident who cares about access to health care can help our leaders in Springfield make the right choices<Node id="3319" />. <Node id="3321" />Policymakers need to hear that itâ&#x20ac;&#x2122;s time to embrace Illinoisâ&#x20ac;&#x2122;s long-standing tradition of putting access to health care ahead of partisan politics<Node id="3471" />. They need to hear that the cost of failure is too high. They need to hear that they must keep implementation moving forward, and that making the right choices for Illinoisans is the best way to define success.&#xd;
+<Node id="3684" />&#xd;
+<Node id="3686" />The Affordable Care Actâ&#x20ac;&#x2122;s first birthday is the perfect time to send a strong message to Illinoisâ&#x20ac;&#x2122;s leaders. If we get off the sidelines and into the game today, Illinois will be the big winner.&#xd;
+<Node id="3886" />&#xd;
+ &#xd;
+<Node id="3891" />Tags: Affordable Care Act, Health Care Reform&#xd;
+<Node id="3938" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="3938">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc086</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">andrea,kovach</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110322</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">shriver,brief</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.theshriverbrief.org/2011/03/articles/health-care-justice/health-care-reform-1/happy-birthday-affordable-care-act/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="437" EndNode="525">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">current_system_leads_to_corporate_exploitation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="531" EndNode="855">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarentees_access_to_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="1440" EndNode="1527">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="1036" EndNode="1188">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_access</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="1671" EndNode="1722">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_pre-existing_conditions_for_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="1529" EndNode="1666">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_caps_on_coverage</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1815" EndNode="1995">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarantees_access_to_preventative_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1724" EndNode="1809">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="2091" EndNode="2189">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">exchanges_support_informed_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2000" EndNode="2089">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_improve_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="2267" EndNode="2409">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_access</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="2191" EndNode="2265">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="2628" EndNode="2886">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">exchanges_support_informed_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="3321" EndNode="3471">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rel" StartNode="3199" EndNode="3319">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_passed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="2908" EndNode="3066">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_coverage_for_poor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">both</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="143">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="149" EndNode="202">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="204" EndNode="858">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="860" EndNode="1438">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1440" EndNode="1998">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="2000" EndNode="2412">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2414" EndNode="2889">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2891" EndNode="3197">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="3199" EndNode="3684">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="3686" EndNode="3886">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="3891" EndNode="3938">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

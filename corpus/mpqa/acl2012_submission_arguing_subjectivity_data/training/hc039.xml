@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc039.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Young victims of ObamaCare
+By Michelle Malkin
+Monday, December 6, 2010
+ It's time for America's youth to buckle up and take a rough ride on the Reality Highway. 
+ For the past two years, President Obama has promised our children the moon, stars, rainbows, unicorns and universal health care for all. 
+ But <Node id="306" />the White House Santa's cradle-to-grave entitlement mandates are a spectacularly predictable bust.
+<Node id="405" />
+ Don't take it from me. 
+ Take it from ObamaCare's own biggest cheerleaders.
+ Recently <Node id="493" />the Service Employees International Union informed dues-paying members of its behemoth 1199 affiliate in New York that it was dropping its health care coverage for children. 
+<Node id="668" />
+ That's right. 
+ <Node id="686" />A radical leftist union, not an evil Republican corporation, is abandoning the young to cut costs.
+<Node id="785" />
+ More than 30,000 low-wage families will be affected, according to The Wall Street Journal. 
+ Who's to blame? 
+ <Node id="898" />SEIU 1199 benefits manager Mitra Behroozi singled out oppressive new state and federal regulations, including the much-ballyhooed ObamaCare rule forcing insurers to cover dependents well into their 20s.
+<Node id="1101" />
+ In a related development, <Node id="1129" />over the past several months insurers across California, Colorado, Ohio and Missouri have dropped child-only plans because of ObamaCare-induced premium increases. 
+<Node id="1293" />
+ Untold tens of thousands of families who purchase their plans in the private individual health market will be affected.
+ <Node id="1416" />To sell ObamaCare and manufacture support, desperate Democrats pandered to the college set and their parents. <Node id="1526" />
+ Former SEIU chief Andy Stern specifically touted the unfunded kiddie insurance mandate as a strategic selling point.
+ Now, <Node id="1651" />confronted with the thorny allocation of scarce resources, profligate money managers at the SEIU are dropping thousands of kids' health coverage because they can't afford to foot the bill imposed by the president<Node id="1863" /> whom their union bosses spent more than $60 million to elect.
+ The SEIU also pumped tens of millions of dollars in union funds directly into the campaign for ObamaCare. 
+ <Node id="2035" />Workers regurgitated White House talking points hyping increased access<Node id="2106" />, lower premiums and peace of mind for the working class. 
+ SEIU 1199 -- which is now cutting off health care coverage to children whose parents work in the health care industry -- was at the forefront of those D.C.-directed "reform" rallies.
+ Yes, the <Node id="2359" />union road to hell is paved with workers' own hard-earned dues money.
+<Node id="2429" />
+ How far we've come from the halcyon moment when President Obama rallied college students at George Mason University in March. 
+ To wild applause, he pledged: "If you buy a new plan, there won't be lifetime or restrictive annual limits on the amount of care you receive from your insurance companies. 
+ (Applause.) 
+ And by the way, to all the young people here today, starting this year if you don't have insurance, all new plans will allow you to stay on your parents' plan until you are 26 years old. 
+ (Applause.)"
+ Cue bitter laughter here. 
+ <Node id="2978" />More financially strapped union affiliates like SEIU 1199 will undoubtedly be canceling children's coverage to escape the costs tied to Obama's vow.
+<Node id="3127" />
+ For the <Node id="3137" />kiddie human shields who helped Democrats dig their own ditch<Node id="3198" />, reality bites. 
+ Live and learn.
+Michelle Malkin is the author of "Culture of Corruption: Obama and his Team of Tax Cheats, Crooks &amp; Cronies" (Regnery 2009).
+<Node id="3358" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="3358">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc039</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Michelle,Malkin</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Pittsburgh,Tribune-Review,Tribune,Review</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20101206</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.pittsburghlive.com/x/pittsburghtrib/opinion/s_712156.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="306" EndNode="405">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="493" EndNode="668">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="686" EndNode="785">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="rel" StartNode="898" EndNode="1101">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1129" EndNode="1293">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1416" EndNode="1526">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_is_politically_motivated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1651" EndNode="1863">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="2359" EndNode="2429">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">sside</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="rel" StartNode="2035" EndNode="2106">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">sside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2978" EndNode="3127">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="3137" EndNode="3198">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">sside</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3358">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

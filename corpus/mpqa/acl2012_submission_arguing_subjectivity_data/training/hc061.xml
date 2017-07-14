@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc061.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Finance Blogs » Retirement » Repeal health care reform?&#xd;
+Repeal health care reform?&#xd;
+By Jennie L. Phipps · Bankrate.com&#xd;
+Wednesday, September 7, 2011&#xd;
+Posted: 4 pm ET&#xd;
+<Node id="168" />&#xd;
+<Node id="170" />It's hard to understand every aspect of  President Barack Obama's complex health care reform plan and how it will effect all of us. <Node id="302" />But it seems clear that there are some aspects of it that provide important benefits to those of us doing retirement planning<Node id="427" />.&#xd;
+<Node id="430" />&#xd;
+<Node id="432" />If the Patient Protection and Affordable Care Act is repealed, Medicare beneficiaries with high levels of prescription drug use would have to save 30 percent to 40 percent more than they currently are to pay for higher drug costs during retirement<Node id="679" />, according to new financial calculations from the Employee Benefit Research Institute, or ERBI, a nonprofit think tank funded primarily by financial institutions.&#xd;
+<Node id="844" />&#xd;
+<Node id="846" />Here's why. <Node id="858" />A repeal would mean a return of the so-called donut hole coverage gap for Medicare prescription drug coverage<Node id="967" /> (Medicare Part D), which health care reform reduces between now and 2020. <Node id="1042" />The result would increase out-of-pocket costs for the highest prescription drug users<Node id="1127" /> and thus the savings needed to cover their health care expenses in retirement.&#xd;
+<Node id="1208" />&#xd;
+<Node id="1210" />The ERBI says this in its recent press release:&#xd;
+"When the Part D program was originally enacted, a controversial feature of the program was the coverage gap, or donut hole. Part D enrollees paid the entire cost of their prescription drugs in the coverage gap. Starting in 2011, enrollees have a $310 deductible, followed by 25 percent coinsurance on the next $2,530 in expenses. Once enrollees incur $2,840 in expenses, they are responsible for the entire cost of prescription drugs until the catastrophic threshold of $4,550 is reached. An enrollee who reaches the catastrophic threshold would pay $1,710 toward the cost of prescription drugs in the coverage gap. Once the catastrophic threshold is met, the enrollee is responsible for 5 percent coinsurance."&#xd;
+<Node id="1973" />&#xd;
+<Node id="1975" />Health care reform included provisions to reduce the size of the coverage gap<Node id="2052" />. <Node id="2054" />In 2011, enrollees get a 50 percent discount on certain brand-name drugs and a 7 percent discount on generic drugs when in the coverage gap<Node id="2193" />.<Node id="2194" /> By 2020, additional subsidies will be phased in so that enrollees will pay 25 percent of the cost of prescription drugs when in the coverage gap whether for generic or brand-name drugs<Node id="2379" />.&#xd;
+<Node id="2382" />&#xd;
+<Node id="2384" />Starting in 2014, health care reform does other things that help retirees and those close to it. It <Node id="2484" />prohibits insurance companies from discriminating against people with pre-existing conditions<Node id="2577" />, <Node id="2579" />expands Medicaid eligibility to people with incomes up to 133 percent of the poverty line<Node id="2668" /> and <Node id="2673" />subsidizes premiums for people with incomes up to 400 percent of the poverty line<Node id="2754" />.&#xd;
+<Node id="2757" />&#xd;
+<Node id="2759" />Before you jump on the "repeal health care reform" bandwagon, make sure that you're not advocating something that will cause you and yours unnecessary pain<Node id="2914" />.&#xd;
+<Node id="2917" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="16" Type="arg" StartNode="302" EndNode="427">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_seniors_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="2194" EndNode="2379">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_medicare_recipients_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="2054" EndNode="2193">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_medicare_recipients_pay_for_meds</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2759" EndNode="2914">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_not_be_defunded</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="2917">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc061</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">jennie,phipps</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">bankrate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110907</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.bankrate.com/financing/retirement/repeal-health-care-reform/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="432" EndNode="679">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_medicare_recipients_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="858" EndNode="967">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_medicare_recipients_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1042" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_medicare_recipients_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="1975" EndNode="2052">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_medicare_recipients_pay_for_meds</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2484" EndNode="2577">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_pre-existing_conditions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2579" EndNode="2668">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_coverage_for_poor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="2673" EndNode="2754">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_coverage_for_poor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="168">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="170" EndNode="430">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="432" EndNode="844">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="846" EndNode="1208">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1210" EndNode="1973">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1975" EndNode="2382">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2384" EndNode="2757">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2759" EndNode="2917">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc095.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Good Times Home News Town Hall Congressmember Sam Farr&#xd;
+Congressmember Sam Farr&#xd;
+Tuesday, 08 February 2011 14:59 Congressmember Sam Farr News - Town Hall&#xd;
+ E-mail&#xd;
+<Node id="164" />&#xd;
+<Node id="166" />SamFarrNewRepublicans have dubbed the healthcare bill the &#x201c;job-killing&#x201d; or &#x201c;job-destroying&#x201d; healthcare act. What is your response to this? What are the bill&#x2019;s actual impacts on jobs and the economy?&#xd;
+<Node id="366" />&#xd;
+<Node id="368" />To the dismay of folks across the country, Republicans have opted for the status quo and have continued to operate with their same old games and political rhetoric<Node id="531" />.&#xd;
+<Node id="534" />&#xd;
+<Node id="536" />Bottom line&#x2014;the healthcare reform is not about killing jobs<Node id="595" />. <Node id="597" />It&#x2019;s also about our dire need to address healthcare costs and our national deficit<Node id="679" />. <Node id="681" />It&#x2019;s about creating jobs for millions of Americans, and strengthening the middle class for hard-working families<Node id="793" />.&#xd;
+<Node id="796" />&#xd;
+<Node id="798" />American families are struggling to make ends meet and are fighting off foreclosures to stay in their homes. <Node id="907" />They are also living without proper healthcare, which is overwhelming local hospitals and taking its toll on the health and wallets of millions of Americans<Node id="1063" />.&#xd;
+<Node id="1066" />&#xd;
+<Node id="1068" />Today, health care reform has improved coverage for 362,000 residents on the Central Coast<Node id="1158" />, and <Node id="1164" />has extended tax credits to up to 132,000 families and small business to help pay for healthcare coverage<Node id="1269" />. At a time when families continue to struggle against the lingering effects of the worst economic recession in more than 50 years, <Node id="1401" />the enacted healthcare reforms are making a real and positive impact in people&#x2019;s lives&#x2014;both in terms of health and affordability<Node id="1529" />.&#xd;
+<Node id="1532" />&#xd;
+<Node id="1534" />For that reason, <Node id="1551" />I was very disappointed to see the House Republican Leadership lead their agenda with an attempt to repeal healthcare benefits<Node id="1677" />. Truth of the matter is&#x2014;<Node id="1702" />while Republicans run circles around their repeal efforts<Node id="1759" />, millions of Americans walk out of their front door every morning to look for work&#x2014;only to return with less hope and more worries.&#xd;
+<Node id="1892" />&#xd;
+<Node id="1894" />Once again, the Republican majority has got it all wrong<Node id="1950" />. It is time for them to open their eyes, and take a deep look at the dire realities Americans face every day.&#xd;
+<Node id="2062" />&#xd;
+<Node id="2064" />You have been named the most senior democratic member of the Appropriation&#x2019;s Agriculture Subcommittee. As the representative for California&#x2019;s agricultural seat, how do you plan to change, reform or improve agricultural legislative policy?&#xd;
+<Node id="2304" />&#xd;
+<Node id="2306" />The Central Coast is home to one of the most rich and diverse agriculture regions in the world. The agricultural goods produced by our local farmers reach dinner tables across the country and around the globe. The 17th District, including Santa Cruz, produces more than $4.5 billion in agricultural goods each year. And the best part is we are growing the produce we should be eating as part of a healthy diet.&#xd;
+<Node id="2718" />&#xd;
+<Node id="2720" />We live in a special area, and serving as the Ranking Member of the Appropriations Sub-Committee on Agriculture provides me with the unique opportunity to directly support our local farms and farmers. For that reason, shaping the direction of specialty crop agriculture remains one of my highest priorities. Research, market access, and data collection are vital and necessary tools used by our conventional and organic growers to compete in today&#x2019;s global market.&#xd;
+<Node id="3186" />&#xd;
+<Node id="3188" />I also remain a champion for child nutrition. I feel strongly that we have a responsibility to help usher in a new era of better wellness in our country, that results with benefits today and for future generations of healthy Americans. But we simply cannot grow a healthier America without addressing issues of nutrition in our schools.&#xd;
+<Node id="3526" />&#xd;
+<Node id="3528" />Legislation like the Health-Hunger Free Kids Act&#x2014;signed by the president last year&#x2014;is paving the way for healthier lunch options in our school cafeterias. It is also increasing access to healthy lunches for underprivileged youth and is connecting local farms with our schools for the purpose of providing fresh fruits and vegetables.&#xd;
+<Node id="3863" />&#xd;
+<Node id="3865" />But in order to make this happen, we have to assure that government agencies, such as the Department of Agriculture, have the funding they need to complete their mission. As such, fighting to hold funding levels will be top on my agenda.&#xd;
+<Node id="4104" />&#xd;
+<Node id="4106" />I look forward to working with my committee colleagues to advance these priorities that are important to the Central Coast and the nation.<Node id="4244" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="17" Type="arg" StartNode="536" EndNode="595">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">promotes_jobs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="368" EndNode="531">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_has_no_plan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="681" EndNode="793">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">promotes_jobs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="597" EndNode="679">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="1068" EndNode="1158">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_access</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="907" EndNode="1063">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">many_americans_lack_appropriate_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="1401" EndNode="1529">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="1164" EndNode="1269">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="1551" EndNode="1677">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="1702" EndNode="1759">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="1894" EndNode="1950">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="doc" StartNode="0" EndNode="4244">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc095</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">sam,farr</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">good,times</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110208</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.goodtimessantacruz.com/index.php/santa-cruz-news/santa-cruz-town-hall/2158-congressmember-sam-farr.html</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="164">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="166" EndNode="366">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="368" EndNode="534">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="536" EndNode="796">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="798" EndNode="1066">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1068" EndNode="1532">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1534" EndNode="1892">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1894" EndNode="2062">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2064" EndNode="2304">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2306" EndNode="2718">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2720" EndNode="3186">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="3188" EndNode="3526">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="3528" EndNode="3863">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="3865" EndNode="4104">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="4106" EndNode="4244">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

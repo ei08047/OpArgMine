@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc049.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />December 22, 2011&#xd;
+<Node id="19" />Obamacare&#x2019;s terrible, horrible, no good, very bad year&#xd;<Node id="74" />
+By Paul Conner Published: 11:47 PM 12/20/2011 | Updated: 2:18 PM 12/21/2011&#xd;
+By Paul Conner&#xd;
+Bio | Archive | Email Paul Conner&#xd;
+Follow Paul Conner Get Paul Conner Feed&#xd;
+inShare8&#xd;
+Email This Article&#xd;
+Print This Article&#xd;
+MIAMI - JANUARY 18: Dr. Olveen Carrasquillo, Chief of General Internal Medicine University of Miami, conducts a checkup on Juan Gonzalez at the University of Miami's Miller School of Medicine, as the United States House Republicans in Washington, DC were poised to approve a bill repealing the health care law that last year was signed into law overhauling the U.S. health care system on January 18, 2011 in Miami, Florida. (Photo by Joe Raedle/Getty Images)&#xd;
+<Node id="754" />&#xd;
+<Node id="756" />2011 was supposed to be a bad year for President Obama&#x2019;s health care law, with House Republicans taking aim and federal lawsuits snaking their way through the judiciary. And although the House of Representatives has had limited success in dismantling the overhaul, key portions began to unravel all by themselves.&#xd;
+<Node id="1071" />&#xd;
+<Node id="1073" />Here&#x2019;s a look at the Patient Protection and Affordable Care Act&#x2019;s year in review.&#xd;
+<Node id="1156" />&#xd;
+<Node id="1158" />&#x2013; Jan. 14: <Node id="1169" />Kansas announces its intention to become the 26th state to file suit against the federal government to stop implementation of the health care overhaul<Node id="1319" />.&#xd;
+<Node id="1322" />&#xd;
+<Node id="1324" />&#x2013; Jan. 19: <Node id="1335" />The House of Representatives votes to repeal the health care law.&#xd;<Node id="1401" />
+<Node id="1402" />&#xd;
+<Node id="1404" />&#x2013; Jan. 26: <Node id="1415" />Illinois-based pharmaceutical company Abbott Labs cuts 1,900 jobs &#x201c;in response to changes in the health-care industry, including U.S. health-care reform and the challenging regulatory environment.&#x201d;<Node id="1612" />&#xd;
+<Node id="1614" />&#xd;
+<Node id="1616" />&#x2013; Jan. 31: <Node id="1627" />A second federal district judge rules that the law is unconstitutional.&#xd;<Node id="1699" />
+<Node id="1700" />&#xd;
+<Node id="1702" />&#x2013; Feb. 2: <Node id="1712" />All 47 Republican senators vote to repeal the Affordable Care Act, but the measure fails.<Node id="1801" />&#xd;
+<Node id="1803" />&#xd;
+<Node id="1805" />&#x2013; Feb. 16: <Node id="1816" />Health and Human Services Secretary Kathleen Sebelius testifies before the Senate Finance Committee and admits that the CLASS Act, a key portion of the law that was touted as a $70 billion savings, is &#x201c;totally unsustainable.&#x201d;<Node id="2041" /> But not to worry: Sebelius says her department has the authority to rework the legislation to make CLASS tenable.&#xd;
+<Node id="2157" />&#xd;
+<Node id="2159" />&#x2013; Feb. 18: <Node id="2170" />The House votes to block federal funding to implement the Affordable Care Act.<Node id="2248" /> The Congressional Budget Office also estimates that repealing the law would add $210 billion to the combined federal deficits from 2012 to 2021.&#xd;
+<Node id="2395" />&#xd;
+<Node id="2397" />&#x2013; Feb. 22: A federal judge tosses a lawsuit claiming that the Affordable Care Act violates the liberties of those who choose to rely on God to protect and heal them instead of buying health insurance.&#xd;
+<Node id="2599" />&#xd;
+<Node id="2601" />&#x2013; March 3: <Node id="2612" />The House votes to end an unpopular tax paperwork-filing requirement for businesses tucked into the health care law<Node id="2727" />.&#xd;
+<Node id="2730" />&#xd;
+<Node id="2732" />&#x2013; March 23: The law turns one year old. On the same day, <Node id="2789" />the House Committee on Energy and Commerce finds that the temporary Early Retirement Reinsurance Program will spend its allotted $5 billion far earlier than its Jan. 1, 2014 expiration date.<Node id="2979" />&#xd;
+<Node id="2981" />&#xd;
+<Node id="2983" />&#x2013; March 30: <Node id="2995" />The CBO estimates that health care reform will cost $1.1 trillion, an increase of $90 billion from its February estimate.&#xd;<Node id="3117" />
+<Node id="3118" />&#xd;
+<Node id="3120" />&#x2013; May 17: <Node id="3130" />The Daily Caller reports that 20 percent of new waivers from the law have gone to gourmet restaurants, nightclubs and fancy hotels in former House Speaker Nancy Pelosi&#x2019;s district.&#xd;<Node id="3310" />
+<Node id="3311" />&#xd;
+<Node id="3313" />&#x2013; June 8: <Node id="3323" />A McKinsey &amp; Company survey of over 1,300 private sector employers found that 30 percent of employers would definitely or probably stop offering insurance to their employees after the law is implemented in 2014.&#xd;<Node id="3535" />
+<Node id="3536" />&#xd;
+<Node id="3538" />&#x2013; June 18: HHS announces that it is axing waivers from the law.&#xd;
+<Node id="3603" />&#xd;
+<Node id="3605" />&#x2013; June 21: A glitch in the law, discovered after Obama signed it, would allow middle-class Americans to get subsidized health care intended for poor people, the Associated Press reports. Medicare&#x2019;s chief actuary says the policy &#x201c;doesn&#x2019;t make sense.&#x201d;&#xd;
+<Node id="3856" />&#xd;
+<Node id="3858" />&#x2013; June 29: In the face of a constitutional challenge, the Sixth Circuit Court of Appeals rules in favor of the law.&#xd;
+<Node id="3975" />&#xd;
+<Node id="3977" />&#x2013; July 18: An Employment Policies Institute report finds that <Node id="4039" />the Affordable Care Act would incentivize employees to switch to a government-subsidized insurance exchange even if employers were to continue their health care coverage, costing taxpayers &#x201c;significant[ly].&#x201d;<Node id="4246" />&#xd;
+<Node id="4248" />&#xd;
+<Node id="4250" />&#x2013; July 19: The bipartisan &#x201c;gang of six&#x201d; puts forward a debt-reduction plan that would repeal the CLASS Act.&#xd;
+<Node id="4359" />&#xd;
+<Node id="4361" />&#x2013; Aug. 1: <Node id="4371" />HHS issues a regulation requiring all group health insurance plans to cover FDA-approved &#x201c;contraceptive methods, sterilization procedures, and patient education and counseling for all women with reproductive capacity.<Node id="4588" />&#x201d;&#xd;
+<Node id="4591" />&#xd;
+<Node id="4593" />&#x2013; Aug. 12: <Node id="4604" />The Eleventh Circuit Court of Appeals rules that the law&#x2019;s individual health insurance mandate is unconstitutional<Node id="4718" />.&#xd;
+<Node id="4721" />&#xd;
+<Node id="4723" />&#x2013; Sept. 8: The Fourth Circuit Court of Appeals rejects a pair of challenges to the law on procedural grounds. It does not rule on the law&#x2019;s constitutionality.&#xd;
+<Node id="4883" />&#xd;
+<Node id="4885" />&#x2013; Sept. 15: <Node id="4897" />A bicameral Republican report accuses Democratic supporters of the health care law of recklessness for promoting the CLASS Act despite knowing that the program would eventually blow up the budget<Node id="5092" />.&#xd;
+<Node id="5095" />&#xd;
+<Node id="5097" />&#x2013; Oct. 5:<Node id="5106" /> The signatures of about 1.6 million petitioners pressing for the repeal of the Affordable Care Act are delivered to Capitol Hill at a press conference<Node id="5257" />.&#xd;
+<Node id="5260" />&#xd;
+<Node id="5262" />&#x2013; Oct. 13: A federal inspector general finds that the IRS is having trouble collecting the 10-percent federal tanning tax established by the law.&#xd;
+<Node id="5409" />&#xd;
+<Node id="5411" />&#x2013; Oct. 14: HHS completes its 19-month review of the CLASS Act, determining that &#x201c;we do not have a path to move forward,&#x201d; Sebelius says. CLASS remains on the books, but the administration essentially gives up on it.&#xd;
+<Node id="5627" />&#xd;
+<Node id="5629" />&#x2013; Nov. 4: Tennessee Rep. Phil Roe and 23 Republican colleagues send a letter to IRS Commissioner Douglas Shulman objecting to a new IRS rule authorizing subsidies for participants in the yet-to-be-created federal health care exchange program. They argue that the agency is seeking to rewrite legislation, something it is not allowed to do. Conservative experts say the IRS rules are covering up a glitch in the original law that provides subsidies for people enrolled in state exchanges, but not federal exchanges. Shulman does not agree with their analysis.&#xd;
+<Node id="6189" />&#xd;
+<Node id="6191" />&#x2013; Nov. 9: <Node id="6201" />The National Federation of Independent Business releases a report saying that in 2012 the law&#x2019;s new health insurance tax will reduce private sector jobs by between 125,000 and 249,000<Node id="6384" />.&#xd;
+<Node id="6387" />&#xd;
+<Node id="6389" />&#x2013; Nov. 10: The Beckett Fund for Religious Liberty announces it is suing HHS on behalf of Belmont Abbey College, a Catholic educational institution. <Node id="6537" />The lawsuit claims the Aug. 1 regulation violates the college&#x2019;s teaching on contraception, sterilization and abortion<Node id="6654" />.&#xd;
+<Node id="6657" />&#xd;
+<Node id="6659" />&#x2013; Nov. 14: The Supreme Court agrees to hear arguments on the Affordable Care Act.&#xd;
+<Node id="6742" />&#xd;
+<Node id="6744" />&#x2013; Nov. 16: <Node id="6755" />Forty-seven percent of Americans favor repeal of the law, Gallup finds<Node id="6825" />.&#xd;
+<Node id="6828" />&#xd;
+<Node id="6830" />&#x2013; Nov. 29: Massachusetts Democratic Rep. Barney Frank joins the effort to repeal the Independent Payment Advisory Board, a key portion of the law that would &#x201c;recommend levels at which Medicare recipients, including seniors, can be reimbursed for health care expenses.&#x201d;&#xd;
+<Node id="7100" />&#xd;
+<Node id="7102" />&#x2013; Nov. 30: The House energy committee votes to repeal the CLASS Act.&#xd;
+<Node id="7172" />&#xd;
+<Node id="7174" />&#x2013; Dec. 15: The Obama administration announces that the number of young uninsured Americans has fallen by 2.5 million, attributing it to his law&#x2019;s provision permitting young adults to stay on their parents&#x2019; health care plans until age 26.&#xd;
+<Node id="7413" />&#xd;
+<Node id="7415" />&#x2013; Dec. 18: Health care experts doubt that the federal insurance exchange program will be fully operational by the Jan. 1, 2014 deadline, since <Node id="7558" />many states have refused to implement the state exchange program<Node id="7622" />, the Washington Post reports.&#xd;
+<Node id="7654" />&#xd;
+<Node id="7656" />&#x2013; Dec. 19: The Supreme Court announces it will hear an unprecedented week&#x2019;s worth of arguments in March 2012 to determine whether the health care overhaul law is constitutional.&#xd;
+<Node id="7835" />&#xd;
+<Node id="7837" />Follow Paul on Twitter&#xd;
+<Node id="7861" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="64" Type="arg" StartNode="6755" EndNode="6825">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="arg" StartNode="4371" EndNode="4588">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">forces_contraception</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="doc" StartNode="0" EndNode="7861">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc049</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">paul,conner</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">the,daily,caller</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111220</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://dailycaller.com/2011/12/20/obamacares-lousy-no-good-year/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="arg" StartNode="7558" EndNode="7622">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">some_states_dislike</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="arg" StartNode="19" EndNode="74">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="rel" StartNode="1169" EndNode="1319">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">some_states_dislike</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="arg" StartNode="1335" EndNode="1401">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="arg" StartNode="1415" EndNode="1612">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">causes_unemployment</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="rel" StartNode="2170" EndNode="2248">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="arg" StartNode="1816" EndNode="2041">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="arg" StartNode="1712" EndNode="1801">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="arg" StartNode="1627" EndNode="1699">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="arg" StartNode="3130" EndNode="3310">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">politicizes_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="arg" StartNode="2995" EndNode="3117">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="arg" StartNode="2789" EndNode="2979">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="arg" StartNode="2612" EndNode="2727">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="arg" StartNode="4897" EndNode="5092">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="arg" StartNode="4604" EndNode="4718">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="arg" StartNode="4039" EndNode="4246">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_spending</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="arg" StartNode="3323" EndNode="3535">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="arg" StartNode="6537" EndNode="6654">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">forces_contraception</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="arg" StartNode="6201" EndNode="6384">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">causes_unemployment</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="arg" StartNode="5106" EndNode="5257">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="754">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="756" EndNode="1071">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="1073" EndNode="1156">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1158" EndNode="1322">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1324" EndNode="1402">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1404" EndNode="1614">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1616" EndNode="1700">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1702" EndNode="1803">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1805" EndNode="2157">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2159" EndNode="2395">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2397" EndNode="2599">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="2601" EndNode="2730">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="2732" EndNode="2981">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="2983" EndNode="3118">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="3120" EndNode="3311">
+</Annotation>
+<Annotation Id="15" Type="paragraph" StartNode="3313" EndNode="3536">
+</Annotation>
+<Annotation Id="17" Type="paragraph" StartNode="3605" EndNode="3856">
+</Annotation>
+<Annotation Id="16" Type="paragraph" StartNode="3538" EndNode="3603">
+</Annotation>
+<Annotation Id="19" Type="paragraph" StartNode="3977" EndNode="4248">
+</Annotation>
+<Annotation Id="18" Type="paragraph" StartNode="3858" EndNode="3975">
+</Annotation>
+<Annotation Id="21" Type="paragraph" StartNode="4361" EndNode="4591">
+</Annotation>
+<Annotation Id="20" Type="paragraph" StartNode="4250" EndNode="4359">
+</Annotation>
+<Annotation Id="23" Type="paragraph" StartNode="4723" EndNode="4883">
+</Annotation>
+<Annotation Id="22" Type="paragraph" StartNode="4593" EndNode="4721">
+</Annotation>
+<Annotation Id="25" Type="paragraph" StartNode="5097" EndNode="5260">
+</Annotation>
+<Annotation Id="24" Type="paragraph" StartNode="4885" EndNode="5095">
+</Annotation>
+<Annotation Id="27" Type="paragraph" StartNode="5411" EndNode="5627">
+</Annotation>
+<Annotation Id="26" Type="paragraph" StartNode="5262" EndNode="5409">
+</Annotation>
+<Annotation Id="29" Type="paragraph" StartNode="6191" EndNode="6387">
+</Annotation>
+<Annotation Id="28" Type="paragraph" StartNode="5629" EndNode="6189">
+</Annotation>
+<Annotation Id="31" Type="paragraph" StartNode="6659" EndNode="6742">
+</Annotation>
+<Annotation Id="30" Type="paragraph" StartNode="6389" EndNode="6657">
+</Annotation>
+<Annotation Id="34" Type="paragraph" StartNode="7102" EndNode="7172">
+</Annotation>
+<Annotation Id="35" Type="paragraph" StartNode="7174" EndNode="7413">
+</Annotation>
+<Annotation Id="32" Type="paragraph" StartNode="6744" EndNode="6828">
+</Annotation>
+<Annotation Id="33" Type="paragraph" StartNode="6830" EndNode="7100">
+</Annotation>
+<Annotation Id="38" Type="paragraph" StartNode="7837" EndNode="7861">
+</Annotation>
+<Annotation Id="36" Type="paragraph" StartNode="7415" EndNode="7654">
+</Annotation>
+<Annotation Id="37" Type="paragraph" StartNode="7656" EndNode="7835">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

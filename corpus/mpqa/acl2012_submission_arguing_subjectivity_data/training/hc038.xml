@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc038.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Is there a doctor in the house? <Node id="32" />Obamacare will worsen the physician shortage Congress helped create
+<Node id="100" />
+BY DR. MARC SIEGEL
+Wednesday, October 13th 2010, 4:00 AM
+ There is a new disease spreading like a cancer in doctors' offices and hospitals throughout the U.S. 
+ I have named it Doctor Unavailability Syndrome (DUS). 
+ It is characterized by <Node id="341" />a rising shortage of doctors, both specialists and primary care, as well as the growing inability of the doctors we do have to take care of patient needs.
+<Node id="496" />
+ <Node id="498" />What good is a shiny new insurance card if there is not a physician available to see you?
+<Node id="588" />
+ This disease can be traced back to 1997, when Congress, anticipating a doctor surplus, included a section in its budget-balancing law that froze the number of Medicare-sponsored residency positions.
+ But instead of a surplus, a shortage soon developed, and has worsened over the years, now reaching epidemic proportions. 
+ The Association of American Medical Colleges Center for Workforce Studies just reported <Node id="1001" />an anticipated shortage of 90,000 doctors of all kinds over the next decade, with half of them being primary care physicians and the other half surgeons and specialists.
+<Node id="1171" />
+ The report suggests that <Node id="1198" />Medicare should support at least a "15% increase in GME (Graduate Medical Education) positions, allowing teaching hospitals to prepare another 4,000 physicians a year to meet the needs of 2020 and beyond."
+<Node id="1404" />
+ Don't count on this proposed subsidy happening any time soon. 
+ Instead, <Node id="1479" />the new health care law<Node id="1502" />, known ironically as the Affordable Care Act, is promoting and extending the kind of low co-pay and low deductible insurance that is easy to overuse, overwhelming doctors further<Node id="1681" /> and <Node id="1686" />leading to an upward spiral of health care costs.<Node id="1735" />
+ <Node id="1737" />The doctors we do have are beleaguered and many are dropping out, increasing overall unavailability. <Node id="1838" />
+ <Node id="1840" />As Obamacare adds 32 million uninsured - including 16 million on Medicaid - to the rolls over the next decade, and 36 million more patients reach Medicare age at the same time, we doctors are increasingly fleeing from public insurance.<Node id="2075" />
+ According to a recent national survey, <Node id="2116" />less than half of the nation's doctors are seeing new Medicaid patients. <Node id="2189" />
+ The Medicare Payment Advisory Commission recently reported that <Node id="2255" />28% of patients seeking a new Medicare provider were unable to find one<Node id="2326" />. 
+ This problem will only get worse as <Node id="2366" />the new Independent Medicare Advisory Panel decides which services are beneficial and which aren't, tying the treating hands of doctors who are still trying to work with Medicare.<Node id="2545" />
+ <Node id="2547" />Nurse practitioners and physicians assistants are rushing in to fill the void. 
+ But they are a temporary treatment, not a cure.
+ The number of nurse practitioners in the country has increased from 80,000 to 140,000 over the past decade. 
+ They can perform basic examinations, order tests and, in some states, including New York, even write prescriptions, but I do not think they can easily replace physicians without seriously diluting quality of care. 
+ The doctor-patient encounter is a one-on-one event. 
+ It cannot effectively be performed by one practitioner (the NP) and then later authorized by another (the doctor).
+ Perhaps even more importantly, modern medicine is moving further in the direction of high-tech solutions that require substantial training to perform. 
+ In many areas of medicine, we need more specialization rather than less. 
+ The growing shortage of specialists is at least as worrisome as the shortage of primary care doctors. 
+ NPs and PAs, no matter how well trained, cannot simply step in and handle the latest therapies<Node id="3599" />.
+ <Node id="3602" />Doctor Unavailability Syndrome is becoming a serious epidemic, without a cure in sight. 
+ In fact, it's probably about to get worse.<Node id="3734" />
+Siegel, MD, is a professor of medicine and medical director of Doctor Radio at New York University Langone Medical Center.
+<Node id="3858" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="3858">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc038</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Marc,Siegel</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">nydailynews,New,York,Daily,News</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20101013</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.nydailynews.com/opinions/2010/10/13/2010-10-13_is_there_a_doctor_in_the_house_obamacare_will_worsen_the_physician_shortage_cong.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="32" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">doctors_will_retire</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="341" EndNode="496">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="rel" StartNode="498" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1001" EndNode="1171">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1198" EndNode="1404">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1479" EndNode="1681">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="1479" EndNode="1502">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1686" EndNode="1735">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1737" EndNode="1838">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">doctors_will_retire</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="1840" EndNode="2075">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_will_stop_being_accepted</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2116" EndNode="2189">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_will_stop_being_accepted</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2255" EndNode="2326">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_will_stop_being_accepted</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="2366" EndNode="2545">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">restricts_healthcare_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="3602" EndNode="3734">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="2547" EndNode="3599">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3858">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

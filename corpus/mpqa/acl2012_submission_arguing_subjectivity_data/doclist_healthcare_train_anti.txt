@@ -1,0 +1,54 @@
+# healthcare train anti
+training/hc001.xml
+training/hc002.xml
+training/hc005.xml
+training/hc009.xml
+training/hc010.xml
+training/hc011.xml
+training/hc012.xml
+training/hc014.xml
+training/hc018.xml
+training/hc019.xml
+training/hc020.xml
+training/hc023.xml
+training/hc024.xml
+training/hc028.xml
+training/hc029.xml
+training/hc030.xml
+training/hc031.xml
+training/hc032.xml
+training/hc033.xml
+training/hc034.xml
+training/hc035.xml
+training/hc036.xml
+training/hc038.xml
+training/hc039.xml
+training/hc040.xml
+training/hc041.xml
+training/hc042.xml
+training/hc043.xml
+training/hc044.xml
+training/hc045.xml
+training/hc047.xml
+training/hc048.xml
+training/hc049.xml
+training/hc050.xml
+training/hc051.xml
+training/hc052.xml
+training/hc053.xml
+training/hc054.xml
+training/hc055.xml
+training/hc056.xml
+# training/hc057.xml
+training/hc071.xml
+# training/hc072.xml
+training/hc073.xml
+# training/hc074.xml
+training/hc075.xml
+# training/hc076.xml
+training/hc077.xml
+# training/hc078.xml
+training/hc079.xml
+# training/hc080.xml
+training/hc081.xml
+training/hc082.xml

@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc079.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Barney Frank Joins Effort to Repeal&#xd;<Node id="36" />
+<Node id="37" />Obamacare 'Death Panels'&#xd;<Node id="62" />
+The Daily Caller&#xd;
+<Node id="81" />Rep. Barney Frank (P-MA), announced on Tuesday his support for the repeal of the Independent Payment Advisory Board, a significant portion of President Obamaâ&#x20ac;&#x2122;s healthcare overhaul<Node id="262" />.&#xd;
+<Node id="265" />&#xd;
+<Node id="267" />Frank, who announced Monday that he would retire at the end of his current term in office, became the 12th Democrat, and the 212th member of the House, to co-sponsor Tennessee Republican Rep. Phil Roeâ&#x20ac;&#x2122;s bill aimed at repealing the IPAB<Node id="504" />.&#xd;
+<Node id="507" />&#xd;
+<Node id="509" />Frank is the most prominent Democrat to join Roeâ&#x20ac;&#x2122;s bipartisan repeal effort<Node id="586" />.&#xd;
+<Node id="589" />&#xd;
+<Node id="591" />IPAB is a 15-member board, appointed by the president, scheduled to convene in 2014. <Node id="676" />In order to reduce per capita Medicare spending, the board will recommend levels at which Medicare recipients, including seniors, can be reimbursed for healthcare expenses<Node id="847" />.&#xd;
+<Node id="850" />&#xd;
+<Node id="852" />In March, <Node id="862" />Roe said the IPAB is the â&#x20ac;&#x153;real death panelâ&#x20ac;&#xfffd; in the healthcare law<Node id="931" />, as compared to â&#x20ac;&#x153;end-of-life counselingâ&#x20ac;&#xfffd; Obamacare provisions which former Alaska Gov. Sarah Palin once deemed â&#x20ac;&#x153;death panels.â&#x20ac;&#xfffd;&#xd;
+<Node id="1068" />&#xd;
+<Node id="1070" />â&#x20ac;&#x153;This one is the real baby right here -- and most people missed this,â&#x20ac;&#xfffd; Roe told TheDC then. â&#x20ac;&#x153;What everybody was talking about, when you saw Sarah Palin and so forth, what they were talking about these advanced directives where you sit down and thereâ&#x20ac;&#x2122;s sort of mandatory counseling -- and Medicare paid for it. <Node id="1388" />This IPAB got missed -- and itâ&#x20ac;&#x2122;s the real death panel<Node id="1443" />.â&#x20ac;&#xfffd;&#xd;
+<Node id="1449" />&#xd;
+<Node id="1451" />The board would cap the total amount of money Medicare recipients could receive for care. Roe, a practicing physician before he entered politics, said <Node id="1602" />healthcare decisions will ultimately be based solely on cost, instead of on the best possible healthcare outcomes for Medicare patients<Node id="1737" />.&#xd;
+<Node id="1740" />&#xd;
+<Node id="1742" />â&#x20ac;&#x153;Basically, thereâ&#x20ac;&#x2122;s a certain amount of money thatâ&#x20ac;&#x2122;s allocated for Medicare spending each year,â&#x20ac;&#xfffd; Roe said in March. â&#x20ac;&#x153;<Node id="1869" />Once you hit that amount thatâ&#x20ac;&#x2122;s been appropriated, this board, this bureaucratically appointed board, can then decide, not based on quality or need, but based on strictly cost<Node id="2046" />.â&#x20ac;&#xfffd;&#xd;
+<Node id="2052" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="17" Type="arg" StartNode="37" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="0" EndNode="36">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="676" EndNode="847">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">cuts_medicare</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="2052">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc079</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">new,media,journal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://newmediajournal.us/indx.php/item/3696</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1602" EndNode="1737">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces_availability_of_medical_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="81" EndNode="262">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1869" EndNode="2046">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">cuts_medicare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="509" EndNode="586">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="862" EndNode="931">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">restricts_available_procedures</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="1388" EndNode="1443">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="267" EndNode="504">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="265">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="267" EndNode="507">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="509" EndNode="589">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="591" EndNode="850">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="852" EndNode="1068">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1070" EndNode="1449">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1451" EndNode="1740">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1742" EndNode="2052">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

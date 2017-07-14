@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc060.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Friday, July 24, 2009&#xd;
+Health Care Reform -- A Pastoral Letter from Sharon Watkins&#xd;
+<Node id="84" />&#xd;
+<Node id="86" />I have posted several pieces on Health Care Reform. Having received a pastoral letter from the Rev. Dr. Sharon Watkins, the General Minister and President of my denomination -- Christian Church (Disciples of Christ), I decided to share it with you. She reports having come from a meeting of other religious leaders with political leaders, including officials from the current administration and the Bush administration and Congress. I encourage you to read it and consider the message.&#xd;
+<Node id="573" />&#xd;
+<Node id="575" />**********************************************************&#xd;
+<Node id="635" />&#xd;
+&#xd;
+<Node id="639" />July 24, 2009&#xd;
+<Node id="654" />&#xd;
+<Node id="656" />Dear Brothers and Sisters in Christ,&#xd;
+<Node id="694" />&#xd;
+<Node id="696" />You are no doubt aware of the debate on health care reform currently taking place in the United States. I recently attended a conference on health care, organized by and for religious leaders to help us understand the current discussion. We heard from health care policy experts, Health and Human Services Secretary Kathleen Sebelius, Speaker Nancy Pelosi, Mark McClellan (who served in the Bush administration) and other political leaders. They assured us that health care reform can happen this year. But we, the faith community, must act to make it happen.&#xd;
+<Node id="1257" />&#xd;
+<Node id="1259" />Jesus&#x2019; ministry was one of healing, bringing life to the dying, sight to the blind, wellness to the sick, and peace of mind to the troubled<Node id="1398" />. <Node id="1400" />Jesus&#x2019; witness was that abundant life includes physical, mental and spiritual wellness<Node id="1486" />. The call upon us is to make this vision a reality for all.&#xd;
+<Node id="1548" />&#xd;
+<Node id="1550" />Disciples have been involved in the work of healing at home and abroad for generations. <Node id="1638" />The General Assembly has twice spoken out on the need of health care for all<Node id="1714" /> (1999, Cincinnati Resolution, 9995; 2007, Fort Worth, Resolution 0724). <Node id="1787" />Congregations know what it is like to help families when they have fallen through the holes in our health care safety net<Node id="1908" />.&#xd;
+<Node id="1911" />I am writing because I believe this is the moment of a generation &#x2013; when the United States can finally make decent, affordable health care accessible for all<Node id="2068" />. The moral vision is there. The policy expertise is in place. It&#x2019;s the political will that needs our support. Our legislators need our encouragement in the hard work of reform. <Node id="2246" />I urge you &#x2013; whichever of the possible options you might support &#x2013; to contact your Senators and Representatives and ask them to achieve affordable, accessible, accountable, and inclusive health care this year<Node id="2454" />.&#xd;
+<Node id="2457" />&#xd;
+<Node id="2459" />In spite of media reports to the contrary, it appears legislators are close to making health care reform happen. There is growing agreement about what a renewed health care system might include: <Node id="2654" />people who like their coverage would keep it<Node id="2698" />, <Node id="2700" />people who are uninsured or lose their coverage would have an affordable option to purchase it<Node id="2794" />, <Node id="2796" />no one would be excluded because of pre-existing conditions<Node id="2855" />, <Node id="2857" />long-term costs would be reduced by streamlining paperwork and emphasizing patient-focused, preventive and wellness care<Node id="2977" />.&#xd;
+<Node id="2980" />&#xd;
+<Node id="2982" />The big challenge is how to pay for it. Congress will figure that out, too. It&#x2019;s going to take compromise, but they will get there if they keep at it. We need to urge them to keep at it.&#xd;
+I am inviting each one of you to get involved. Contact your Representative and Senators about health care reform by using this toll-free number: 888-797-8717. Visit the Disciples Health website (discipleshealth.org) for links to helpful information.&#xd;
+<Node id="3421" />&#xd;
+<Node id="3423" />What we do together now can make a difference for all of us, and especially for those who do not have access to affordable health care, who stand in greatest need of our prayers, our support, and our advocacy.&#xd;
+<Node id="3634" />&#xd;
+<Node id="3636" />Thank you for your prayerful consideration and action.&#xd;
+<Node id="3692" />&#xd;
+<Node id="3694" />In Christ,&#xd;
+<Node id="3706" />&#xd;
+<Node id="3708" />Sharon E. Watkins&#xd;
+General Minister and President&#xd;
+Posted by Robert Cornwall at 8:16 PM&#xd;
+Email ThisBlogThis!Share to TwitterShare to Facebook&#xd;
+Labels: Christian Church (Disciples of Christ), Health Care Reform, Pastoral Letter, Sharon Watkins &#xd;
+<Node id="3953" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="17" Type="arg" StartNode="1638" EndNode="1714">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_is_a_right</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="1400" EndNode="1486">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_is_a_right</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1787" EndNode="1908">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_is_a_right</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1911" EndNode="2068">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_is_a_right</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="2654" EndNode="2698">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_interfere_with_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2246" EndNode="2454">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="2796" EndNode="2855">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_pre-existing_conditions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="2700" EndNode="2794">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurance_more_affordable</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="2857" EndNode="2977">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">controls_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="doc" StartNode="0" EndNode="3953">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc060</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">robert,cornwall</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20090724</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">ponderings,faith,journey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.bobcornwall.com/2009/07/health-care-reform-pastoral-letter-from.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="1259" EndNode="1398">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_is_a_right</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="84">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="86" EndNode="573">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="575" EndNode="635">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="639" EndNode="654">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="656" EndNode="694">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="696" EndNode="1257">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1259" EndNode="1548">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1550" EndNode="2457">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2459" EndNode="2980">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2982" EndNode="3421">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="3423" EndNode="3634">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="3636" EndNode="3692">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="3694" EndNode="3706">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="3708" EndNode="3953">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

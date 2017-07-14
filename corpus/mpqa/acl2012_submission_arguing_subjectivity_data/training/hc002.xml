@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc002.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" /> <Node id="1" />Originally published August 28, 2009 at  4:24 PM | Page modified August 28, 2009 at  6:31 
+						 Charles Krauthammer / Syndicated columnist 
+						 A clever exit strategy for President Obama's health-care reform 
+
+The only exit strategy for health-care reform will be the liberal dream of universal and guaranteed coverage - but without overt nationalization, writes columnist Charles Krauthammer. 
+It will be done through private insurance companies that, in reality, will be turned into government utilities. 
+						 Syndicated columnist 
+WASHINGTON 
+<Node id="555" /> Obamacare Version 1.0 is dead. <Node id="587" />
+ <Node id="589" />The 1,000-page monstrosity that emerged in various editions from Congress was done in by widespread national revulsion not just at its expense and intrusiveness but at the mendacity with which it is being sold. <Node id="800" />
+You don't need a Ph.D. to see that <Node id="836" />the promise to expand coverage and reduce costs is a crude deception<Node id="904" />, or that <Node id="914" />cutting $500 billion from Medicare without affecting care is a fiction<Node id="984" />. 
+ 
+ But there is an exit strategy. And a politically clever one, if the Democrats are smart enough to seize it. 
+(1) 
+ <Node id="1105" />Forget the public option. <Node id="1131" />
+ <Node id="1133" />Whatever the merits, and they are few, it is political poison. 
+ It dies by the Liasson Logic, the unassailable observation by NPR's Mara Liasson that there are no liberal Democrats who will lose their seats if the public option is left out, while there are many moderate Democrats who could lose their seats if the public option is included. 
+<Node id="1477" />(2)
+ <Node id="1482" />Jettison any reference to end-of-life counseling.<Node id="1531" /> 
+ <Node id="1534" />People see (correctly) such Medicare-paid advice as subtle encouragement to voluntarily refuse treatment.<Node id="1639" /> <Node id="1640" />People don't want government involvement in a process they consider the private province of patient, family and doctor. 
+<Node id="1761" />The Senate is already dropping it. 
+The House must follow. 
+(3) 
+ <Node id="1827" />Soft-pedal the idea of government committees determining "best practices."<Node id="1901" /> <Node id="1902" />President Obama's Federal Coordinating Council for Comparative Effectiveness Research was sold as simply government helping doctors choose the best treatments. But there are dozens of medical journal review articles that do just that.<Node id="2136" /> 
+<Node id="2138" />The real purpose of FCCCERs is ultimately to establish official criteria for denying reimbursement to less favored (because presumably less effective) treatments 
+-<Node id="2302" /> precisely the triage done by the NICE committee in Britain, the Orwellian body that once blocked access to a certain expensive anti-blindness drug until you went blind in one eye.<Node id="2482" /> 
+(4)
+<Node id="2488" />More generally, abandon the whole idea of Obamacare as cost-cutting.<Node id="2556" /> <Node id="2557" />True, it was Obama's original rationale for creating a whole new entitlement at a time of a sinking economy and a bankrupt Treasury. 
+But, as many universal-health-care liberals complain, selling pain is poor salesmanship. 
+<Node id="2781" />(5) 
+Promise nothing but pleasure - for now. 
+Make health insurance universal and permanently protected. Tear up the existing bills and write a clean one - Obamacare 2.0 - promulgating draconian health-insurance regulation that prohibits (a) denying coverage for pre-existing conditions, (b) dropping coverage if the client gets sick, and (c) capping insurance company reimbursement. 
+What's not to like? 
+If you have insurance, you'll never lose it. Nor will your children ever be denied coverage for pre-existing conditions. 
+The regulated insurance companies will get two things in return. 
+Government will impose an individual mandate that will force the purchase of health insurance on the millions of healthy young people who today forgo it. 
+And government will subsidize all the others who are too poor to buy health insurance. 
+The result?
+ Two enormous new revenue streams created by government for the insurance companies. 
+And here's what makes it so politically seductive: The end result is the liberal dream of universal and guaranteed coverage - but without overt nationalization. It is all done through private insurance companies. Ostensibly private. 
+
+They will, in reality, have been turned into government utilities. No longer able to control whom they can enroll, whom they can drop and how much they can limit their own liability, they will live off government largesse - subsidized premiums from the poor; forced premiums from the young and healthy. 
+It's the perfect finesse - government health care by proxy. 
+And because it's proxy, and because it will guarantee access to (supposedly) private health insurance - something that enjoys considerable Republican support - it will pass with wide bipartisan backing and give Obama a resounding political victory. 
+ Isn't there a catch? Of course, there is. 
+This scheme is the ultimate bait-and-switch. 
+The pleasure comes now, the pain later. <Node id="4696" />Government-subsidized universal and virtually unlimited coverage will vastly compound already out-of-control government spending on health care. 
+<Node id="4842" />The financial and budgetary consequences will be catastrophic.<Node id="4904" /> However, they will not appear immediately. 
+And when they do, <Node id="4967" />the only solution will be rationing.<Node id="5003" /> That's when <Node id="5016" />the liberals will give the FCCCER regulatory power and give you end-of-life counseling.<Node id="5103" /> 
+But by then, resistance will be feeble. 
+Why? 
+Because at that point the only remaining option will be to give up the benefits we will have become accustomed to. 
+Once granted, guaranteed universal health care is not relinquished. 
+<Node id="5337" />Look at Canada. 
+Look at Britain. 
+They got hooked; now they ration. 
+So will we.<Node id="5418" /> 
+  Charles Krauthammer's column appears regularly on editorial pages of The Times. His e-mail address is  letters@charleskrauthammer.com   
+					  2009, The Washington Post Writers Group 
+<Node id="5607" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="1" EndNode="5607">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc002</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Charles,Krauthammer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20090828</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Seattle,Times</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://seattletimes.nwsource.com/html/editorialsopinion/2009766543_krauthammer29.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="rel" StartNode="555" EndNode="587">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">sside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="589" EndNode="800">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="836" EndNode="904">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expanding_coverage_is_too_costly</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="914" EndNode="984">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">cuts_medicare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1105" EndNode="1131">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">public_option_unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="1133" EndNode="1477">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">public_option_unpopular</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1482" EndNode="1531">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">people_discouraged_from_seeking_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="1534" EndNode="1639">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">people_discouraged_from_seeking_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1640" EndNode="1761">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1827" EndNode="1901">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="1902" EndNode="2136">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2138" EndNode="2302">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="2302" EndNode="2482">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="2488" EndNode="2556">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="4696" EndNode="4842">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expanding_coverage_is_too_costly</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="2557" EndNode="2781">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="4967" EndNode="5003">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="4842" EndNode="4904">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expanding_coverage_is_too_costly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="5337" EndNode="5418">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">similar_programs_have_failed_abroad</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="5016" EndNode="5103">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">elderly_discouraged_from_seeking_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="5607">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

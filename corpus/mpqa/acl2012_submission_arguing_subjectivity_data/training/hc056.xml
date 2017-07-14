@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc056.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Five Reasons Your Doctor hates Obamacare&#xd;<Node id="41" />
+December 18, 2011&#xd;
+<Node id="61" />&#xd;
+    <Node id="67" />0&#xd;
+    inShare&#xd;
+<Node id="83" />&#xd;
+<Node id="85" />SAN DIEGO, December 18, 2011 ? Even with the American Medical Association&#x2019;s endorsement, <Node id="174" />a large majority of American <Node id="203" />physicians<Node id="213" /> remain staunchly against Obamacare<Node id="248" />. <Node id="250" />They see the program as creating an undue burden on their practices in light of decreased reimbursement<Node id="353" />, <Node id="355" />increased bureaucratic oversight, and a complex array of unnecessary and intrusive technological mandates which will further distance them from their patients<Node id="513" />.&#xd;
+<Node id="516" />&#xd;
+<Node id="518" />The following are five reasons why your doctor will not be happy working under &#x201c;Obamacare&#x201d;<Node id="608" />:&#xd;
+<Node id="611" />&#xd;
+    <Node id="617" />Technology Gone Wild:<Node id="638" /> Perhaps one of the most insidious and dangerous trends in modern health care is the &#x201c;hit&#x201d; that physicians will take in the form of mandated electronic medical records and e-prescription requirements<Node id="837" />, all bundled under Obamacare&#x2019;s new health information technology(HIT) requirements. Beginning last year and continuing through 2014 (when mandates and penalties begin to take effect), <Node id="1022" />physicians and medical offices must start to invest between $40-80K up-front on expensive, unwieldy, and inefficient computer systems so that the federal government can track every move and detail of your medical care<Node id="1239" />. <Node id="1241" />These requirements will insure that your doctor spends more time looking at his or her computer screen than focusing on you during your exam<Node id="1381" />.<Node id="1382" />These requirements will achieve powerful data storage and retrieval, but will interfere with the doctor-patient relationship by imposing a permanent third party in every examination room<Node id="1568" />. <Node id="1570" />The ultimate purpose of this &#x201c;spying&#x201d; into private health records is to enable the government to impose its version of medical standards on your life (i.e., what degree of care you are allowed to have, when you can have it, etc.) and to penalize your doctor if his otherwise superb care falls outside of &#x201c;socialized&#x201d; norms<Node id="1892" />.&#xd;
+<Node id="1895" />&#xd;
+    <Node id="1901" />Furthermore, despite stringent privacy laws (called &#x201c;HIPAA protections&#x201d; after the 1996 Health Insurance Portability and Accountability Act), the new health care law will actually make it easier for accidental exposure or hacking of your private data to an unlimited number of strangers<Node id="2186" />. Anyone with an ounce of media consciousness during the last decade knows that if hackers can break into the Pentagon, and millions of military medical files can be lost, then <Node id="2363" />your medical records are not safe on a host computer or stored online<Node id="2432" />.&#xd;
+    The Ghost of Donald Berwick:  Former Obama appointee and head of the Centers for Medicare and Medicaid Services, Doctor Donald Berwick, was openly in praise of the British National Health System. <Node id="2635" />His admiration for socialized medicine was so great that he actively worked to fashion Obamacare into a powerful force to restrict the prescription drugs which doctors can write for you<Node id="2820" />.Berwick and others utilized the concept of mini-HMOs, called ACOs, for &#x201c;Accountable Care Organizations,&#x201d; to begin the design of mandated electronic ordering systems that will limit the medicines which you can be given by your physician.<Node id="3057" /> ACOs will have almost unlimited control over the computer screen &#x201c;platform&#x201d; which displays ordering options for e-prescriptions<Node id="3185" />. If your favorite medicine is not on the platform, good luck!&#xd;
+<Node id="3249" />&#xd;
+    <Node id="3255" />The Medicare Improvements for Patients and Providers Act of 2008 authorized the Centers for Medicare and Medicaid Services (CMS) to pay bonuses to physicians for successful e-prescribing. In 2009 and 2010, doctors who implemented e-prescribing became eligible to receive bonuses equal to 2% of their overall Medicare reimbursement. The bonuses for years 2011 and beyond will be scaled down, but, <Node id="3651" />to insure adoption of the regulatory HIT dictates, there will be a penalty for not prescribing beginning in 2012<Node id="3763" />; the penalty reductions in pay for not using government/health plan provided electronic prescribing will be a reduction of Medicare reimbursement of 1% in 2012, 1.5% in 2013, and 2% in2014.&#xd;
+<Node id="3955" />&#xd;
+    <Node id="3961" />There is no existing law regulating e-prescribing on the state or federal level in America. <Node id="4053" />Imagine a scenario in the not-too-distant future where a patient with cancer is deprived of an essential chemotherapeutic option because of closed-door schemes and deals by ACOs and insurance companies<Node id="4254" />. <Node id="4256" />This would put the United States squarely in the arena of European-style socialized medicine<Node id="4348" />.&#xd;
+<Node id="4351" />&#xd;
+    <Node id="4357" />Doctors have been trained rigorously under the Hippocratic Oath to protect you &#x2014; to do no harm. They have been educated to do the right thing to give you the best medical treatments available. <Node id="4550" />With the government and insurance companies calling the shots on prescription drug options, your doctor will become nothing but a tool of third party gamesmanship<Node id="4712" />. This is not the practice of medicine. <Node id="4752" />This is merely cookie-cutter, assembly-line &#x201c;care.&#x201d;<Node id="4803" />&#xd;
+    Medical Coding Monopoly (CPT codes): Thanks to the American Medical Association, essentially a wholly-owned subsidiary of the federal government due to its exclusive medical coding copyright royalty monopoly (worth $72 Million in 2010 alone), <Node id="5052" />the Centers for Medicare and Medicaid Services (CMS) was implicitly given the green light to proceed with onerous regulations and &#x201c;codes&#x201d;<Node id="5189" /> (expected to expand vastly under the new CPT/ICD-10 guidelines to be made effective on Jan 1, 2012).&#xd;
+    <Node id="5296" />The AMA&#x2019;s self-serving control of these codes has made them rich at the expense of physicians and patients<Node id="5402" />. <Node id="5404" />Now, the new codes will profile your every move at every moment of your medical life &#x2014; pegging you with descriptors about your weight, your looks, your hobbies, your personal sex life, and just about everything else that makes you &#x201c;you.&#x201d;<Node id="5641" /> <Node id="5642" />Based on these codes, which are also used by all private insurance companies, your care will be relegated to predetermined categories and restricted options<Node id="5798" />.&#xd;
+    The Downgrading of the Medical Degree: <Node id="5844" />The new world order under Obamacare will see a paradigm shift wherein government-empowered administrators and other non-physicians make de factomedical decisions &#x2014; effectively ruling over the practice of medicine by physicians<Node id="6070" />. Through the abuse of &#x201c;standards&#x201d; imposed by the Feds, the AMA, and the pseudo-independent accrediting body, the &#x201c;Joint Commission&#x201d; (JCAHO), <Node id="6212" />doctors are increasingly losing the freedom to exercise independent thought and the independent practice of their profession<Node id="6336" />. <Node id="6338" />By utilizing peer review practices which would not stand muster under standard constitutional law<Node id="6435" />, <Node id="6437" />hospital and health systems can label anyone a &#x201c;disruptive,&#x201d; &#x201c;unruly&#x201d; or &#x201c;uncooperative&#x201d; physician and destroy their ability to work<Node id="6569" />.Hospital corporate peer review is an opaque process created by the Health Care Quality Improvement Act (HCQIA) statute with no evidentiary safeguards. As such, corporate health care attorneys use it frequently to destroy the careers of physicians they deem &#x201c;undesirable,&#x201d; &#x201c;disruptive,&#x201d; or &#x201c;threatening&#x201d; (e.g., those who report concerns about quality of care, fraud or errors to outside entities). Corporate peer review differs from traditional peer review with respect to transparency and the legal, evidence-based safeguards provided by full judicial review. Many are calling for the passage of pending Congressional bill HR 2472.IH, and other reforms, that will increase procedural transparency and protect the professional rights and legitimate credentials of all physicians.&#xd;
+    Misrepresentation: <Node id="7373" />A reliable polling source found that the majority of registered voters do not approve of Obamacare and feel the nation is worse off for it<Node id="7511" /> (decreased quality, increased costs, cuts in Medicare to the tune of $400 Billion, and a greater presence of Uncle Sam in the examination room). <Node id="7657" />By a margin of 54 to 34 percent, Independents are strongly opposed to the &#x201c;Affordable Care Act.<Node id="7752" />&#x201d; <Node id="7754" />According to a recent Kaiser Foundation poll, more Americans &#x201c;have an unfavorable view of the [healthcare reform] law.&#x201d;&#xd;<Node id="7874" />
+<Node id="7875" />&#xd;
+<Node id="7877" />These findings are not surprising, and are not news to anyone who has been following the saga of healthcare reform since the beginning of President Obama&#x2019;s presidency. From the start of the reform discussions in 2008, despite the false sense of representation portrayed by the American Medical Association (which supported the &#x201c;Affordable Care Act&#x201d; law), American <Node id="8241" />physicians have been staunchly against Obamacare and have not felt they could maintain the current state of their practices<Node id="8364" />. <Node id="8366" />The influx of tens of millions of additional patients with an &#x201c;Obamacare card&#x201d; in hand will only drive the quality and access to medical care in the negative direction<Node id="8533" />.&#xd;
+<Node id="8536" />&#xd;
+<Node id="8538" />For these five reasons, and many more, your personal physician will not be happy in the straight jacket of Obamacare<Node id="8654" />. And this, more than any pending interpretation of the U.S. Constitution by the Supreme Court, is why <Node id="8757" />the &#x201c;Affordable Care Act&#x201d; is something America just can&#x2019;t afford to live with<Node id="8834" />.&#xd;
+<Node id="8837" />&#xd;
+<Node id="8839" />http://communities.washingtontimes.com/neighborhood/medicine-and-politics-america/2011/dec/18/health-care-reform-organized-medicine-physician-pr/&#xd;
+<Node id="8986" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="12" Type="doc" StartNode="0" EndNode="8986">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc056</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">americas,medical,society</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111218</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://americasmedicalsociety.com/five-reasons-your-doctor-hates-obamacare/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="0" EndNode="41">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="174" EndNode="248">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="203" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="355" EndNode="513">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="250" EndNode="353">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1022" EndNode="1239">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">a1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="518" EndNode="608">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="1382" EndNode="1568">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="1241" EndNode="1381">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_quality_of_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">a1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="1901" EndNode="2186">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">threatens_private_data</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="1570" EndNode="1892">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="3057" EndNode="3185">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="4550" EndNode="4712">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="4053" EndNode="4254">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">restricts_healthcare_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="arg" StartNode="5052" EndNode="5189">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_interference_in_healthcare_decisions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="4752" EndNode="4803">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_quality_of_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="arg" StartNode="5404" EndNode="5641">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">threatens_privacy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="arg" StartNode="5642" EndNode="5798">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">restricts_healthcare_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="arg" StartNode="8538" EndNode="8654">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="arg" StartNode="6212" EndNode="6336">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">restricts_available_procedures</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="arg" StartNode="8241" EndNode="8364">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="rel" StartNode="7754" EndNode="7874">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="arg" StartNode="638" EndNode="837">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="arg" StartNode="8757" EndNode="8834">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_defunded/not_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="arg" StartNode="7373" EndNode="7511">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="arg" StartNode="2635" EndNode="2820">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">restricts_healthcare_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="rel" StartNode="3651" EndNode="3763">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="arg" StartNode="2363" EndNode="2432">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">threatens_private_data</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="arg" StartNode="5844" EndNode="6070">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="arg" StartNode="6338" EndNode="6435">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="arg" StartNode="4256" EndNode="4348">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">similar_programs_have_failed_abroad</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="rel" StartNode="5296" EndNode="5402">
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="arg" StartNode="8366" EndNode="8533">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">diminishes_quality_of_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="arg" StartNode="7657" EndNode="7752">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="rel" StartNode="6437" EndNode="6569">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_doctors</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="61">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="67" EndNode="83">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="85" EndNode="516">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="518" EndNode="611">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="617" EndNode="1895">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1901" EndNode="3249">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="3255" EndNode="3955">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="3961" EndNode="4351">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="4357" EndNode="7875">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="7877" EndNode="8536">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="8538" EndNode="8837">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="8839" EndNode="8986">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

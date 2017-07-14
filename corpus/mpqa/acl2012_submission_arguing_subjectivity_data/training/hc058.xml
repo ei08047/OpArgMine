@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc058.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Young Adults Benefit from Health Care Reform&#xd;<Node id="45" />
+September 22, 2011&#xd;
+<Node id="66" />&#xd;
+<Node id="68" />stethoscope3<Node id="80" />Almost 1 million young adults are taking advantage of health care reform and staying on their parents&#x2019; health insurance plan<Node id="204" />. <Node id="206" />This is great news for supporters of health care reform and President Obama&#x2019;s administration<Node id="298" />.&#xd;
+<Node id="301" />&#xd;
+<Node id="303" />Expanding health insurance coverage to young adults was a goal of reform; unfortunately, young adults are more likely to go without health insurance more than any other age group<Node id="481" />. <Node id="483" />To fix this issue, health care reform allows young adults to stay on their parents&#x2019; plan until they turn 26, regardless of whether they are in school or married<Node id="643" />.&#xd;
+<Node id="646" />&#xd;
+<Node id="648" />Since the passage of reform, 900,000 young adults have gained health insurance from 2010 to the first quarter of 2011<Node id="765" />. <Node id="767" />Many attribute that increase strictly to health care reform and allowing young adults to stay on parents&#x2019; coverage report The New York Times<Node id="907" />.&#xd;
+<Node id="910" />&#xd;
+<Node id="912" />Although <Node id="921" />the provision is helping many young adults<Node id="963" />, it has raised costs.&#xd;
+<Node id="987" />&#xd;
+<Node id="989" />&#x201c;It&#x2019;s a basic principle of economics that when more benefits are added to a policy or more people are covered under that policy there are additional costs incurred,&#x201d; said Robert Zirkelbach from America&#x2019;s Health Insurance Plans.&#xd;
+<Node id="1218" />&#xd;
+<Node id="1220" />But do the benefits for young adults outweigh the cost for employers and employees?&#xd;
+<Node id="1305" />&#xd;
+<Node id="1307" />Department of Health and Human Services secretary Kathleen Sebelius thinks so. She said, &#x201c;In a world where great inventors, entrepreneurs and C.E.O.&#x2019;s can be young or old&#x2026; <Node id="1479" />we can&#x2019;t take the chance that the next Facebook will never happen because its creator took a desk job just to get health insurance<Node id="1609" />.&#x201d;&#xd;
+Group Health Insurance, Health Care Reform&#xd;
+<Node id="1657" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="17" Type="arg" StartNode="921" EndNode="963">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="767" EndNode="907">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="1657">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc058</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">gohealth,insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110922</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.gohealthinsurance.com/blog/coverage/entry/young-adults-benefit-from-health-care-reform</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="0" EndNode="45">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="80" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1479" EndNode="1609">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarentees_access_to_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="303" EndNode="481">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="483" EndNode="643">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">keeping_adult_children_on_parents_plan_is_beneficial</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="206" EndNode="298">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="648" EndNode="765">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="66">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="68" EndNode="301">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="303" EndNode="646">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="648" EndNode="910">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="912" EndNode="987">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="989" EndNode="1218">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1220" EndNode="1305">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1307" EndNode="1657">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

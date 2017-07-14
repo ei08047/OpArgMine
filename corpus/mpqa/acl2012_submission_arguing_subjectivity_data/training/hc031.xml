@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc031.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />A bad omen on Obamacare: Fears about health reform's costs are coming true
+BY GRACE-MARIE TURNER
+Thursday, June 17th 2010, 4:00 AM
+ <Node id="132" />Shortly after President Obama signed the health overhaul law, several major corporations reported it would take a bite out of their future earnings. 
+<Node id="282" />
+ <Node id="284" />This group included AT&amp;T, Caterpillar, John Deere, Verizon and several other large employers.
+ Convinced these businesses were cooking their books to cast the new law in a bad light, House Energy and Commerce Committee Chairman Henry Waxman (D-Calif.) promptly subpoenaed documents and demanded executives testify to defend their announcements. 
+ But after combing through 1,100 pages of corporate documents and e-mails, Waxman's staff canceled the hearing - and announced that "the companies acted properly and in accordance with accounting standards."
+<Node id="838" />
+ In other words, even though some lawmakers don't want to believe it, <Node id="909" />Obamacare is already proving costly to American businesses. 
+<Node id="970" />
+ And ironically, <Node id="988" />the new law could cause many workers to lose the health benefits they get through their jobs.
+<Node id="1082" />
+ So <Node id="1087" />what's driving up costs for America's employers? For starters, there's the new tax on retiree drug coverage.
+<Node id="1196" />
+ <Node id="1198" />When lawmakers created the <Node id="1225" />Medicare drug benefit<Node id="1246" /> in 2003, they wanted to make sure that employers who already provided prescription drug coverage to their retirees didn't shift those costs to taxpayers. 
+ So Congress decided to reimburse these employers for 28% of the cost of their plans through a tax-free subsidy. 
+ This would be generous enough for employers to continue to provide the retiree coverage, but cheaper than having taxpayers foot the full bill.
+ Under Obamacare, <Node id="1678" />that subsidy will be taxed.<Node id="1705" /> Over the next decade, according to the consulting firm Towers Watson, this will cost employers $14 billion.
+<Node id="1814" />
+ In addition, <Node id="1829" />the health overhaul law requires private employers to allow employees to add their 26-year-old "children" to their insurance for the policy year starting this September. This requirement will push up the cost of health insurance. 
+<Node id="2060" />
+ <Node id="2062" />Caterpillar alone estimates the mandate will raise its health insurance costs by $20 million each year.
+<Node id="2166" />
+ <Node id="2168" />The new law<Node id="2179" /> also imposes billions of dollars in new fees and excise taxes<Node id="2241" /> and <Node id="2246" />prohibits many of the tools that insurance companies have used to keep costs down<Node id="2327" />, like caps on coverage and co-payments on preventive care.
+ <Node id="2388" />Without factoring in the new health overhaul, large companies had predicted that insurance costs would increase between 6.5% and 7% next year. <Node id="2531" />
+ <Node id="2533" />Obamacare could send average health insurance cost increases for major employers into double-digit territory.
+<Node id="2643" />
+ Indeed, it's no longer inconceivable that <Node id="2687" />some large companies may decide to drop health insurance altogether<Node id="2754" /> as <Node id="2758" />many may conclude it's cheaper and less risky to pay fines to the government than offer insurance to their workers.
+<Node id="2874" />
+ <Node id="2876" />Under the new law, every employer with more than 50 workers will be required to either offer health insurance or pay an annual penalty of $2,000 per full-time worker. 
+ If they offer coverage and it doesn't meet certain tests, they could face fines of $3,000 per worker.
+<Node id="3147" />
+ <Node id="3149" />Paying a penalty will be much less expensive than paying for insurance. 
+<Node id="3222" />
+ <Node id="3224" />Consider AT&amp;T, a company that spends $2.4 billion a year on employee health coverage. 
+ If AT&amp;T decided not to cover its workers, it would be on the hook for only $600 million in fines.
+<Node id="3410" />
+ <Node id="3412" />If employers stop offering health insurance, taxpayers will wind up picking up the cost of coverage for millions more Americans. 
+<Node id="3542" />
+ <Node id="3544" />The cost of Obamacare will skyrocket, as will our deficit and our taxes.
+<Node id="3617" />
+ It's becoming clear that <Node id="3644" />the health overhaul may well have disastrous consequences for the economy. 
+<Node id="3720" />
+ Americans now realize this; <Node id="3750" />a recent survey from Rasmussen Reports found that 58% of voters favor repeal of the new law. 
+<Node id="3844" />
+ <Node id="3846" />The American people opposed passage of Obamacare and the more they learn about it, the more their opposition grows.
+<Node id="3962" />
+Grace-Marie Turner is president of the Galen Institute, a nonprofit research organization focusing on patient-centered solutions to health reform.
+<Node id="4110" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="4110">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc031</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Grace-Marie,Turner</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20100617</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Hawaii,Reporter</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.hawaiireporter.com/a-bad-omen-on-obamacare-fears-about-health-reform%E2%80%99s-costs-are-coming-true </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="132" EndNode="282">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="rel" StartNode="284" EndNode="838">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_businesses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="909" EndNode="970">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="988" EndNode="1082">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1087" EndNode="1196">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">new_taxes_hurt_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="1198" EndNode="1705">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">new_taxes_hurt_businesses</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="1225" EndNode="1246">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1678" EndNode="1814">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">new_taxes_hurt_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1829" EndNode="2060">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">extending_coverage_to_adult_children_hurts_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2062" EndNode="2166">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="2168" EndNode="2179">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2168" EndNode="2241">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2246" EndNode="2327">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">places_too_many_limits_on_insurers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="2533" EndNode="2643">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">makes_healthcare_costs_grow_faster</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="2687" EndNode="2754">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="2388" EndNode="2531">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">makes_healthcare_costs_grow_faster</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="3149" EndNode="3222">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="2758" EndNode="2874">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="3544" EndNode="3617">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="rel" StartNode="2876" EndNode="3147">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="3750" EndNode="3844">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="3644" EndNode="3720">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="3412" EndNode="3542">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_higher_taxes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="3846" EndNode="3962">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="rel" StartNode="3224" EndNode="3410">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">businesses_will_stop_offering_insurance_to_employees</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4110">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

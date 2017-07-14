@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc055.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Reason 948,627,583,221 why Obamacare sucks&#xd;<Node id="43" />
+Posted December 13, 2011 at 6:23 pm by Jessica&#xd;
+<Node id="92" />&#xd;
+<Node id="94" />Just found out today that because of Obamacare, health insurance companies are no longer offering &#x2018;child only&#x2019; policies<Node id="213" />. <Node id="215" />I wanted to switch my kids from their current health insurance, which is &#x2018;child only&#x2019; to my own private policy, but it has to go through &#x201c;underwriting&#x201d; first<Node id="372" />. <Node id="374" />In other words, let&#x2019;s micro-analyze every sniffle and sneeze and tack on $100 a month per ounce of green snot over the last 5 years<Node id="505" />. No wonder the insurance companies weren&#x2019;t fighting this thing harder. This is a cash cow for them.&#xd;
+<Node id="607" />&#xd;
+<Node id="609" />Furthermore, since <Node id="628" />doctor&#x2019;s pay has been cut and cut and cut<Node id="669" /> and full electronic record systems are far from universal use, doctors are now finding ways to cut their expenses. <Node id="785" />The new thing is to ask patients to get their own records and if you ask for them privately, they tack on a BS &#x2018;copy&#x2019; expense<Node id="910" />. To make matters worse, <Node id="935" />medical record departments are dragging their heals<Node id="986" />. <Node id="988" />They have zero accountability and really don&#x2019;t give a shit if you get your records tomorrow or three months from now<Node id="1104" />. If you&#x2019;re dying, they may just get another cup of coffee and extend their break time just to spite you. They make up HIPA laws as they go along just to make their job a little more interesting and they play lawyer on their down-time. (Of course, it&#x2019;s not fair to paint all medical records clerks with the same brush, it&#x2019;s just the last 20 that I&#x2019;ve dealt with.)&#xd;
+<Node id="1469" />&#xd;
+<Node id="1471" />Furthermore, Medicare patients are now being booked on &#x201c;Medicare&#x201d; days. <Node id="1543" />I know this from taking my mother, a Medicare recipient, to various doctors over the last few months<Node id="1643" />. So <Node id="1648" />doctors are now resorting to triple booking patients on the one day per week they have so graciously allowed Medicare patients to breathe their same air and be in the presence of their ginormous brains and mind blowing knowledge<Node id="1876" />. <Node id="1878" />Medicare patients are forced to wait for hours and hours and then the doctors spend 3 minutes with them and then pawn them off to the nurse, who tell the patients that the doctor will answer their questions if they have time<Node id="2102" />.&#xd;
+<Node id="2105" />&#xd;
+<Node id="2107" />So, what part of Obamacare doesn&#x2019;t suck?<Node id="2147" /> Anyone?&#xd;
+Tags: electronic records, healthcare, medicare, Obamacare, quality healthcare&#xd;
+<Node id="2236" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="5" Type="doc" StartNode="0" EndNode="2236">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc055</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">jessica</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">imperfect,parent</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111213</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://blog.imperfectparent.com/2011/12/13/reason-948627583221-why-obamacare-sucks/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="0" EndNode="43">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_defunded/not_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="94" EndNode="213">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1648" EndNode="1876">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_will_stop_being_accepted</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1878" EndNode="2102">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_will_stop_being_accepted</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2107" EndNode="2147">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_defunded/not_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="215" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="374" EndNode="505">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="628" EndNode="669">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">doctors_will_retire</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="785" EndNode="910">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="935" EndNode="986">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="988" EndNode="1104">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="1543" EndNode="1643">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_will_stop_being_accepted</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="92">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="94" EndNode="607">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="609" EndNode="1469">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1471" EndNode="2105">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="2107" EndNode="2236">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

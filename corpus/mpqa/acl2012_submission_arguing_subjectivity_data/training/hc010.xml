@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc010.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Jason Lewis: Government health care is on the way 
+<Node id="51" />Jason Lewis: Government health care is on the way 
+By JASON LEWIS September 30, 2010 
+ There's an elephant in the living room of the health care debate that no one seems remotely ready to acknowledge. 
+ Not the Democrats, who put it there. 
+ And not the Republicans, who, if their recent "Pledge" is any indication, continue to look the other way. 
+ <Node id="401" />The problem is, quite simply, the centerpiece of the entire health care overhaul -- guaranteed coverage for so-called "preexisting" conditions. 
+<Node id="546" />
+ As long as both parties insist on this, the national discussion over real health care reform is going nowhere. 
+ First things first -- <Node id="683" />guaranteed coverage for an existing condition ("preexisting" is a redundancy) is not health insurance. 
+<Node id="787" />
+ <Node id="789" />No insurance model I know of grants coverage for existing conditions. 
+ Try waiting until your house is on fire to buy a homeowners policy. 
+ Call your auto insurer after an accident to increase your coverage. 
+ Both are "preexisting" conditions, but no one expects to get coverage after the fact. 
+<Node id="1088" />
+ However, <Node id="1099" />if health insurers must issue a policy without being able to charge a price commensurate with the risk, I'll just wait until I get sick to buy it, thank you. 
+<Node id="1258" />
+ <Node id="1260" />The obvious result will be an insurance pool made up of the sickest customers, which of course is no pool at all. <Node id="1374" />
+ <Node id="1376" />President Obama insists that his legislation's individual mandate to purchase insurance (of questionable constitutionality) will offset the gargantuan costs of a "preexisting" mandate and other mandates. 
+ Would that it were true. 
+<Node id="1608" />
+ <Node id="1610" />The penalties, taxes (or whatever they're calling them these days) that will be levied on individuals and businesses for not buying in, are no match for the freebies that Democrats seem intent on handing out. 
+<Node id="1820" />
+ <Node id="1822" />For the insurance requirement to be effective, penalties would have to mirror the cost of today's premiums, which of course defeats the purpose of the entire enterprise: free health care. 
+<Node id="2011" />
+ The dirty little secret is that <Node id="2045" />most (perhaps not all) existing conditions can find coverage already -- for a price.<Node id="2129" /> 
+ <Node id="2132" />Federal law already imposes portability requirements on group plans (though the coverage is costly) and state-run high-risk pools offer more expensive coverage. 
+<Node id="2294" />
+ <Node id="2296" />The entitlement mentality over health care is now so firmly ingrained that many Americans apparently don't believe they should have to pay a higher premium for filing more claims (something every other form of insurance requires). 
+<Node id="2528" />
+ If the nation really feels this way, then the costs of such a health care safety net should be honestly reflected in an ever expanding welfare state. 
+ The left rejects such transparency because <Node id="2725" />the real goal of the health care overhaul was to enact the largest entitlement program in history<Node id="2822" /> and blame the cost of it on the insurance industry. 
+ To be fair, the sad fact that much of the industry (as well as the GOP) seems reluctant to point this out doesn't exactly qualify as a profile in courage. 
+ Instead, they will merely find other lines of business. 
+ Just last week, <Node id="3108" />on the eve of the new health care rules taking effect, at least three major insurers decided to stop offering "child-only" policies, due to the "preexisting" mandate.
+<Node id="3275" />
+ <Node id="3277" />Government-only health care here we come. 
+<Node id="3320" />
+ Undeterred, Sen. Al Franken continues his business-bashing ways ("Health reform has made a difference for Minnesotans," Sept. 23), claiming that higher "medical loss ratios" (the ratio of the claims paid to total premium revenue) required in the health care bill will reduce wasteful private sector overhead to the levels of that most efficient of bureaucracies, Medicare. 
+ You may want to ask <Node id="3717" />the growing number of health care providers who are opting out of treating Medicare patients<Node id="3809" /> about that one. 
+ Besides, the comparisons are off the mark. 
+ <Node id="3873" />Medicare has higher medical costs per beneficiary, thus artificially reducing administrative costs as a portion of total spending. 
+ Moreover, insurance companies must pay for collecting revenue with sales agents, commissions and the like. 
+ Medicare counts none of these expenses because the cost of collecting taxes is not included in its overhead. 
+<Node id="4225" />
+ <Node id="4227" />Liberals like Franken continue whistling past the graveyard of Obamacare. 
+<Node id="4302" />
+ They note with simplistic glee that the top five health insurers made $12 billion in profits last year. 
+ So there must be enough cash lying around, eh? Well, by the administration's own reckoning, the health care tab for covering another 34 million is going to be at least $1 trillion. 
+ Great, we're only $988 billion short.
+<Node id="4631" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="51" EndNode="4631">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc010</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Jason,Lewis</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20100930</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Star,Tribune</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.startribune.com/opinion/commentary/104108048.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="rel" StartNode="401" EndNode="546">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_conditions_make_sense</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="683" EndNode="787">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_conditions_make_sense</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="rel" StartNode="789" EndNode="1088">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_conditions_make_sense</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1099" EndNode="1258">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_conditions_make_sense</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="rel" StartNode="1260" EndNode="1374">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_conditions_make_sense</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1610" EndNode="1820">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_insufficient_to_offset_costs_of_eliminating_pre-existing_conditions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="1376" EndNode="1608">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_insufficient_to_offset_costs_of_eliminating_pre-existing_conditions</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="1822" EndNode="2011">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_insufficient_to_offset_costs_of_eliminating_pre-existing_conditions</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2045" EndNode="2129">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_condition_does_not_preclude_care</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="2132" EndNode="2294">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">pre-existing_condition_does_not_preclude_care</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2296" EndNode="2528">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">americans_have_entitlement_mentality</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2725" EndNode="2822">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">goal_is_to_expand_entitlements</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="3108" EndNode="3275">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="3277" EndNode="3320">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="rel" StartNode="3873" EndNode="4225">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_not_a_good_model</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="3717" EndNode="3809">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">medicare_not_a_good_model</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="4227" EndNode="4302">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4631">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

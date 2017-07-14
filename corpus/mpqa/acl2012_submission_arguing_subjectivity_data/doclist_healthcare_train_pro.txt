@@ -1,0 +1,40 @@
+# healthcare train pro
+training/hc003.xml
+training/hc004.xml
+training/hc006.xml
+training/hc007.xml
+training/hc008.xml
+training/hc013.xml
+training/hc015.xml
+training/hc016.xml
+training/hc017.xml
+training/hc021.xml
+training/hc022.xml
+training/hc025.xml
+training/hc026.xml
+training/hc027.xml
+training/hc037.xml
+training/hc046.xml
+training/hc058.xml
+training/hc059.xml
+training/hc060.xml
+training/hc061.xml
+# training/hc062.xml
+training/hc063.xml
+training/hc065.xml
+training/hc066.xml
+training/hc067.xml
+# training/hc068.xml
+training/hc069.xml
+training/hc070.xml
+training/hc083.xml
+training/hc084.xml
+training/hc086.xml
+training/hc087.xml
+training/hc088.xml
+training/hc090.xml
+training/hc091.xml
+training/hc092.xml
+training/hc093.xml
+training/hc094.xml
+training/hc095.xml

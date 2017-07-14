@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc013.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Health care bill the first step, not the last
+ Eugene Robinson - Washington Post Writers Group
+ When all is said and done -- and, yes, there is a bit more saying and doing to endure, which means that anything can happen -- the <Node id="227" />health care reform legislation<Node id="257" /> that President Obama now seems likely to sign into law, while an unlovely mess, <Node id="338" />will be remembered as a landmark accomplishment.
+<Node id="387" />
+ The bill making its way through the Senate by the slimmest of margins is imperfect, to say the least. 
+ But before listing its many flaws, let's consider the measure's one great virtue: 
+<Node id="576" /> For the first time, we will enshrine the principle that all Americans deserve access to medical care regardless of their ability to pay.
+<Node id="714" />
+ <Node id="716" />No longer will it be the policy and practice of our nation to ration health according to wealth.
+<Node id="813" />
+ When you blow away all the smoke, that's what this fight is about. 
+ The Senate bill lacks a public health insurance option, the House bill is burdened by gratuitous abortion restrictions, and the final product of a House-Senate conference will probably have both those failings. 
+ But once the idea of universal health care is signed into law, it will be all but impossible to erase. 
+ Over time, that idea will be made into reality.
+ The loose ends are so many and varied, in fact, that it will probably be necessary to revisit the health care issue sooner rather than later.
+ Even if it takes years to get it right, eventually is better than never.
+ History suggests that major new social initiatives have to be perfected over time -- and that basic entitlements, once established, are rarely taken away.
+ Progressives who argue for killing the Senate bill and starting over should explain their position to <Node id="1726" />the 30 million Americans without health insurance who would be covered under this insufficiently progressive legislation. 
+<Node id="1849" />
+ For anyone who believes <Node id="1875" />it is shameful that the richest, most powerful nation in the world cares so little about the health and welfare of its citizens<Node id="2002" />, this is the moment. 
+ It should be seized, not squandered.
+ <Node id="2064" />Is it ridiculous that the Senate bill essentially bribes Sen. Ben Nelson with special Medicaid reimbursements for Nebraska alone? Yes. 
+<Node id="2200" />
+ Is it galling that the public option and the idea of a Medicare buy-in fell victim to Sen. Joe Lieberman's whims? Supremely so. 
+But our eyes should be kept on the prize.
+ The bill has been described as a gift to the health insurance companies since it provides them with 30 million new customers and no competition from a public plan. 
+ I don't believe it's a coincidence that the stock prices of health insurers are soaring. 
+ But I also don't believe the main point of this exercise was to stick it to the insurance companies, however satisfying that might be.
+ Someday, perhaps, we will deal with the perversity of having for-profit <Node id="2839" />health insurance companies<Node id="2865" />. 
+ <Node id="2869" />Executives of those firms have a duty to maximize value for shareholders, which gives them the incentive to behave badly -- rejecting those who are most in need of health care, denying reasonable claims, raising premiums whenever possible. 
+<Node id="3110" />
+ <Node id="3112" />If health care is a fundamental right and a societal good, then why should its allocation be mediated by the private sector? 
+<Node id="3238" />
+ But this is not the debate we've just had.
+ <Node id="3284" />This isn't the end of a process that leads to a rational, sustainable, more efficient health care system. 
+ It's the beginning. 
+<Node id="3413" />
+ But when a reform bill passes, as now seems likely, Obama and congressional leaders will have achieved a goal that progressives have sought for decades. 
+ They will have established that <Node id="3602" />quality health care should be for all, not just for those who can afford it.
+<Node id="3679" />
+ <Node id="3681" />We have a system now in which Americans go bankrupt trying to pay doctors and hospitals to keep them alive. 
+<Node id="3790" />
+ When you have the opportunity to change this, you take it -- even if it means winning ugly.
+eugenerobinson@washpost.com
+<Node id="3912" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="3912">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc013</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Eugene,Robinson</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">My,San,Antonio</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.mysanantonio.com/default/article/Health-care-bill-the-first-step-not-the-last-857974.php </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="rel" StartNode="227" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="338" EndNode="387">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_improve_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="576" EndNode="714">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_is_a_right</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="716" EndNode="813">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_should_not_depend_on_wealth</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1726" EndNode="1849">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expands/guarentees_access_to_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1875" EndNode="2002">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_should_not_depend_on_wealth</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="2064" EndNode="2200">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="2839" EndNode="2865">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2869" EndNode="3110">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">current_system_leads_to_corporate_exploitation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="3112" EndNode="3238">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">current_system_leads_to_corporate_exploitation</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="3284" EndNode="3413">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_is_step_in_right_direction</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="3602" EndNode="3679">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_is_a_right</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">both</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="3681" EndNode="3790">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">protects_individuals_from_medical_bankrupcy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3912">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

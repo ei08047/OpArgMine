@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc088.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Category: Tax Tips Tags: , Affordable Care Act, tax deductions and credits&#xd;
+by JoeTaxpayer April 5, 2011&#xd;
+What is the Affordable Care Act?&#xd;
+<Node id="140" />&#xd;
+<Node id="142" />Healthcare reform kicked off in 2010, and some changes to tax credits and medical accounts will go into effect in 2010 and 2011. But you won’t see major changes until 2013 and 2014. There are two major pieces to understand, first the Patient Protection and Affordable Care Act (PPACA), and the Health Care and Education Reconciliation Act of 2010. Today, I’d like to discuss the first statute, commonly referred to as the Affordable Care Act and how it might impact your wallet.&#xd;
+<Node id="622" />&#xd;
+    <Node id="628" />Small Business Health Care Tax Credit: 4 million small businesses are eligible for a tax credit to help fund insurance for their workers<Node id="764" />. A small business is defined as those employing 25 or fewer people, and the credit is up to 35% of the coverage cost.&#xd;
+    Changes to the Flexible Spending Account: In 2011 one change that may impact you is that non-prescription (i.e. over the counter) medicines are no longer allowed to be reimbursed by the FSA or you Health Savings Account (HSA). There is a specific waiver that permits insulin to be covered without prescriptions, and eyeglasses, contact lenses, and co-pays/deductibles remain approved.&#xd;
+    <Node id="1278" />Health Coverage for Older Children: Companies are now permitted to cover employee’s children up to age 27<Node id="1383" />. <Node id="1385" />This may appear a bit old at first, but given the job market and students taking time off during their college years, many were left uninsured<Node id="1527" />. This provision helps close that gap.&#xd;
+    Indoor Tanning: A 10% excise tax went into effect July 1,2010. Licensed medical professionals treating skin disorders are exempt from this ‘vanity’ tax.&#xd;
+    Employer-Provided Health Coverage: While not taxable, employers are encouraged to report the value of this benefit to their employees. This is optional for 2011, but required next year.&#xd;
+    <Node id="1920" />The Adoption Credit: The tax credit you can receive for the expenses associated with the adoption of a child is now up to $13,170 per child<Node id="2059" />. Further, this credit is refundable, meaning if your total tax bill was otherwise lower than the credit you qualify for, you will get a check for the amount owed to you. Form 8839 will walk you through the income restrictions and other details to better understand this benefit.&#xd;
+<Node id="2340" />&#xd;
+<Node id="2342" />Overall the intent of the Affordable Care Act is to live up to its own name, to reduce and one day eliminate the high numbers of us who are counted as uninsured<Node id="2502" />.<Node id="2503" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="4" Type="doc" StartNode="0" EndNode="2503">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc088</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">joetaxpayer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">tax,break,turbotax</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110405</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://blog.turbotax.intuit.com/2011/04/05/what-is-the-affordable-care-act/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="628" EndNode="764">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1278" EndNode="1383">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="1385" EndNode="1527">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">children_can_stay_on_parent_plans_longer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="2342" EndNode="2502">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_access</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1920" EndNode="2059">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">new_tax_credits_for_adoption</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="140">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="142" EndNode="622">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="628" EndNode="2340">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="2342" EndNode="2503">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

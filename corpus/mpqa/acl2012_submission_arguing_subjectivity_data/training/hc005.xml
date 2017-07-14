@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc005.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" /> <Node id="1" />EDITORIAL: Health care for illegals -  Opinion - ReviewJournal.com 
+Health care for illegals   
+ <Node id="98" />President Obama's frenzied attempt to nationalize health care<Node id="159" /> has hit a few snags, despite the best efforts of liberal congressional Democrats. 
+
+     <Node id="249" />But it's worth noting at least one success<Node id="291" /> the far left<Node id="304" /> has scored when it comes to health care reform legislation: They made sure that taxpayers could be on the hook for covering the medical bills of illegal aliens. 
+<Node id="467" />
+ That's right. <Node id="483" />Last week, the Democratic-controlled House Ways and Means Committee voted 26-15 -- on a straight party line -- to kill an amendment offered by Nevada Rep. Dean Heller that would have prevented illegals from receiving government subsidized health care under any reform proposal. 
+<Node id="762" />
+ Democrats often trot out the 45 million uninsured in America as evidence that we need more public sector involvement in health care. 
+
+   Of course, a significant portion of those uninsured are illegal -- some estimates put it as high as 10 million. 
+
+ Democrats have previously denied that they seek to cover illegals, saying they would not be eligible to participate in the public insurance option they hope to create. 
+ The question then becomes: <Node id="1214" />What sort of mechanism do they propose to weed out the illegals? 
+ In fact, they have proposed none. <Node id="1315" />
+ <Node id="1317" />The Heller plan would have at least mandated that health organizations use federal data base checks to verify citizenship, but the Democrats have now put the kibosh on that approach. 
+ Heller's plan would also have barred illegal aliens from qualifying for tax credits to subsidize the purchase of private health insurance coverage. 
+ But this, too, is apparently too much for Democrats to stomach in their effort to court the illegal vote.  <Node id="1759" />
+ The irony here, of course, is that <Node id="1796" />at least some portion of our increasing medical expenditures -- which are driving the push toward reform -- can be attributed to this nation's generous policy of treating illegals in emergency rooms and passing the costs on to citizens. <Node id="2033" />
+ <Node id="2035" />The notion that Rep. Heller's concerns are overblown should be dismissed outright. 
+ It's already commonplace for illegals with counterfeit identification to receive various federal benefits. <Node id="2227" />
+ <Node id="2229" />Without some means of checking for citizenship, how do Democrats propose to ensure their socialized medicine scheme doesn't become an attraction for illegals? 
+<Node id="2389" />
+ Or do they even care? 
+<Node id="2414" />
+<Node id="2415" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="1" EndNode="2414">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc005</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Review,Journal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.lvrj.com/opinion/51562452.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="98" EndNode="159">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="249" EndNode="467">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">gives_healthcare_to_undocumented</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="rel" StartNode="483" EndNode="762">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">gives_healthcare_to_undocumented</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="rel" StartNode="291" EndNode="304">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1214" EndNode="1315">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">gives_healthcare_to_undocumented</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1796" EndNode="2033">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">undocumented_causing_rising_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="1317" EndNode="1759">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">gives_healthcare_to_undocumented</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2229" EndNode="2389">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">gives_healthcare_to_undocumented</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="rel" StartNode="2035" EndNode="2227">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">gives_healthcare_to_undocumented</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="2415">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

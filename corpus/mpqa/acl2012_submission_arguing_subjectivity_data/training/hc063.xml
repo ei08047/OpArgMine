@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc063.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Originally Published: October 19, 2011 12:40 PM  Modified: October 25, 2011 4:50 PM&#xd;
+Report: <Node id="93" />Health care reform will save Michigan families thousands of dollars a year by 2019<Node id="175" />&#xd;
+By Jay Greene&#xd;
+| | | | | |&#xd;
+<Node id="205" />&#xd;
+<Node id="207" />A new report from Families USA estimates that <Node id="253" />the average Michigan household earning less than $100,000 a year will save an average of $2,200 annually on health insurance premiums once national health care reform is fully under way in 2019<Node id="446" />.&#xd;
+<Node id="449" />&#xd;
+<Node id="451" />Those families with existing health insurance coverage will pay $522 less in premiums by 2019, while those currently without health insurance will receive federal assistance projected to average $4,383 a year<Node id="659" />, said Ron Pollack, president of Families USA, a consumer protection group based in Washington, D.C.&#xd;
+<Node id="761" />&#xd;
+<Node id="763" />The report was issued at 11 a.m. today in a telephone press conference for news organizations in Michigan.&#xd;
+<Node id="871" />&#xd;
+<Node id="873" />Pollack said <Node id="886" />the average projected savings has been adjusted for those individuals and families that currently lack insurance but will be required to buy it or pay a fine to the Internal Revenue Service by 2014<Node id="1083" />.&#xd;
+<Node id="1086" />&#xd;
+<Node id="1088" />"There will be savings" in 2014 and 2015, but "we went out to 2019 because when you have a new program, it takes a while to get enrolled and an accurate picture to unfold once it is implemented<Node id="1281" />," Pollack said. "<Node id="1299" />The bottom line is there will be savings<Node id="1339" />."&#xd;
+<Node id="1343" />&#xd;
+<Node id="1345" />While some small businesses that currently do not offer health insurance to employees will face increased operating costs because of the individual mandate, U.S. Rep. John Dingell, D-Dearborn, said <Node id="1543" />all small businesses will benefit from the Affordable Care Act of 2010 in several ways<Node id="1629" />.&#xd;
+<Node id="1632" />&#xd;
+<Node id="1634" />"<Node id="1635" />Small businesses get tax breaks immediately<Node id="1678" />, even before they are covered," Dingell said.&#xd;
+<Node id="1726" />&#xd;
+<Node id="1728" />"<Node id="1729" />Some small businesses would be exempt from having to purchase insurance for their employees<Node id="1820" />. Some companies will refuse to purchase insurance and pay a penalty, but it is noteworthy that an awful lot want to cover their employees. They know it is a significant morale builder that helps them hold onto good employees."&#xd;
+<Node id="2049" />&#xd;
+<Node id="2051" />Pollack said other benefits to businesses include the following:&#xd;
+<Node id="2117" />&#xd;
+<Node id="2119" />&#x2022; In 2014, employees will be able to switch jobs and not worry about losing health coverage for a sick family member, because<Node id="2244" /> the new law bans exclusions for pre-existing conditions<Node id="2300" />.&#xd;
+<Node id="2303" />&#xd;
+<Node id="2305" />&#x2022; <Node id="2307" />Michigan's nonprofit health insurance exchange, mandated by the health care reform bill, will help increase competition among insurance companies and help drive down premium increases<Node id="2490" />.&#xd;
+<Node id="2493" />&#xd;
+<Node id="2495" />However, significant opposition to required enabling legislation for the exchange exists in the Republican-controlled Michigan House, despite support from Gov. Rick Snyder, said Don Hazaert, director of the Lansing-based Michigan Consumers for Healthcare, a health care coalition that supports the exchange.&#xd;
+<Node id="2804" />&#xd;
+<Node id="2806" />Hazaert said he thinks some lawmakers in the House who oppose the measure eventually will approve the exchange because if Michigan does not legislate its own exchange, the federal government will step in with its own model.&#xd;
+<Node id="3031" />&#xd;
+<Node id="3033" />&#x2022; <Node id="3035" />Premium costs will decrease because insurers no longer will have to charge the so-called "hidden tax" on premiums that helps pay providers' uncompensated health care costs incurred by treating the uninsured<Node id="3241" />.&#xd;
+<Node id="3244" />&#xd;
+<Node id="3246" />Other highlights of the report:&#xd;
+<Node id="3279" />&#xd;
+<Node id="3281" />&#x2022; <Node id="3283" />Households with income under $30,000 will be $3,175 better off under health care reform<Node id="3370" />.&#xd;
+<Node id="3373" />&#xd;
+<Node id="3375" />&#x2022; <Node id="3377" />Households with income between $30,000 and $50,000 will be $1,651 better off<Node id="3453" />.&#xd;
+<Node id="3456" />&#xd;
+<Node id="3458" />&#x2022; <Node id="3460" />Households with income between $50,000 and $100,000 will be $1,316 better off<Node id="3537" />.&#xd;
+<Node id="3540" />&#xd;
+<Node id="3542" />To see the report, click here.&#xd;
+<Node id="3574" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="34" Type="rel" StartNode="1729" EndNode="1820">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="arg" StartNode="2307" EndNode="2490">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">exchanges_support_informed_choice</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="rel" StartNode="1088" EndNode="1281">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="arg" StartNode="1635" EndNode="1678">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="93" EndNode="175">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="doc" StartNode="0" EndNode="3574">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc063</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">jay,greene</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">crains,detroit,business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111019</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.crainsdetroit.com/article/20111019/FREE/111019874/report-health-care-reform-will-save-michigan-families-thousands-of-dollars-a-year-by-2019</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="451" EndNode="659">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="253" EndNode="446">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="1543" EndNode="1629">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_small_business</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="1299" EndNode="1339">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="3035" EndNode="3241">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="2244" EndNode="2300">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">eliminates_pre-existing_conditions</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="arg" StartNode="3377" EndNode="3453">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="3283" EndNode="3370">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="rel" StartNode="886" EndNode="1083">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="arg" StartNode="3460" EndNode="3537">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_healthcare_affordability</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="205">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="207" EndNode="449">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="451" EndNode="761">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="763" EndNode="871">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="873" EndNode="1086">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1088" EndNode="1343">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1345" EndNode="1632">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1634" EndNode="1726">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1728" EndNode="2049">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2051" EndNode="2117">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2119" EndNode="2303">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="2305" EndNode="2493">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="2495" EndNode="2804">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="2806" EndNode="3031">
+</Annotation>
+<Annotation Id="14" Type="paragraph" StartNode="3033" EndNode="3244">
+</Annotation>
+<Annotation Id="15" Type="paragraph" StartNode="3246" EndNode="3279">
+</Annotation>
+<Annotation Id="17" Type="paragraph" StartNode="3375" EndNode="3456">
+</Annotation>
+<Annotation Id="16" Type="paragraph" StartNode="3281" EndNode="3373">
+</Annotation>
+<Annotation Id="19" Type="paragraph" StartNode="3542" EndNode="3574">
+</Annotation>
+<Annotation Id="18" Type="paragraph" StartNode="3458" EndNode="3540">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

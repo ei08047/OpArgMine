@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc021.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />GOP Attack on Health Care Reform Is a Fight Against Racial Justice
+ House Republicans are making good on their pledge to repeal every provision of the new law in a vote next week. 
+ And while it's a long shot that the GOP's effort will make it through both houses of Congress, what's clear is that less than 72 hours after assuming power <Node id="338" />Republicans are already breaking their own promises and potentially putting the lives of millions of poor and uninsured people of color at risk.
+<Node id="483" />
+ First, let's break down the fight. 
+ <Node id="522" />The attempt to repeal the health care law is primarily about attacking one of the Obama administration's biggest accomplishments, thereby setting the stage for the 2012 presidential elections. 
+<Node id="716" />
+ <Node id="718" />Republicans are set to vote on their repeal of the health insurance bill, formally known as the Affordable Care Act next Wednesday, and for all that effort they still haven't managed to come up with a better name for it other than, "Repealing the Job-Killing Health Care Law Act." 
+<Node id="1000" />
+ Since they already control the House, the bill's expected to pass fairly easily. 
+ Though it faces considerably more challenging odds in the Democratic-controlled Senate, President Obama said Thursday that he'll veto any repeal measure that reaches his desk.
+ In the president's promise to veto the repeal effort, the White House cited new data from the Congressional Budget Office that showed just how much is at stake if Republicans get their way. 
+ The CBO found that <Node id="1473" />if Republicans do get their repeal, an additional 32 million people would be left uninsured<Node id="1564" />, <Node id="1566" />bringing the total amount of non-elderly adults without coverage to 17 percent, a number that's roughly equivalent to what it is today. 
+<Node id="1703" />
+ Perhaps more noteworthy, though, is the office's estimate that <Node id="1768" />a repeal would add $320 billion to the federal deficit over the next decade.<Node id="1844" /> Coincidently, that's exactly what the party promised to avoid doing in the first place.
+ Of course, <Node id="1945" />House leadership<Node id="1961" /> already knows this. 
+ So <Node id="1987" />they've simply decided to change their own rules and continue lying to the public about what repealing the law would really mean. 
+ This week Majority Leader Eric Cantor defended the party's apparent disregard for their own mantra of fiscal responsibility.
+<Node id="2244" />
+ "About the budget implications, I think most people understand that the CBO did the job it was asked to do by the then-Democrat majority, and it was really comparing apples to oranges," Cantor told the New York Times. 
+ "It talked about 10 years' worth of tax hikes and six years' worth of benefits. 
+ <Node id="2548" />Everyone knows beyond the 10-year window, this bill has the potential to bankrupt this federal government as well as the states."<Node id="2677" />
+ Ezra Klein points out at the Washington Post that Cantor's views and comparisons simply have no merit.
+ Perhaps more importantly,<Node id="2808" /> Cantor's lies have helped push his party's agenda at the expense of raising the public's awareness. 
+<Node id="2910" />
+ <Node id="2912" />For instance, a Kaiser Health Tracking poll released last spring found that while 46 percent of the American public favored reforming the law, that view was based largely on the uninformed belief that it would add to the federal deficit. 
+ And that was as untrue one year ago as it will be for the next two decades.
+<Node id="3228" />
+ <Node id="3230" />But if the health care bill were to be repealed, people of color and many of the country's poorest residents stand to lose the most. 
+<Node id="3364" />
+ <Node id="3366" />According to Leslie Russell at the Center for American Progress, people of color are more likely to be left uninsured and suffer disproportionately from health disparities. 
+ Some of the estimates show that while 12 percent of white residents are uninsured, those numbers are nearly double for African-Americans. 
+ The numbers are about the same for Latinos and American Indians, whose rates of uninsured total about 32 percent. 
+ Even for those people of color who are insured, they're more likely to get substandard care. 
+ And it's well documented that people of color face much higher rates of cancer, obesity, diabetes, and heart disease.
+<Node id="4010" />
+ <Node id="4012" />Conservatives have gone to great lengths to portray <Node id="4064" />the bill<Node id="4072" /> as a "job killer,"<Node id="4091" /> when really <Node id="4104" />it's an effort to catch up to every other industrialized nation in the world in offering affordable public health insurance to working people. 
+<Node id="4248" />
+ <Node id="4250" />According to many liberal observers, such a move could free a large swath of the public from the jaws of over zealous private insurers.
+<Node id="4386" />
+ So <Node id="4391" />the fight to maintain the health care law is as much a battle for racial justice and health equity<Node id="4489" /> as it is one of maintaining one of the Democratic party's landmark victories of the past two years.
+<Node id="4590" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="4590">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc021</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">201101</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">colorlines,Color,Lines</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://colorlines.com/archives/2011/01/in_an_email_blast_to.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="522" EndNode="716">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_based_on_political_gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="338" EndNode="483">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_racial_equality</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="718" EndNode="1000">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_has_no_plan</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1473" EndNode="1564">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_leaves_many_uninsured</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1768" EndNode="1844">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_increases_deficit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="1566" EndNode="1703">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_leaves_many_uninsured</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="2548" EndNode="2677">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="1945" EndNode="1961">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="rel" StartNode="1987" EndNode="2244">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_based_on_political_gain</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2808" EndNode="2910">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_based_on_political_gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="rel" StartNode="2912" EndNode="3228">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="3230" EndNode="3364">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_hurts_racial_equality</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="3366" EndNode="4010">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">repeal_hurts_racial_equality</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="4064" EndNode="4072">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="4012" EndNode="4091">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">opposition_demagogues_bill</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="4104" EndNode="4248">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">most_other_industrialized_countries_guarentee_healthcare</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="4391" EndNode="4489">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_racial_equality</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="4250" EndNode="4386">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">prevents_corporate_exploitation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4590">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc047.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Who Does The Healthcare Reform Bill Really Help&#xd;
+<Node id="49" />&#xd;
+<Node id="51" />Since the beginning of the healthcare debate, many things have been said about how healthcare reform will help all of us. Lower premiums, a ban on pre-existing conditions and affordable care for those who don&#x2019;t have insurance are just a few. <Node id="293" />Many of the provisions don&#x2019;t kick in until 2014, but <Node id="346" />the extra taxes have already started<Node id="382" />.<Node id="383" /> <Node id="384" />Our elected officials have decided in their infinite wisdom that 10 years of income collection vs. 6 years of benefits somehow makes this bill budget neutral, but they didn&#x2019;t even get that right<Node id="578" />.<Node id="579" /> <Node id="580" />We all know that the new healthcare law will cost far more than they have told us<Node id="661" />, but who is really benefiting from our additional expense?&#xd;
+<Node id="722" />&#xd;
+<Node id="724" />People with pre-existing conditions can no longer be denied for health insurance, but they will be placed in high risk pools with subsidized and high premiums.<Node id="883" /> This is a good thing for those that couldn&#x2019;t get health insurance previously because of a health condition, but <Node id="996" />everyone else will have to make up the difference in cost<Node id="1053" />. <Node id="1055" />Regardless of how you feel about income redistribution, <Node id="1111" />this provision is good for about 15% of the population at the expense of the other 85%<Node id="1197" />.<Node id="1198" /> They say the costs will be partially offset by government subsidies, but the government&#x2019;s money comes from the same people in taxes; so <Node id="1335" />one way or another everyone will be paying more<Node id="1382" />. Still, most people agree that something needed to be done to help these people and this seemed like the only real choice.&#xd;
+<Node id="1507" />&#xd;
+<Node id="1509" />Children up to the age of 26 can now remain on their parents health insurance as long as they are in college or still living at home. <Node id="1643" />By the age of 26, Alexander the Great had already conquered all of Persia and assumed control of one of the largest empires in history<Node id="1777" />. <Node id="1779" />I don&#x2019;t believe a person in their twenties can be considered a child, and there are many other options for young adults in college.<Node id="1910" /> <Node id="1911" />Parents still have to pay more to have their children on their policies, so this is more about additional income for the insurance companies from a portion of the population that hardly ever needs to use it<Node id="2117" />. This will help keep everyone else&#x2019;s premiums down, but again, we are back to the <Node id="2200" />income redistribution issue that most people don&#x2019;t want<Node id="2255" />.&#xd;
+<Node id="2258" />&#xd;
+<Node id="2260" />About 16% of the American population falls below the poverty line and these people don&#x2019;t typically have health insurance. <Node id="2382" />There is a mandate that starts in 2014 that will force people to purchase health insurance if they don&#x2019;t have it<Node id="2494" />, and Americans below the poverty line will be exempt. Congress believes that the additional customers will bring premiums down to a level that will make it affordable for those below the poverty line, but <Node id="2700" />most believe that this mandate is unconstitutional and will be thrown out<Node id="2773" />; so where does that leave us? A healthcare exchange will be formed in 2014 that will put people into pools and make it cheaper to purchase a policy; but again for most people below the poverty line, premiums will still be too expensive to get. The idea is to make it possible for 16% to get insurance and mandatory for the other 84%, but what does that say about the America we live in today?&#xd;
+<Node id="3168" />&#xd;
+<Node id="3170" />The new healthcare law does help some people without a doubt, but <Node id="3236" />it hurts almost everyone except the politicians<Node id="3283" />. <Node id="3285" />This is yet another great example of the government trying to &#x201c;help&#x201d; us by telling us how to live our lives.<Node id="3393" /> In 2014, the rest of our &#x201c;help&#x201d; will kick in and <Node id="3443" />really corrode the level of our healthcare system<Node id="3492" />.<Node id="3493" /> It won&#x2019;t be budget neutral for the first 10 years, and it will skyrocket in cost the 10 years after that.<Node id="3599" /> <Node id="3600" />All this when companies like Ameriplan and others already had good alternatives to solve the problem.<Node id="3701" /> All or part of the healthcare law may be repealed at some point, but we still need to address the needs of those that fall through the cracks.&#xd;
+<Node id="3846" />&#xd;
+<Node id="3848" />Tags: Health Insurance, healthcare, healthcare debate, healthcare law, Healthcare Reform Bill, insurance companies.&#xd;
+<Node id="3965" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="34" Type="arg" StartNode="3600" EndNode="3701">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_not_major_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="arg" StartNode="1779" EndNode="1910">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">adult_child_insurance_not_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="arg" StartNode="3493" EndNode="3599">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="arg" StartNode="580" EndNode="661">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="arg" StartNode="996" EndNode="1053">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="arg" StartNode="346" EndNode="382">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">more_taxes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">neutral</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="arg" StartNode="384" EndNode="578">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="3965">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc047</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">us,healthcare,constitution</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.ushealthcareconstitution.org/who-does-the-healthcare-reform-bill-really-help.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="rel" StartNode="1643" EndNode="1777">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">adult_child_insurance_not_problem</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="rel" StartNode="1111" EndNode="1197">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="arg" StartNode="2382" EndNode="2494">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_forces_people_to_buy_plans_they_dont_want</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="arg" StartNode="3236" EndNode="3283">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_is_politically_motivated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="rel" StartNode="1911" EndNode="2117">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">adult_child_insurance_not_problem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="arg" StartNode="2200" EndNode="2255">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="arg" StartNode="3443" EndNode="3492">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="2700" EndNode="2773">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="arg" StartNode="1335" EndNode="1382">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="3285" EndNode="3393">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">govt_reaching_beyond_authority</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="17" Type="arg" StartNode="293" EndNode="383">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_higher_taxes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="49">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="51" EndNode="722">
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="580" EndNode="661">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="724" EndNode="1507">
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="384" EndNode="579">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">will_cost_more_than_anticipated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1509" EndNode="2258">
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="1055" EndNode="1198">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_more</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="2260" EndNode="3168">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="3170" EndNode="3846">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="3848" EndNode="3965">
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="724" EndNode="883">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

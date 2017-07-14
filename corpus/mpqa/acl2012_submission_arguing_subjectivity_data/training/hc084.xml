@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_3/hc085.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Awareness, Feminism | Posted by Julie Z on 03/24/2011&#xd;
+<Node id="55" />The Affordable Care Act: Feminism Moving Forward&#xd;<Node id="104" />
+The Affordable Care Act&#xd;
+<Node id="130" />&#xd;
+<Node id="132" />The Affordable Care Act&#xd;
+<Node id="157" />&#xd;
+<Node id="159" />One of the reasons many girls today donâ&#x20ac;&#x2122;t identify as feminists is because there are quite a few of us who are convinced that men and women are totally equal. The 1970â&#x20ac;&#x2122;s took care of all of our political and social battles, teens reason, looking to mothers who work to the same degree and prestige as their fathers and male classmates who they largely equal or surpass in intelligence. What exactly are feminists fighting for, they might wonder, and write us off as never-satisfied perpetual complainers.&#xd;
+<Node id="669" />&#xd;
+<Node id="671" />Well. Even if we completely disregard the fact that this standpoint can really only occur to girls of first-world countries, and within those countries to girls of middle-upper classes, there are still a lot of political and economic disparities that effect all of us. For example, thereâ&#x20ac;&#x2122;s still a wage gap - while girls may see their mothers working alongside their fathers, they may be surprised by their own paychecks as compared to their male counterparts in just a few years. Another huge issue is reproductive health â&#x20ac;&#x201c; we take the current rights we have over own bodies for granted, not realizing that there are plenty of people fighting to have them taken away from us, and that they could disappear at any minute.&#xd;
+<Node id="1398" />&#xd;
+<Node id="1400" />However, while when closely examined it becomes clear that the fight for women rights still has a long way to go, itâ&#x20ac;&#x2122;s equally important to celebrate our accomplishments. Who wants to support/join a movement thatâ&#x20ac;&#x2122;s not making any headway in their long, sobering checklist of goals?&#xd;
+<Node id="1687" />&#xd;
+<Node id="1689" />A year ago, the Affordable Care Act was passed. <Node id="1737" />This Act, amongst other benefits, includes provisions that will improve womenâ&#x20ac;&#x2122;s reproductive health<Node id="1838" />. According to the National Womenâ&#x20ac;&#x2122;s Law Center, <Node id="1888" />this Act will: â&#x20ac;&#x153;improve access to health insurance coverage for maternity care and family planning services (it will make prescription birth control more affordable), making it easier for states to expand Medicaid coverage of family planning.â&#x20ac;&#xfffd;<Node id="2135" /> However, at the same time that <Node id="2167" />this is a great victory for women in this country<Node id="2216" />, there are still people launching campaigns opposing the Act, and trying to amend and nullify some of itâ&#x20ac;&#x2122;s great policy.&#xd;
+<Node id="2341" />&#xd;
+<Node id="2343" />The bottom line is this: as feminists, we canâ&#x20ac;&#x2122;t just linger on all the work we have yet to do, and we canâ&#x20ac;&#x2122;t rely on raising awareness about our cause by focusing on the negative. <Node id="2526" />We also have to acknowledge the positive and celebrate our victories, such as the passage of the Affordable Care Act<Node id="2642" />. Itâ&#x20ac;&#x2122;s the job of our generation â&#x20ac;&#x201c; teenage and young feminists â&#x20ac;&#x201c; to balance both of these realities. <Node id="2749" />We must maintain a positive and optimistic outlook while at the same time remaining vigilant to protect our victories, and the Affordable Care Act is a great reminder of this mission<Node id="2931" />.&#xd;
+<Node id="2934" />&#xd;
+<Node id="2936" />This post is part of the NWLC blog-a-thon<Node id="2977" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="8" Type="doc" StartNode="0" EndNode="2977">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc085</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">julie,z</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110324</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">fbomb</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://thefbomb.org/2011/03/the-affordable-care-act/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1737" EndNode="1838">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1888" EndNode="2135">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2749" EndNode="2931">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2526" EndNode="2642">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bills_impact_is_positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="55" EndNode="104">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2167" EndNode="2216">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">reduces/eliminates_gender_discrimination</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="130">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="132" EndNode="157">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="159" EndNode="669">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="671" EndNode="1398">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1400" EndNode="1687">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1689" EndNode="2341">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="2343" EndNode="2934">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="2936" EndNode="2977">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

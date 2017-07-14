@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc044.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Wednesday, December 15, 2010 
+<Node id="30" />N.M. Should Join Suits Against ObamaCare 
+<Node id="72" />
+By Thomas Molitor
+Adjunct scholar, Rio Grande Foundation
+ Our next governor has a huge plate of problems to deal with on Day One of her administration starting next month, and I would have preferred to lessen her decision load, but unfortunately, I'm afraid I'm going to pile on one more - ObamaCare. 
+ <Node id="376" />Twenty states have joined in an amended federal lawsuit against the Reid/Pelosi/Obama nationalized health care plan. 
+<Node id="494" />
+ Granted, my doctor is kind of a career curmudgeon, so it didn't surprise me a bit last week when I was in his office for a routine checkup, he started in on the legislation. 
+ He's not a partisan politics kind of guy. 
+ He hates all politicians. 
+ He originally came to New Mexico recruited as the chief medical officer at a major hospital in Albuquerque. 
+ He quit after several years and opened his own single general practice. 
+ I asked him why he quit the major hospital, and he simply replied, "I got tired of <Node id="1011" />the bureaucratic mess." 
+ He thinks ObamaCare will make things even messier. 
+<Node id="1089" />
+ And so do I. 
+ Quite simply, <Node id="1120" />ObamaCare<Node id="1129" /> is a national disgrace<Node id="1152" /> and <Node id="1157" />its legislation clearly exceeds constitutional authority. 
+<Node id="1216" />
+ <Node id="1218" />It is patently unconstitutional for the federal government to break the backs of New Mexicans by trampling the Constitution<Node id="1341" />, and then threaten to use IRS agents to enforce this ridiculous plan. 
+ <Node id="1414" />As written, the bill states if a New Mexican citizen doesn't have health insurance and takes no action, he or she will be committing a crime in the eyes of ObamaCare. 
+<Node id="1582" />
+ Gov.-elect Susana Martinez (and Attorney General Gary King, for that matter) really needs to get that message and make the decision that, <Node id="1722" />like 20 other states and counting, New Mexico is not going to join the <Node id="1793" />unconstitutional coercive actions of the federal government<Node id="1852" />. 
+<Node id="1855" />
+ The push-back is already happening. 
+ This week <Node id="1905" />in the state of Virginia, a U.S. district judge became the first federal judge to strike down the law, siding with the Virginia attorney general in saying that the mandate overstepped the Constitution. 
+<Node id="2108" />
+ In a few years, <Node id="2126" />New Mexicans taxpayers will be forced to pay millions of dollars for the program and eventually several billion dollars when the federal government forces the entire plan onto the backs of New Mexican taxpayers. 
+<Node id="2339" />
+ Specifically, <Node id="2355" />the lawsuit, filed in federal court in the northern district of Florida, alleges that the new law infringes upon the constitutional rights of citizens by mandating all citizens and legal residents have qualifying health care coverage or pay a tax penalty. 
+<Node id="2612" />
+ <Node id="2614" />By imposing such a mandate, the law exceeds the powers of the United States under Article I of the Constitution. 
+<Node id="2728" />
+ Even more, <Node id="2741" />the tax penalty required under the law constitutes an unlawful direct tax in violation of Article I, sections 2 and 9 of the Constitution. 
+<Node id="2881" />
+ <Node id="2883" />The lawsuit further claims the nationalized health care plan infringes on the sovereignty of the states and the 10th Amendment to the Constitution by imposing onerous new operating rules that New Mexico must follow - as well as requiring our state to spend additional dollars without providing funds or resources to meet the state's cost of implementing the law. 
+<Node id="3247" />
+ ObamaCare has just started to kick in.
+ <Node id="3289" />Companies are canceling or threatening to cancel coverage because the new terms of doing business make business uneconomical. 
+<Node id="3416" />
+ <Node id="3418" />In a recent national survey, 70 percent of doctors polled stated they were unhappy with the Affordable Care Act (as ObamaCare ended up being called). 
+<Node id="3569" />
+ <Node id="3571" />Some insurance companies announced they would no longer write child-only policies. 
+<Node id="3655" />
+ <Node id="3657" />The new rules say that beginning now, no insurer can refuse coverage to an already-ill child, and that the premiums can't be higher than those charged for well children. 
+ (In a few years the "anti-discrimination" rule will apply to adults.)
+<Node id="3899" />
+ My curmudgeon doctor aside, <Node id="3929" />how can you run an insurance company when parents can wait until their children are seriously ill to buy coverage - and then the insurer can't set the premium according to the expected medical services? 
+<Node id="4133" />
+ That's not insurance. 
+ It's welfare filtered through business. 
+ <Node id="4201" />At issue here<Node id="4214" /> is not the details of the more than 2,000 pages of law. <Node id="4271" />It's the discretionary power the government has acquired<Node id="4327" /> because of it. 
+ A one-size-fits-all law was written by Congress. 
+ I'm not saying it would be better if there were no components of ObamaCare enacted into law at all. 
+ But the second-best solution is ObamaCare without bureaucratic discretion. 
+ Sure, if waivers are selectively granted, some of the harms of ObamaCare will be mitigated. 
+ But if no waivers can be granted, people will see the full effects of ObamaCare and may rise up to demand its repeal. 
+ Ultimately, ObamaCare may be decided by the U.S. Supreme Court. 
+ But <Node id="4859" />a good start towards voicing our point of view about the <Node id="4916" />unconstitutional components of the bill<Node id="4955" /> would be to join states challenging them. 
+<Node id="4999" />
+<Node id="5000" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="2" Type="doc" StartNode="0" EndNode="5000">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc044</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Thomas,Molitor</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Albuquerque,Journal,abqjournal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20101215</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.abqjournal.com/opinion/guest_columns/152148588536opinionguestcolumns12-15-10.htm </Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="30" EndNode="72">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="376" EndNode="494">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">some_states_dislike</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1011" EndNode="1089">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="rel" StartNode="1120" EndNode="1129">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1120" EndNode="1152">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1157" EndNode="1216">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1218" EndNode="1341">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="1414" EndNode="1582">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandates_purchasing_insurance</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1722" EndNode="1855">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">some_states_dislike</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="1793" EndNode="1852">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="1905" EndNode="2108">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="2126" EndNode="2339">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">individuals_will_pay_higher_taxes</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="2355" EndNode="2612">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="2741" EndNode="2881">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="2614" EndNode="2728">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="3289" EndNode="3416">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">getting_insurance_will_be_harder</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="rel" StartNode="2883" EndNode="3247">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="3571" EndNode="3655">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">other-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="3418" EndNode="3569">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_doctors</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="3929" EndNode="4133">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">requires_insurers_to_do_too_much</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="rel" StartNode="3657" EndNode="3899">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">insurers_will_stop_insuring_children</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="rel" StartNode="4201" EndNode="4214">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="arg" StartNode="4916" EndNode="4955">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unconstitutional</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="arg" StartNode="4271" EndNode="4327">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">centralizes_healthcare_control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="arg" StartNode="4859" EndNode="4999">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">some_states_dislike</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="5000">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

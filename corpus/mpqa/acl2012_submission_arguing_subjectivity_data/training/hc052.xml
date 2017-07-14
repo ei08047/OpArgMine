@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc052.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />December 21, 2011&#xd;
+<Node id="19" />The biggest, best, and only necessary reason to oppose Obamacare&#xd;<Node id="84" />
+<Node id="85" />&#xd;
+<Node id="87" />HEADNOTE: Yes, I'm going to call it "Obamacare," rather than the Patient Protection and Affordable Care Act, which is a mouthful and doesn't produce a good acronym. I should also disclose that I sometimes used to refer to the Strategic Defense Initiative as "Star Wars." If either of these things offends you, you can flick me right under the nose the next time you see me in public. That can be very painful.&#xd;
+<Node id="498" />&#xd;
+<Node id="500" />***&#xd;
+<Node id="505" />&#xd;
+<Node id="507" />There are many, many things to dislike about Obamacare in terms of both the substance of the law and the process by which it was passed<Node id="642" />. For all of its flaws, though, I still haven't heard a single Republican presidential candidate make this case against it:&#xd;
+<Node id="767" />&#xd;
+<Node id="769" />Every government, every business, every family, and every individual knows that you're supposed to pay for necessities before you buy luxuries<Node id="911" />. You take care of your needs first--things like food, shelter, clothing, and transportation--before you start buying big screen TVs and Hawaiian vacations.&#xd;
+<Node id="1069" />&#xd;
+<Node id="1071" />This is just common sense, good financial practice, and the only form of responsible budgeting and spending over the long haul.&#xd;
+<Node id="1200" />&#xd;
+<Node id="1202" />In this country, for the better part of the last 40 years--but especially in the last three years, and continuing as far into the future as we can reasonably project--we cannot pay for the things we all agree we need: national defense, health care and income support for seniors, a safety net for the poor, veterans' benefits, and so on. These are necessities for which we are currently borrowing 40 cents of every dollar.&#xd;
+<Node id="1626" />&#xd;
+<Node id="1628" />When we aren't able to pay for these necessities, how can we possibly contemplate a new, permanent entitlement that will cost hundreds of billions of dollars?<Node id="1786" /> Why are we planning a Hawaiian vacation when we can't afford to pay our mortgage, clothe our children, or buy groceries? <Node id="1908" />Why are we taking on a massive new commitment when we can't honor our existing commitments?&#xd;<Node id="2000" />
+<Node id="2001" />&#xd;
+<Node id="2003" />The only rational way forward is to address our current and future budget crisis--find a way to pay for the obligations we have under existing law--before taking on a new set of obligations<Node id="2192" />. When we get to the point that our budgets are balanced and are projected to stay that way for the foreseeable future, then--and only then--should we begin thinking about the "luxuries" we might be able to afford.&#xd;
+<Node id="2408" />&#xd;
+<Node id="2410" />I realize that some of you will say "Health care for all is not a luxury; it's a necessity." That's fine. But that opinion comes with an obligation. The obligation is to show how we will pay for our newly expanded list of essential government functions.&#xd;
+<Node id="2665" />&#xd;
+<Node id="2667" />The president hasn't done that...hasn't even pretended to care much about doing it. The Democratic Senate hasn't done that...hasn't, in fact, passed a budget in years. The Democratic House didn't do it when it had the chance. In short, <Node id="2903" />all the Democrats have done with Obamacare is take an acute problem--our budget crisis--and make it nearly terminal<Node id="3018" />.&#xd;
+<Node id="3021" />&#xd;
+<Node id="3023" />That's <Node id="3030" />horrifically irresponsible public policy<Node id="3070" />. <Node id="3072" />It's also a threat to the American economy<Node id="3114" />, the American way of life, and the American way of government.&#xd;
+<Node id="3179" />&#xd;
+<Node id="3181" />That's why <Node id="3192" />my first priority, should I become president, will be to repeal Obamacare<Node id="3265" />.&#xd;
+<Node id="3268" />&#xd;
+<Node id="3270" />Posted at 04:16 PM in Current Affairs | Permalink <Node id="3320" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="17" Type="arg" StartNode="1628" EndNode="1786">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_spending</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="507" EndNode="642">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_defunded/not_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="2003" EndNode="2192">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="3192" EndNode="3265">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_defunded/not_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="3030" EndNode="3070">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_gov</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2903" EndNode="3018">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_gov</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="3072" EndNode="3114">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">hurts_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="arg" StartNode="1908" EndNode="2000">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="769" EndNode="911">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">increases_govt_spending</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="doc" StartNode="0" EndNode="3320">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc052</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">johnny,utah</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">planet,utah</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111221</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://planetutah.typepad.com/planet_utah/2011/12/the-biggest-best-and-only-necessary-reason-to-oppose-obamacare.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="19" EndNode="84">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_should_be_defunded/not_passed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="85">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="87" EndNode="498">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="500" EndNode="505">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="507" EndNode="767">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="769" EndNode="1069">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1071" EndNode="1200">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1202" EndNode="1626">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1628" EndNode="2001">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="2003" EndNode="2408">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2410" EndNode="2665">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2667" EndNode="3021">
+</Annotation>
+<Annotation Id="11" Type="paragraph" StartNode="3023" EndNode="3179">
+</Annotation>
+<Annotation Id="12" Type="paragraph" StartNode="3181" EndNode="3268">
+</Annotation>
+<Annotation Id="13" Type="paragraph" StartNode="3270" EndNode="3320">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

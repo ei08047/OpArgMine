@@ -17,6 +17,11 @@ http://www.argumentinterchange.org/academics
 https://www.ukp.tu-darmstadt.de/data/
 
 
+planning
+
+https://prod.teamgantt.com/gantt/schedule/?ids=860014#&ids=860014&user=&custom=&company=&hide_completed=false&date_filter=&color_filter=
+
+A book <- Computational Models of Argument: Proceedings of COMMA 2014
 
 
 

@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc043.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Why <Node id="4" />Obamacare is sinking<Node id="24" />: The President's grand promises have run smack into the real world
+CHARLES KRAUTHAMMER
+Thursday, July 23rd 2009, 4:35 PM
+ What happened to Obamacare? 
+ Rhetoric met reality. 
+ As both candidate and President, the master rhetorician could conjure a world in which he bestows upon you health care nirvana: more coverage, less cost.
+ But you can't fake it in legislation. 
+ Once you commit your fantasies to words and numbers, the Congressional Budget Office comes along and declares that the emperor has no clothes.
+ President Obama premised the need for reform on the claim that medical costs are destroying the economy. 
+ True. 
+ But now we learn - surprise! - that <Node id="691" />universal coverage increases costs<Node id="725" />. 
+ <Node id="729" />The congressional Democrats' health care plans, says the CBO, increase costs in the range of $1 trillion plus.
+<Node id="840" />
+ In response, the President retreated to a demand that any bill he sign be revenue neutral. 
+ But that's classic misdirection: <Node id="968" />If the fierce urgency of health care reform is to radically reduce costs that are producing budget-destroying deficits, revenue neutrality (by definition) leaves us on precisely the same path to insolvency that Obama himself declares unsustainable.
+<Node id="1217" />
+ The Democratic proposals are worse still. 
+ Because they do increase costs, revenue neutrality means countervailing tax increases. 
+ It's not just that <Node id="1371" />it is crazily anti-stimulatory to saddle a deeply depressed economy with an income tax surcharge that falls squarely on small business and the investor class. 
+<Node id="1531" />
+ It's that <Node id="1543" />health care reform ends up diverting for its own purposes a source of revenue that might otherwise be used to close the yawning structural budget deficit that is such a threat to the economy and to the dollar.
+<Node id="1753" />
+ These blindingly obvious contradictions are why the Democratic health plans are collapsing under their own weight - at the hands of Democrats. 
+ It's Max Baucus, Democratic chairman of the Senate Finance Committee, who called Obama unhelpful for ruling out taxing employer-provided health insurance as a way to pay for expanded coverage. 
+ It's the Blue Dog Democrats in the House who wince at skyrocketing health-reform costs just weeks after having swallowed hemlock for Obama on a ruinous cap-and-trade carbon tax.
+ <Node id="2274" />The President is therefore understandably eager to make this a contest between progressive Democrats and reactionary Republicans. 
+<Node id="2405" />
+ He seized on Republican Sen. Jim DeMint's comment that stopping <Node id="2471" />Obama<Node id="2476" /> on health care would break his presidency to protest, with perfect disingenuousness, that "this isn't about me. 
+ This isn't about politics."
+ <Node id="2620" />It's all about him. 
+ Health care is his signature reform. 
+<Node id="2680" />
+ He knows that if he produces nothing, he forfeits the mystique that both propelled him to the presidency and has sustained him through a difficult first six months. 
+ Which is why Obama's red lines are constantly shifting. 
+ Universal coverage? 
+ Maybe not. 
+ No middle-class tax hit? 
+ Well, perhaps, but only if they don't "primarily" bear the burden. 
+ <Node id="3038" />Because it's about him, Obama is quite prepared to sign anything as long as it is titled "health care reform."
+<Node id="3149" />
+ This is not about politics? 
+ Then why is it, to take but the most egregious example, that <Node id="3242" />in this grand health care debate we hear not a word about one of the worst sources of waste in American medicine: the insane cost and arbitrary rewards of our malpractice system<Node id="3419" />?
+ <Node id="3422" />When a neurosurgeon pays $200,000 a year for malpractice insurance before he even turns on the light in his office or hires his first nurse, who do you think pays? 
+ Patients, in higher doctor fees to cover the insurance.
+<Node id="3644" />
+ And <Node id="3650" />with jackpot justice that awards one claimant zillions while others get nothing - and one-third of everything goes to the lawyers - where do you think that money comes from? 
+ The insurance companies, who then pass it on to you in higher premiums.
+<Node id="3898" />
+ But <Node id="3904" />the greatest waste is the hidden cost of defensive medicine: tests and procedures that doctors order for no good reason other than to protect themselves from lawsuit. 
+<Node id="4072" />
+ <Node id="4074" />Every doctor knows, as I did when I practiced years ago, how much unnecessary medical cost is incurred with an eye not on medicine but on the law.
+<Node id="4221" />
+ <Node id="4223" />Tort reform<Node id="4234" /> would yield tens of billions in savings. 
+<Node id="4277" />
+ Yet <Node id="4283" />you cannot find it in the Democratic bills. 
+<Node id="4328" />
+ And <Node id="4334" />Obama breathed not a word about it in the full hour of his health care news conference. 
+<Node id="4423" />
+ Why? 
+ No mystery. 
+ <Node id="4446" />The Democrats are parasitically dependent on huge donations from trial lawyers.
+<Node id="4526" />
+ Didn't Obama promise a new politics that puts people over special interests? 
+ Sure. 
+ And now he promises expanded, portable, secure, higher-quality medical care - at lower cost! 
+ The only thing he hasn't promised is to extirpate evil from the human heart. 
+ That legislation will be introduced next week.
+letters@charleskrauthammer.com
+<Node id="4867" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="4867">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc043</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Charles,Krauthammer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">nydailynews,New,York,Daily,News</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20090724</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.nydailynews.com/opinions/2009/07/24/2009-07-24_why_obamacare_is_sinking.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="4" EndNode="24">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="691" EndNode="725">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expanding_coverage_is_too_costly</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="rel" StartNode="729" EndNode="840">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">expanding_coverage_is_too_costly</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="968" EndNode="1217">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="1371" EndNode="1531">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">new_taxes_hurt_businesses</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1543" EndNode="1753">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">deficit_greater_threat</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="2274" EndNode="2405">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_is_politically_motivated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="rel" StartNode="2471" EndNode="2476">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2620" EndNode="2680">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_is_politically_motivated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="3038" EndNode="3149">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_is_politically_motivated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="3242" EndNode="3419">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">lacks_tort_reform</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="3422" EndNode="3644">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">malpractice_insurance_too_expensive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="3650" EndNode="3898">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="4074" EndNode="4221">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="3904" EndNode="4072">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="rel" StartNode="4223" EndNode="4234">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="4223" EndNode="4277">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="4334" EndNode="4423">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">lacks_tort_reform</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="4283" EndNode="4328">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">lacks_tort_reform</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="4446" EndNode="4526">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">lacks_tort_reform</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4867">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

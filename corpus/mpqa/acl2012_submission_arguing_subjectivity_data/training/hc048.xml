@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc048.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />AP Poll: Obamacare support hits record low of 29%&#xd;<Node id="50" />
+byPhilip Klein Senior Editorial Writer&#xd;
+Follow on Twitter:&#xd;
+<Node id="111" />&#xd;
+<Node id="113" />During the health care fight, President Obama and top Democrats argued that once people found out what was in their law, it would continue to gain support. But <Node id="273" />as we approach the two year anniversary, a new AP poll finds support for Obama's signature legislative accomplishment has hit 29 percent, with 49 percent opposing it.<Node id="439" /> <Node id="440" />That's the lowest level of support since the AP began polling the issue<Node id="511" /> as it was moving through Congress in Sept. 2009.&#xd;
+<Node id="562" />&#xd;
+<Node id="564" />Especially troubling for Democrats heading into an election year, is that <Node id="638" />the passion is also on the side of the opponents of the law<Node id="697" />. <Node id="699" />Just 13 percent consider themselves strong supporters, compared to 33 percent who say they "strongly oppose" the law<Node id="815" />.&#xd;
+<Node id="818" />&#xd;
+<Node id="820" />Even worse for Obama, just 15 percent of people said they think government should have the power to require individuals to purchase health insurance, compared to 84 percent who say they should not.<Node id="1017" /> It's a question the U.S. Supreme Court will resolve next year. (Pollsters asked: "Do you think the Federal Government should have the power to require all Americans to buy health insurance, and to pay a fine if they don&#x2019;t or do you think the Federal Government should not have that power?")&#xd;
+<Node id="1310" />&#xd;
+<Node id="1312" />The one silver lining for Obama? The two leading contenders for the Republican nomination, Newt Gingrich and Mitt Romney, have endorsed the individual mandate. And as governor of Massachusetts, Romney signed a health care law that served as the model for Obama's national legislation.&#xd;
+<Node id="1598" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="5" Type="doc" StartNode="0" EndNode="1598">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc048</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">philip,klein</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">washington,examiner,beltway,confidential</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20111216</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://campaign2012.washingtonexaminer.com/blogs/beltway-confidential/ap-poll-obamacare-support-hits-record-low-29/261326</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="0" EndNode="50">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="rel" StartNode="273" EndNode="439">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="440" EndNode="511">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular_among_public</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="820" EndNode="1017">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">mandate_unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="638" EndNode="697">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="699" EndNode="815">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unpopular</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="111">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="113" EndNode="562">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="564" EndNode="818">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="820" EndNode="1310">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="1312" EndNode="1598">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

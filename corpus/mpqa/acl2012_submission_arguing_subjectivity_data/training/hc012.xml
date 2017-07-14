@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc012.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />A second chance to get health care reform right
+ <Node id="49" />Barack Obama<Node id="61" /> won my vote because he was idealistic and pragmatic and trans-partisan.<Node id="133" /> 
+ I believed him when he said he was committed to addressing the big issues where we had allowed things to drift into dangerous territory because of the flaws in our old politics: overdependence on special interests and growing polarization. 
+ I believed Obama when he said he would appeal to our most fundamental human values and our most important overarching goals. 
+ He would help us see where we all -- Republicans and Democrats, blacks and whites and others -- shared ideals and dreams. 
+ Then he would help us develop the creative new ideas that would allow us to work together to face the big issues, not sidestep them. 
+ Obama as a candidate in 2008 said health care costs were growing at a rate that would bankrupt our country. 
+ People without insurance were being left out of the system. 
+ All attempts to reduce government deficits were doomed to fail if health care costs continued to mushroom. 
+ He told us we needed to change the dynamics so health care would be accessible to all while consuming less of our national wealth, rather than constantly consuming more. 
+ I agreed with all this. 
+ To get health care cost containment and expanded health care coverage, we needed a president who recognized the urgency of the issue, would go all out to address it, and would be able to create a trans-partisan creative environment in which the best ideas of each political faction could become resources for a new solution. 
+ <Node id="1570" />So far, Obama has not lived up to my hopes or our needs when it comes to health care policy. 
+<Node id="1664" />
+ He didn't come equipped with a rock-solid vision for a new system that would work. 
+ He didn't look very far for ideas. 
+ He left the initiative to congressional leaders with truncated partisan perspectives. 
+ He endorsed a flawed approach. 
+ And worst of all, instead of presiding over trans-partisan creativity, <Node id="1980" />he sat by while tawdry backroom politics were used to sell off favors in exchange for votes. 
+<Node id="2074" />
+ <Node id="2076" />The current Democratic plan is hardly the product of a reality-based process. 
+<Node id="2155" />
+ <Node id="2157" />Health care costs are skyrocketing because so many of us use insurance paid for by someone else to fund most of our health care. 
+ We practically ignore the true costs of our health care, even if we pay modest co-pays and deductibles, because the most important costs are covered for us. 
+<Node id="2446" />
+ As a result, <Node id="2461" />neither those who consume health care, nor those who produce it, have any natural incentive to curb costs. 
+<Node id="2569" />
+ We are playing with a law of nature here. 
+ <Node id="2615" />If people making choices about consuming <Node id="2656" />health care<Node id="2667" /> are insulated from the costs of their choices, they will consume more health care. 
+ The more they are insulated, the more they will consume. 
+ Insulate them entirely -- make health care free -- and there will be no effective limit to how much they will consume, unless that limit is provided by some outside force. 
+<Node id="2985" />
+ <Node id="2987" />The Democrats' insurance reform proposal will make insurance available to more people, but in every other way it will reinforce the dynamics that are inflating costs<Node id="3152" /> -- unless government officials start limiting our access to the system. 
+ <Node id="3227" />Costs will go up faster<Node id="3250" /> or <Node id="3254" />access will be limited by agencies beholden to the political system (with all the attendant opportunities for incompetence, indolence, corruption and abuse)<Node id="3410" />, or both. 
+ Most likely both. 
+ <Node id="3443" />I oppose the Democratic health care plan because I'm certain it will make problems worse, not better. 
+<Node id="3546" />
+ But I also think good health care reform is possible. 
+ <Node id="3604" />I have seen ideas with elements that, when combined, could do much better than the current plan. 
+<Node id="3702" />
+ Oregon Sen. Ron Wyden proposed some of them last year. 
+ <Node id="3761" />Martin Feldstein proposed another approach last fall in which every American would get vouchers with which to purchase health care insurance, with a deductible scaled to income calibrated to make consumers pay attention to costs but still be manageable under most families' budgets. 
+<Node id="4045" />
+ These aren't perfect ideas. 
+ But now that Scott Brown has been elected to the Senate, Obama will need to recalibrate his approach. 
+ If he can learn from the botched first attempt, open lines to all points on the political spectrum, and start mining them for ideas and cultivating them for allies, he has all the intellectual and personal tools to pull off real health care reform this summer, or maybe in 2011 -- and in the process establish his credibility to tackle the even bigger issues (our stagnant economy, global warming, terrorism) that lurk just beyond health care. 
+Ron Mock is an associate professor of political science and peace studies at George Fox University in Newberg.
+<Node id="4737" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="4737">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc012</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Ron,Mock</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">201001</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">Oregon,Live</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.oregonlive.com/opinion/index.ssf/2010/01/a_second_chance_to_get_health.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="rel" StartNode="49" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="rel" StartNode="1570" EndNode="1664">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">sside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="rel" StartNode="49" EndNode="61">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="1980" EndNode="2074">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">not_ethically_negotiated</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="2076" EndNode="2155">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="2461" EndNode="2569">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="2157" EndNode="2446">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="2987" EndNode="3152">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="3443" EndNode="3546">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">bill_will_hurt_healthcare_system</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="3227" EndNode="3250">
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="rel" StartNode="2656" EndNode="2667">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="3254" EndNode="3410">
+<Feature>
+  <Name className="java.lang.String">about-rel</Name>
+  <Value className="java.lang.String">r2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">loss</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_rationing</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="3761" EndNode="4045">
+<Feature>
+  <Name className="java.lang.String">prospect</Name>
+  <Value className="java.lang.String">gain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">vouchers_more_appropriate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">group</Name>
+  <Value className="java.lang.String">self-group</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">other_reforms_more_effective</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="3604" EndNode="3702">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">other_reforms_more_effective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="2615" EndNode="2985">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_disincentivize_consumption</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4737">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

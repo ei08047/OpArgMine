@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_devel_data_final/hc018.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Washington, get well soon: Reform must promote better health, not just more treatment
+BY DR. DAVID GRATZER
+ Months into an increasingly bitter health care debate, this much is increasingly clear: Both Republicans and Democrats have wasted too much time bickering about "sick care," giving short shrift to health and wellness.
+ <Node id="327" />Of course, reforming medical treatment - with its rising costs and uneven quality - is critical. 
+<Node id="425" />
+ But <Node id="431" />we can't tame future costs without addressing a major cost driver: the lousy state of our health.
+<Node id="529" />
+ <Node id="531" />Fans of socialized medicine keep complaining about lower American life expectancy - but few ever mention the fact that Americans work harder at smashing cars, taking bullets, smoking tar and (most of all) eating themselves to death than do people in other countries.
+<Node id="798" />
+ <Node id="800" />Today, we spend roughly 10 cents of every health care dollar just treating obesity and obesity-related illnesses. 
+<Node id="915" />
+ And i<Node id="922" />t's estimated that one-fifth of the rise in health costs between now and 2020 will be due to obesity alone.
+<Node id="1030" />
+ Computer programmers have a phrase, "garbage in, garbage out," meaning that even the best program can't fix bad input. 
+ It's a formula for the health debate, too. 
+ "Garbage in" describes <Node id="1221" />an America that's addicted to candy, cholesterol, Camels and the couch.
+<Node id="1293" />
+ <Node id="1295" />Worldwide statistics show that U.S. hospitals are the best places to be if you're really sick. 
+<Node id="1391" />
+ But doctors can  fix only so much. 
+ <Node id="1430" />Far better to cut health care costs by preventing illness in the first place.
+<Node id="1508" />
+ <Node id="1510" />There's honest disagreement on how to accomplish this. 
+ Liberals tend to look to education initiatives and soda taxes. 
+ I prefer to replace agricultural subsidies for unhealthy food with strong incentives for better health.
+<Node id="1736" />
+ <Node id="1738" />Whatever the solution, though, it won't cost a trillion dollars.
+<Node id="1803" />
+ To take just one example: A recently published, nine-year Stanford study found that one in five people could cut cardiovascular disease risk in half simply by walking for 30 minutes a week. 
+ No new federal government agency required.
+ But at the rate things are going in Washington, <Node id="2089" />the financial incentives to destroy yourself and wait for your doctor to fix you will remain intact whether Obamacare becomes law or not. <Node id="2227" />
+ <Node id="2229" />Whether it's public or private, insurance still hides the real cost of your own unhealthy choices. 
+<Node id="2329" />
+ <Node id="2331" />Whether it's government money or your employer's, you'll still pay directly only 13 cents for every health care dollar you cost the system.
+<Node id="2471" />
+ There's a better way. 
+ Take supermarket chain Safeway's recent experiment in reforming health insurance. 
+ Frustrated by rising costs, company executives made some simple observations: It's in employees' personal interest to quit smoking, since smoking can kill them; it's in the company's interest for employees to quit smoking, since smokers cost more in health expenses.
+ So <Node id="2852" />Safeway redesigned its health insurance, paying employees literally to butt out, and offering bonuses for other healthy decisions. 
+ This achieved powerful results<Node id="3015" /> - keeping health care costs flat for four years in a row, while health insurance costs in corporate America grew almost 40% in the same period.
+ <Node id="3161" />The proposed "health" reform laws in front of Congress move in the opposite direction, seeking to make premiums the same for everyone regardless of personal choices. 
+<Node id="3328" />
+ A Senate amendment would allow companies like Safeway to continue with their tailored plans - if and only if the health and human services secretary agrees.
+ The bitter health care debate might be just a teaser for a true national debate on self-health. 
+ If the President wants to be on the right side of that debate, he should ask Congress to encourage programs like Safeway's.
+ From there, we have many other pressing problems to grapple with. Federal agricultural subsidies have fueled a diabetes epidemic; school lunch programs have introduced a new generation of underprivileged children to junk food; physical education has fallen off the curriculum in too many schools.
+ The health care debate is in a very sick state. 
+ To turn it around, we need a powerful dose of health and wellness.
+<Node id="4126" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="4126">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc018</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">David,Gratzer</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">nydailynews,New,York,Daily,News</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20090923</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.nydailynews.com/opinions/2009/09/23/2009-09-23_washington_get_well_soon.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="arg" StartNode="327" EndNode="425">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_costs_out-of-control</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="431" EndNode="529">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unhealthy_lifestyles_not_addressed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="rel" StartNode="531" EndNode="798">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unhealthy_lifestyles_not_addressed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="800" EndNode="915">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unhealthy_lifestyles_not_addressed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="922" EndNode="1030">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unhealthy_lifestyles_not_addressed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="1221" EndNode="1293">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unhealthy_lifestyles_not_addressed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="arg" StartNode="1295" EndNode="1391">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_quality_good</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="1430" EndNode="1508">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">dealing_with_unhealthy_lifestyles_more_effective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="rel" StartNode="1510" EndNode="1736">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">dealing_with_unhealthy_lifestyles_more_effective</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="1738" EndNode="1803">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">too_expensive_for_govt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2089" EndNode="2227">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unhealthy_lifestyles_not_addressed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2229" EndNode="2329">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_disincentivize_consumption</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="2331" EndNode="2471">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_disincentivize_consumption</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="2852" EndNode="3015">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">dealing_with_unhealthy_lifestyles_more_effective</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="3161" EndNode="3328">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">unhealthy_lifestyles_not_addressed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4126">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

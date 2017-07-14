@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/E:/Users/conrada/Documents/My%20Dropbox/healthcare_data/training_2/hc059.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />AMERIHEALTH BOSS: <Node id="18" />Health-Care Reform Will Boost The Economy<Node id="59" />&#xd;
+September 29, 2011&#xd;
+By Jim Tayoun&#xd;
+<Node id="96" />&#xd;
+<Node id="98" />CEO Michael A. Rashid&#xd;
+<Node id="121" />&#xd;
+<Node id="123" />AmeriHealth Mercy Family of Companies President and CEO Michael A. Rashid said <Node id="202" />the Affordable Care Act, which will extend health-insurance coverage for Americans and is expected to expand Medicaid enrollment, is also likely to create jobs as it provides an economic stimulus for the country<Node id="413" />.&#xd;
+<Node id="416" />&#xd;
+<Node id="418" />&#x201c;<Node id="419" />Medicaid expenditures drive an important economic engine that supports hospitals, physicians, medical equipment providers, pharmacists and nursing homes<Node id="571" />. In part, these expenditures have contributed to employment growth,&#x201d; Rashid said.&#xd;
+<Node id="655" />&#xd;
+<Node id="657" />&#x201c;<Node id="658" />The Affordable Care Act also provides for significant investments in community health centers, which have long been an important source of access to care for the nation&#x2019;s vulnerable populations<Node id="851" />,&#x201d; he said. &#x201c;<Node id="864" />Over the next five years, the law provides $11 billion in funding for the operation, expansion and construction of community health centers nationally<Node id="1014" />. <Node id="1016" />These centers provide high-quality jobs in many of the nation&#x2019;s most economically distressed communities<Node id="1120" />.&#x201d;&#xd;
+<Node id="1124" />&#xd;
+<Node id="1126" />Rashid made the remarks while speaking on <Node id="1168" />a distinguished health-care panel, &#x201c;The Politics of Race and Health Equity<Node id="1242" />,&#x201d; at the Congressional Black Caucus Foundation&#x2019;s Annual Legislative Conference in Washington.&#xd;
+<Node id="1338" />&#xd;
+<Node id="1340" />Rashid said that in Pennsylvania, where AmeriHealth Mercy is based, <Node id="1408" />every Medicaid dollar spent generates $2.77 more in economic activity<Node id="1477" />, according to the Commonwealth&#x2019;s Dept of Public Welfare. He also said that in paying for members&#x2019; care, managed care organizations like AmeriHealth Mercy reinvest 93 percent of the $12.2 billion of federal Medicaid funding for Pennsylvania in local communities.&#xd;
+<Node id="1741" />&#xd;
+<Node id="1743" />He said that while all but one of the state&#x2019;s 67 counties added jobs in the health-care sector in recent years, <Node id="1855" />the benefit of additional Medicaid funding will extend to other businesses<Node id="1929" />.&#xd;
+<Node id="1932" />&#xd;
+<Node id="1934" />&#x201c;<Node id="1935" />Health care reform is projected to benefit businesses that mine large databases of clinical and administrative data to help providers do predictive analysis<Node id="2091" />,&#x201d; Rashid said. &#x201c;It should benefit IT companies that can help states with streamlined eligibility systems and exchange platforms.&#x201d;&#xd;
+<Node id="2223" />&#xd;
+<Node id="2225" />Also expected to benefit are businesses owned by minorities and women<Node id="2294" />, Rashid told the audience. State governments typically require Medicaid health plans to have staff represent the racial, ethnic and cultural diversity of the people they serve and to meet commitments to disadvantaged businesses when bidding for business. <Node id="2550" />AmeriHealth Mercy, for example, has invested more than $30 million in women- and minority-owned businesses since 2007, meeting or exceeding its purchasing expenditure target each year<Node id="2733" />.&#xd;
+<Node id="2736" />&#xd;
+<Node id="2738" />&#x201c;<Node id="2739" />Not only does Medicaid reduce health disparities, by virtue of those it serves, but it also can reduce economic disparities for women- and minority-owned businesses<Node id="2903" />,&#x201d; Rashid said.&#xd;
+<Node id="2920" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="11" Type="doc" StartNode="0" EndNode="2920">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc059</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">jim,tayoun</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">philadelphia,public,record</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20110929</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">pro</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.phillyrecord.com/2011/09/amerihealth-boss-health-care-reform-will-boost-the-economy/</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="18" EndNode="59">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="202" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="arg" StartNode="658" EndNode="851">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_funding_for_community_health_centers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rel" StartNode="419" EndNode="571">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">promotes_jobs</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="arg" StartNode="1408" EndNode="1477">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="arg" StartNode="864" EndNode="1014">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">improves_funding_for_community_health_centers</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="arg" StartNode="1935" EndNode="2091">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="arg" StartNode="1855" EndNode="1929">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_economy</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="arg" StartNode="2739" EndNode="2903">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_marginalized_groups</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="arg" StartNode="2225" EndNode="2294">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_marginalized_groups</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="arg" StartNode="1168" EndNode="1242">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_marginalized_groups</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="arg" StartNode="1016" EndNode="1120">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">promotes_jobs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="rel" StartNode="2550" EndNode="2733">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">helps_marginalized_groups</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="96">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="98" EndNode="121">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="123" EndNode="416">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="418" EndNode="655">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="657" EndNode="1124">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="1126" EndNode="1338">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="1340" EndNode="1741">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="1743" EndNode="1932">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="1934" EndNode="2223">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="2225" EndNode="2736">
+</Annotation>
+<Annotation Id="10" Type="paragraph" StartNode="2738" EndNode="2920">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

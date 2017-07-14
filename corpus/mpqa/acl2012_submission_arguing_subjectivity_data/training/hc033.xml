@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/conrada/Dropbox/healthcare_devel_data_final/hc033.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Obamacare will fail without tort reform<Node id="39" />: <Node id="41" />Malpractice insurance costs are crippling medicine
+<Node id="92" />
+BY DR. MICHAEL LAVYNE
+ I am what you call a successful neurosurgeon, and I have nothing against "socialized medicine" as such. 
+ <Node id="222" />Everybody deserves good health care.<Node id="258" /> 
+ But <Node id="265" />I am nonetheless worried about President Obama's health care reform, because without tort reform as part of the package, it can't address the labor shortage we face in my specialty.
+<Node id="447" />
+ <Node id="449" />Tort reform is crucial because it would curtail the threat of frivolous malpractice lawsuits<Node id="541" />, <Node id="543" />reward all patients who have been injured by medical mishaps, not just the wealthy with access to high-powered lawyers - and reduce the anxieties faced by young doctors going into medicine in the first place, especially those entering high-stakes fields<Node id="796" /> like my own.
+ For example, I just operated on a 60-year old man who didn't even know his surgery was an emergency. 
+ He was losing motor function in his lower extremities due to severe spinal stenosis, and we were able to move quickly because we were free of insurance issues. 
+ But what if those insurance issues were paramount? What if somebody like me wasn't available, to anybody, because the supply of neurosurgeons had dried up - because the costs of letting them operate were too high? Would he still be walking?
+ Good doctors have always been in short supply; why worry especially about neurosurgery?
+ Only because spinal problems affect nearly 80% of our aging population: It's one of the most common reasons patients visit a primary care physician, right behind the yearly physical, the common cold, prenatal care and anxiety-related disorders. 
+ <Node id="1654" />Baby boomers are about to overwhelm the system with demand for treatment of spinal problems - including surgery - at precisely the moment the supply of neurosurgeons able to treat them is dwindling.
+<Node id="1853" />
+ How could this have happened? How could we have a labor shortage in one of the most lucrative, prestigious and desperately needed medical specialties?
+ One reason is the difficulty of getting certified, which makes sense. 
+ In May of 2009, the American Board of Neurological Surgeons certified 59 individuals as capable of tasks required of their specialty. But only about 30% of them, just 18 people, were ready to perform the surgeries that might solve the spinal problems of an aging population. 
+ <Node id="2356" />The average age of these people was 37, they all carried loans from medical school and malpractice insurance premiums they faced were about $4.5 million a year if they settled in this state.
+<Node id="2547" />
+ Thus we come to the second reason: <Node id="2584" />the cost of malpractice insurance, which creates a very high cost of entry into this field. 
+<Node id="2677" />
+ <Node id="2679" />Unfortunately, the health care reforms of the Obama administration have done little to curb costs. 
+<Node id="2779" />
+ These costs are imposed by hospital inefficiencies as unpoliced by government-run insurance plans and by the price of malpractice insurance undisciplined by tort reform.
+ <Node id="2952" />I believe that tort reform is the key to reducing both kinds of cost<Node id="3020" />, because <Node id="3030" />the malignant threat of malpractice haunts the hospitals as well as the physicians. 
+ Without such reform, the choice for practicing neurosurgeons like me is between retirement and working 24/7 just to cover my insurance overhead. 
+ My premature retirement will reduce the supply of surgeons capable of dealing with the spinal problems of an aging population - and that supply is already short and getting shorter. 
+ Meanwhile, a few more board-certified surgeons a year won't meet the growing demand. 
+<Node id="3533" />
+ <Node id="3535" />The lines at your doctor's office could get long.
+<Node id="3585" />
+ <Node id="3587" />When Congress returns to consider the problem of health care, it must understand that without tort reform, neurosurgery of the kind I can provide to an aging population will be unavailable.
+<Node id="3777" />
+Lavyne is Clinical Professor of Neurological Surgery at Weill Cornell Medical College of Cornell University in New York City.
+<Node id="3904" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="doc" StartNode="0" EndNode="3904">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">hc033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">author</Name>
+  <Value className="java.lang.String">Michael,Lavyne</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">source</Name>
+  <Value className="java.lang.String">nydailynews,New,York,Daily</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">date</Name>
+  <Value className="java.lang.String">20101119</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">side</Name>
+  <Value className="java.lang.String">anti</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">url</Name>
+  <Value className="java.lang.String">http://www.nydailynews.com/opinions/2010/11/19/2010-11-19_obamacare_will_fail_without_tort_reform_malpractice_insurance_costs_are_cripplin.html </Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="arg" StartNode="0" EndNode="39">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">lacks_tort_reform</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="arg" StartNode="41" EndNode="92">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="arg" StartNode="222" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="arg" StartNode="265" EndNode="447">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="arg" StartNode="449" EndNode="541">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="rel" StartNode="543" EndNode="796">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="arg" StartNode="3587" EndNode="3777">
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="arg" StartNode="3535" EndNode="3585">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="arg" StartNode="2679" EndNode="2779">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">does_not_control_healthcare_costs</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="arg" StartNode="2584" EndNode="2677">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">malpractice_insurance_too_expensive</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">incomplete</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="arg" StartNode="2952" EndNode="3020">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">positive</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="rel" StartNode="3030" EndNode="3533">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">tort_reform_needed</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="arg" StartNode="1654" EndNode="1853">
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">healthcare_supply_is_too_small</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">unclear</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">polarity</Name>
+  <Value className="java.lang.String">negative</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="rel" StartNode="2356" EndNode="2547">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">label</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ss-label</Name>
+  <Value className="java.lang.String">malpractice_insurance_too_expensive</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="3904">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
