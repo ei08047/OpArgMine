@@ -1,0 +1,36 @@
+
+
+
+
+By Topic:
+
+	Argumentation Mining:
+
+		Argumentation Mining: Where are we now, where do we want to be and how do we get there? -> This paper gives a short overview of the state-of-the-art and goals of argumentation mining and it provides ideas for further research; Moens
+
+
+	Opinion Mining:
+
+		Identifying Collocations for Recognizing Opinions ->  The focus of this work is learning subjectivity clues from corpora ; Janyce Wiebe and Theresa Wilson and Matthew Bell
+
+		Identifyingexpressionsofopinionincontext -> tanapproachforidentifyingopinionexpressions that uses conditional random ﬁelds and we evaluate the approach at the expression-level ; EricBreckandYejinChoiandClaireCardie ; dataset=MPQA
+
+
+
+
+
+
+
+By Dataset:
+	IAC
+		AndThat’sAFact: DistinguishingFactualandEmotionalArgumentationinOnlineDialogue
+
+
+
+
+
+
+
+
+	Sara
+		Detecting Opinionated Claims in Online Discussions -> automatic detection of sentences that are opinionated claims, in which the author expresses a belief;  Sara Rosenthal and Kathleen McKeown 
